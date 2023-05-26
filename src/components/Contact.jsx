@@ -2,10 +2,10 @@ import React from "react"
 
 
 
-function App() {
+function Contact() {
   return(
     <div>
-      
+      <p>Hi  contect</p>
     </div>
   );
 
@@ -13,4 +13,4 @@ function App() {
   
 }
 
-export default App
+export default Contact

@@ -2,10 +2,10 @@ import React from "react"
 
 
 
-function App() {
+function Projects() {
   return(
     <div>
-      
+      <p>projects</p>
     </div>
   );
 
@@ -13,4 +13,4 @@ function App() {
   
 }
 
-export default App
+export default Projects

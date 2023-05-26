@@ -2,10 +2,10 @@ import React from "react"
 
 
 
-function App() {
+function About() {
   return(
     <div>
-      
+      <p>about</p>
     </div>
   );
 
@@ -13,4 +13,4 @@ function App() {
   
 }
 
-export default App
+export default About
