@@ -1,6 +1,6 @@
 {
   "name": "ndefinedindefined",
-  "private": true,
+  "private": flase,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
