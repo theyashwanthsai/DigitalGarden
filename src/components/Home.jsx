@@ -12,7 +12,7 @@ function Home() {
       </p>
       <div >
       
-      <SocialIcon url="https://github.com/theyashwanthsai" fgColor= "#ffff"/>
+      <SocialIcon url="https://github.com/theyashwanthsai" fgColor= "#ffff" />
       
       <SocialIcon url="https://twitter.com/yashwanthsai29" />
                     
