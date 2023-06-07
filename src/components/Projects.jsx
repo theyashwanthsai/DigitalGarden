@@ -17,7 +17,9 @@ function Projects() {
             {item.title}
           </a>{' '}
           - {item.description}
+          <p className="italic font-thin text-base p-3">{item.tags}</p>
         </p>
+        
       ))}
       
       
