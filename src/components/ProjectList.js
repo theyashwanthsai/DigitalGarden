@@ -12,6 +12,18 @@ const projects = [
       tags: "Python, Pygame",
     },
     {
+      title: 'BlogApp Backend',
+      description: 'Express server for my blog app',
+      link: 'https://github.com/theyashwanthsai/Blog-Backend',
+      tags: "Express, MongoDB, Nodejs, Javascript"
+    },
+    {
+      title: 'Workout Tracker',
+      description: 'Exercise Tracker microservice built with Javascript, Node.JS, Express, mongoDB, mongoose',
+      link: 'https://github.com/theyashwanthsai/Workout-Tracker-Backend',
+      tags: "Express, MongoDB, Nodejs, Javascript"
+    },
+    {
       title: 'ActionRPG',
       description: 'Trying to build my dream action rpg game like Zelda using python',
       link: 'https://github.com/theyashwanthsai/ActionRPG-Pygame',
@@ -61,5 +73,5 @@ const projects = [
     }
   ];
   
-  export default projects;
+export default projects;
   
