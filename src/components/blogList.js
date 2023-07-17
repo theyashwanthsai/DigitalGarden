@@ -1,20 +1,23 @@
-const blog = [{
+const blog = [
+    {
     
         title: 'Mastering Backend Development: The Ultimate Guide to Building a Nodejs Blog App Server. Part - 1',
         link: 'https://theyashwanthsai.hashnode.dev/mastering-backend-development-the-ultimate-guide-to-building-a-nodejs-blog-app-server-part-1',
         tags: "Nodejs, Expressjs, Backend"
       
 },
-              {
-                  title: 'What are Middlewares? A Comprehensive Guide for Programmers to Level Up Their Application Development',
+    
+{
+        title: 'What are Middlewares? A Comprehensive Guide for Programmers to Level Up Their Application Development',
         link: 'https://theyashwanthsai.hashnode.dev/what-are-middlewares-a-comprehensive-guide-for-programmers-to-level-up-their-application-development',
         tags: "Nodejs, Expressjs, Backend"
-              },
-              {
-                  title: 'Mastering Backend Development: The Ultimate Guide to Building a Nodejs Blog App Server. Part - 2',
+},
+    
+{
+        title: 'Mastering Backend Development: The Ultimate Guide to Building a Nodejs Blog App Server. Part - 2',
         link: 'https://theyashwanthsai.hashnode.dev/mastering-backend-development-the-ultimate-guide-to-building-a-nodejs-blog-app-server-part-2',
         tags: "Nodejs, Expressjs, Backend"
-              },
+},
               
 {
     
