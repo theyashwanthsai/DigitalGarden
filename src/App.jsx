@@ -84,7 +84,7 @@ function App() {
 
 
 
-    <div className="bg-white dark:bg-gray-900 text-stone-900 dark:text-stone-300 min-h-screen font-inter">
+    <div className="bg-white dark:bg-gray-950 text-stone-900 dark:text-stone-300 min-h-screen font-inter">
     <BrowserRouter>
       <Header />
         <Routes>
