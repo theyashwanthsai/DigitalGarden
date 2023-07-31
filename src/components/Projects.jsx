@@ -11,8 +11,11 @@ function Projects() {
         Projects are what I have been building from the past two years. 
         Here are few of the projects I built while exploring various fields of interest. </p>
       <div className="md:w-2/4 ">
+        
+
+        
       {projects.map((item, index) => (
-        <p key={index} className="p-3 mt-2 text-lg border-4 rounded-xl">
+        <p key={index} className="p-9 mt-2 text-lg border-4 rounded-2xl">
           <a className="underline font-semibold" href={item.link}>
             {item.title}
           </a>{' '}
