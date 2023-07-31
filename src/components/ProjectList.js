@@ -12,6 +12,24 @@ const projects = [
       tags: "Python, Pygame",
     },
     {
+      title: 'Toy Chess Engine',
+      description: 'Creating my own tiny toy chess engine for fun... and to learn more about chess programming :)',
+      link: 'https://github.com/theyashwanthsai/ToyChessEngine',
+      tags: "Python, scikit-learn"
+    },
+    {
+      title: 'jungleGPT',
+      description: 'Full Stack ML App. Pokedex for real life animals. User describes an animal he wants to know more about, and the app displays an image and a small description.',
+      link: 'https://github.com/theyashwanthsai/jungleGPT',
+      tags: "nodejs, reactjs, expressjs, openai, tailwind-css, vitejs"
+    },
+    {
+      title: 'Flight-Fare-Prediction',
+      description: 'Predicting the fare of flight tickets using ML, and building a streamlit webapp to implement it.',
+      link: 'https://github.com/theyashwanthsai/Flight-Fare-Prediction',
+      tags: "Python, scikit-learn, Streamlit"
+    },
+    {
       title: 'BlogApp Backend',
       description: 'Express server for my blog app',
       link: 'https://github.com/theyashwanthsai/Blog-Backend',
@@ -33,14 +51,9 @@ const projects = [
       title: 'Anime Recommendation System',
       description: 'A web app built with the help of Streamlit and using the Kaggle dataset to build a simple anime recommendation system.',
       link: 'https://github.com/theyashwanthsai/Anime-Recommendation-System',
-      tags: "Python, scikit-learn"
+      tags: "Python, scikit-learn, Streamlit"
     },
-    {
-      title: 'Toy Chess Engine',
-      description: 'Creating my own tiny toy chess engine for fun... and to learn more about chess programming :)',
-      link: 'https://github.com/theyashwanthsai/ToyChessEngine',
-      tags: "Python, scikit-learn"
-    },
+    
     {
       title: 'Theft Detection System',
       description: 'A project made using Arduino, UltraSonic sensor, PIR sensor which detects any movement within a specific range from the sensor and lights up the LED.',

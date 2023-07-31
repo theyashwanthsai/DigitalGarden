@@ -8,7 +8,7 @@ function Blog() {
       <h1 className = "p-5 text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">Blogs</h1>
       <div className="md:w-2/4 ">
       {blog.map((item, index) => (
-        <p key={index} className="p-3 mt-2 text-lg border-4 rounded-xl">
+        <p key={index} className="p-9 mt-2 text-lg border-4 rounded-2xl">
           <a className="underline font-semibold" href={item.link}>
             {item.title}
           </a>{' '}
