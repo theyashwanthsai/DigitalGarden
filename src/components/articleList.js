@@ -1,4 +1,4 @@
-const blog = [{
+const articles = [{
     
         title: 'Mastering Backend Development: The Ultimate Guide to Building a Nodejs Blog App Server. Part - 1',
         link: 'https://theyashwanthsai.hashnode.dev/mastering-backend-development-the-ultimate-guide-to-building-a-nodejs-blog-app-server-part-1',
@@ -43,5 +43,5 @@ const blog = [{
 
 ]
 
-export default blog;
+export default articles;
 // Vim 101

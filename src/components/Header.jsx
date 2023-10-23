@@ -13,7 +13,7 @@ function Header() {
           <a   className="p-3" href="">About</a> */}
           <Link to = "/" className="p-3" >Home</Link>
           <Link to = "/projects" className="p-3" href="">Projects</Link>
-          <Link to = "/blog" className="p-3" href="">Blogs</Link>
+          <Link to = "/articles" className="p-3" href="">Articles</Link>
           <Link to = "/about" className="p-3" href="">Me</Link>
         
         </nav>

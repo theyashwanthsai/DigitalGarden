@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react"
 
 import Header from "./components/Header";
 import Home from "./components/Home";
-import Blog from "./components/Blog";
+import Articles from "./components/Articles";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
@@ -89,7 +89,7 @@ function App() {
       <Header />
         <Routes>
           <Route exact path="/" element={<Home />} />
-          <Route path="/blog" element={<Blog />} />
+          <Route path="/articles" element={<Articles />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/about" element={<About />} />
         </Routes>

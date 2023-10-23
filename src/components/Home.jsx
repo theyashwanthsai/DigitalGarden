@@ -1,8 +1,5 @@
 import React, { useEffect, useRef } from "react";
 import { SocialIcon } from 'react-social-icons';
-import * as THREE from "three";
-import myFontJSON from "./myFontJSON.json";
-import Typewriter from 'typewriter-effect';
 
 
 
@@ -17,26 +14,9 @@ function Home() {
 
   return(
     <div className="p-5 flex items-center justify-center flex-col text-left pt-20 pb-6">
-      {/* <h1 className="p-5 text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">Sai Yashwanth</h1>
-       */}
-<div className="p-5 flex items-center justify-center flex-col text-left pt-20 pb-6">
-<div className="p-5 text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">
-<Typewriter 
-  onInit={(typewriter) => {
-    typewriter.typeString('Sai Yashwanth!')
-      .callFunction(() => {
-        console.log('String typed out!');
-      })
-      .pauseFor(2500)
-      .deleteAll()
-      .callFunction(() => {
-        console.log('All strings were deleted');
-      })
-      .start();
-  }}
-/>
-</div>
-</div>
+      <h1 className="p-5 text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">Sai Yashwanth</h1>
+      
+
       
       <img className = "h-100 w-96 object-cover rounded-3xl" src="./img.jpeg" alt="a cool pic" />
       {/* <div ref={containerRef} className=""></div> */}
