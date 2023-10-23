@@ -1,40 +1,36 @@
-// import React, { useState, useEffect } from 'react';
-// import ReactMarkdown from 'react-markdown';
-// import { useParams } from 'react-router-dom';
+import React, { useState, useEffect } from "react";
+import { useParams } from "react-router-dom";
+import ReactMarkdown from "react-markdown";
 
-// const Article = () => {
-//   const { slug } = useParams();
-//   const [articleContent, setArticleContent] = useState('');
-
-//   useEffect(() => {
-//     import(`./content/${slug}.md`)
-//       .then((module) => {
-//         setArticleContent(module.default);
-//       })
-//       .catch((error) => {
-//         console.error(`Error loading content for ${slug}:`, error);
-//         // You can set some default content or redirect to an error page here
-//       });
-//   }, [slug]);
-
-//   return (
-//     <div className="p-5">
-//       <ReactMarkdown source={articleContent} />
-//     </div>
-//   );
-// };
-
-// export default Article;
-import React from 'react';
-import { useParams } from 'react-router-dom';
-
-const Article = () => {
+function ArticlePage() {
   const { slug } = useParams();
+  const [markdownContent, setMarkdownContent] = useState("");
+
+  useEffect(() => {
+    const fetchMarkdown = async () => {
+      try {
+        const response = await fetch(`/content/${slug}.md`);
+        if (response.ok) {
+          const markdownFile = await response.text();
+          setMarkdownContent(markdownFile);
+        } else {
+          console.error("Error fetching the Markdown file");
+        }
+      } catch (error) {
+        console.error(error);
+      }
+    };
+    fetchMarkdown();
+  }, [slug]);
+
   return (
     <div className="p-5">
-      <p>Loading article with slug: {slug}</p>
+      <ReactMarkdown>{markdownContent}</ReactMarkdown>
     </div>
   );
-};
+}
 
-export default Article;
+
+
+export default ArticlePage;
+// `../content/${slug}.md`
