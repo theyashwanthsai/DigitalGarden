@@ -2,11 +2,12 @@ import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 // import Markdown from "react-markdown";
 // import gfm from 'remark-gfm';
-import Markdown from 'markdown-to-jsx'
+import Markdown from 'marked-react'
 
 
 function ArticlePage() {
   const { slug } = useParams();
+  // const markdownContent = '# A demo of `react-markdown`'
   const [markdownContent, setMarkdownContent] = useState("");
 
   useEffect(() => {
@@ -27,8 +28,8 @@ function ArticlePage() {
   }, [slug]);
 
   return (
-    <div className="p-10">
-            {/* <Markdown remarkPlugins={[gfm]}>{markdownContent}</Markdown> */}
+    <div className="p-10 markdown">
+            {console.log(markdownContent)}
             <Markdown>{markdownContent}</Markdown>
     </div>
   );
