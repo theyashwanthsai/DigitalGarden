@@ -50,4 +50,3 @@ const articles = [{
 ]
 
 export default articles;
-// Vim 101
