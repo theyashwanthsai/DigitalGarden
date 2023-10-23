@@ -27,7 +27,7 @@ function Projects() {
 
 
 
-
+      <p>When a measure becomes a target, it ceases to be a good measure - Goodhart's Law</p>
       <p className="p-2 text-xl  mb-6 font-semibold md:w-2/4">
         I always believe in learning by building. 
         Projects are what I have been building from the past two years. 
