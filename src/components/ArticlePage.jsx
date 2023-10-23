@@ -1,6 +1,9 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-import ReactMarkdown from "react-markdown";
+// import Markdown from "react-markdown";
+// import gfm from 'remark-gfm';
+import Markdown from 'markdown-to-jsx'
+
 
 function ArticlePage() {
   const { slug } = useParams();
@@ -24,8 +27,9 @@ function ArticlePage() {
   }, [slug]);
 
   return (
-    <div className="p-5">
-      <ReactMarkdown>{markdownContent}</ReactMarkdown>
+    <div className="p-10">
+            {/* <Markdown remarkPlugins={[gfm]}>{markdownContent}</Markdown> */}
+            <Markdown>{markdownContent}</Markdown>
     </div>
   );
 }
