@@ -1,6 +1,6 @@
 import React from "react"
 import articles from "./articleList"
-
+import { Link } from 'react-router-dom';
 
 function Articles() {
   return(
@@ -10,10 +10,9 @@ function Articles() {
       </div>
       <div className="md:w-2/4 ">
       {articles.map((item, index) => (
+        
         <p key={index} className="p-9 mt-2 text-lg border-4 rounded-2xl">
-          <a className="underline font-semibold" href={item.link}>
-            {item.title}
-          </a>{' '}
+            <Link to= {`/articles/${item.slug}`}>{item.title}</Link>
           <p className="italic font-thin text-base p-3">{item.tags}</p>
         </p>
         
@@ -21,9 +20,6 @@ function Articles() {
       </div>
     </div>
   );
-
-  
-  
 }
 
 export default Articles
