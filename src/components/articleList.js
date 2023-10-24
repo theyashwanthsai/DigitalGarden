@@ -1,10 +1,15 @@
-const articles = [{
-    
-        title: 'Mastering Backend Development: The Ultimate Guide to Building a Nodejs Blog App Server. Part - 1',
-        link: 'https://theyashwanthsai.hashnode.dev/mastering-backend-development-the-ultimate-guide-to-building-a-nodejs-blog-app-server-part-1',
-        tags: "Nodejs, Expressjs, Backend",
-        slug: 'masteringbackend1'
-      
+const articles = [
+{
+    title: "Let's Build A Simple Programming Language. Part 1.",
+    link: 'https://theyashwanthsai.hashnode.dev/mastering-backend-development-the-ultimate-guide-to-building-a-nodejs-blog-app-server-part-2',
+    tags: "Compiler Design, Interpreters",
+    slug: 'learning1'
+},
+{
+    title: 'Mastering Backend Development: The Ultimate Guide to Building a Nodejs Blog App Server. Part - 2',
+       link: 'https://theyashwanthsai.hashnode.dev/mastering-backend-development-the-ultimate-guide-to-building-a-nodejs-blog-app-server-part-2',
+    tags: "Nodejs, Expressjs, Backend",
+    slug: 'masteringbackend2'
 },
 {
     title: 'What are Middlewares? A Comprehensive Guide for Programmers to Level Up Their Application Development',
@@ -14,10 +19,12 @@ const articles = [{
 },
 
 {
-    title: 'Mastering Backend Development: The Ultimate Guide to Building a Nodejs Blog App Server. Part - 2',
-    link: 'https://theyashwanthsai.hashnode.dev/mastering-backend-development-the-ultimate-guide-to-building-a-nodejs-blog-app-server-part-2',
+    
+    title: 'Mastering Backend Development: The Ultimate Guide to Building a Nodejs Blog App Server. Part - 1',
+    link: 'https://theyashwanthsai.hashnode.dev/mastering-backend-development-the-ultimate-guide-to-building-a-nodejs-blog-app-server-part-1',
     tags: "Nodejs, Expressjs, Backend",
-    slug: 'masteringbackend2'
+    slug: 'masteringbackend1'
+  
 },
 {
     

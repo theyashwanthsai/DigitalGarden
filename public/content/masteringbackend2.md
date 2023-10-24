@@ -17,36 +17,22 @@ Below are the list of routes we will add.
 The file structure:
 
 ```plaintext
-- app.js (or index.js)                
-# Entry point of your application
-- models/                             
-# Directory for MongoDB models
-  - User.js                              
-  # User model definition
-  - Post.js                              
-  # Post model definition
-- routes/                             
-# Directory for route handlers
-  - authRoutes.js                        
-  # Authentication routes
-  - postsRoutes.js                       
-  # Post-related routes
-  -profileRoutes.js                      
-  # Profile, like, bookmarks routes           
-- controllers/                        
-# Directory for controllers
-  - authController.js                    
-  # Authentication controller
-  - postController.js                    
-  # Post controller
-  - commentContoller.js                  
-  # Comment controller
-  - profileController.js                 
-  # Profile, like, bookmarks
-- middlewares/                        
-# Directory for middleware functions
-  - authentication.js                 
-  # Authentication middleware
+- app.js (or index.js)                # Entry point of your application
+- models/                             # Directory for MongoDB models
+  - User.js                              # User model definition
+  - Post.js                              # Post model definition
+- routes/                             # Directory for route handlers
+  - authRoutes.js                        # Authentication routes
+  - postsRoutes.js                       # Post-related routes
+  -profileRoutes.js                      # Profile, like, bookmarks routes           
+- controllers/                        # Directory for controllers
+  - authController.js                    # Authentication controller
+  - postController.js                    # Post controller
+  - commentContoller.js                  # Comment controller
+  - profileController.js                 # Profile, like, bookmarks
+- middlewares/                        # Directory for middleware functions
+  - authentication.js                 # Authentication middleware
+
 ```
 
 ## Create Posts
@@ -57,23 +43,23 @@ Once the post is successfully created, the endpoint returns a response with the 
 
 ~~~javascript
 const createPost = async (req, res) => {
-const { title, content, tags } = req.body;
-const author = req.user.username;
-const user = req.user;
-console.log(user);
-try {
+  const { title, content, tags } = req.body;
+  const author = req.user.username;
+  const user = req.user;
+  console.log(user);
+  try {
     const post = new Post({ title, content, tags, author });
     await post.save();
-    await User.findOneAndUpdate({ username: user.username }, 
-    { $push: { posts: post._id } });
+    //console.log(user._id);
+    //console.log(user.customId);
+    await User.findOneAndUpdate({ username: user.username }, { $push: { posts: post._id } });
 
-    res.json({ message: 'Post created successfully', 
-    postId: post._id });
-    } catch (error) {
-res.status(500).json({ message: 'An error occurred 
-while creating the post' });
-}
+    res.json({ message: 'Post created successfully', postId: post._id });
+  } catch (error) {
+    res.status(500).json({ message: 'An error occurred while creating the post' });
+  }
 };
+
 ~~~
 We create a post and save it in the database using await post.save();
 
@@ -91,20 +77,17 @@ const updatePost = async (req, res) => {
   const { title, content, tags } = req.body;
 
   try {
-    const post = await Post.findByIdAndUpdate(postId,
-    { title, content, tags }, { new: true });
+    const post = await Post.findByIdAndUpdate(postId, { title, content, tags }, { new: true });
     if (post) {
-      res.json({ message: 
-      'Post updated successfully' });
+      res.json({ message: 'Post updated successfully' });
     } else {
-      res.status(404).json({ message: 
-      'Post not found' });
+      res.status(404).json({ message: 'Post not found' });
     }
   } catch (error) {
-    res.status(500).json({ message: 
-    'An error occurred while updating the post' });
+    res.status(500).json({ message: 'An error occurred while updating the post' });
   }
 };
+
 ```
 We use the method findByIdAndUpdate to update the post using the id.
 
@@ -129,13 +112,14 @@ const deletePost = async (req, res) => {
     res.status(500).json({ message: 'An error occurred while deleting the post' });
   }
 };
+
 ```
 We use the method `findByIdAndDelete` to delete the post from the database.
 
 In postController.js
 
 
-```
+```javascript
 const Post = require('../models/Post');
 const User = require('../models/User');
 
@@ -149,14 +133,11 @@ const createPost = async (req, res) => {
     await post.save();
     console.log(user._id);
     console.log(user.customId);
-    await User.findOneAndUpdate({ username: user.username }, 
-    { $push: { posts: post._id } });
+    await User.findOneAndUpdate({ username: user.username }, { $push: { posts: post._id } });
 
-    res.json({ message: 'Post created successfully', 
-    postId: post._id });
+    res.json({ message: 'Post created successfully', postId: post._id });
   } catch (error) {
-    res.status(500).json({ message: 
-    'An error occurred while creating the post' });
+    res.status(500).json({ message: 'An error occurred while creating the post' });
   }
 };
 
@@ -165,16 +146,14 @@ const updatePost = async (req, res) => {
   const { title, content, tags } = req.body;
 
   try {
-    const post = await Post.findByIdAndUpdate(postId, 
-    { title, content, tags }, { new: true });
+    const post = await Post.findByIdAndUpdate(postId, { title, content, tags }, { new: true });
     if (post) {
       res.json({ message: 'Post updated successfully' });
     } else {
       res.status(404).json({ message: 'Post not found' });
     }
   } catch (error) {
-    res.status(500).json({ message: 
-    'An error occurred while updating the post' });
+    res.status(500).json({ message: 'An error occurred while updating the post' });
   }
 };
 
@@ -186,12 +165,10 @@ const deletePost = async (req, res) => {
     if (deletedPost) {
       res.json({ message: 'Post deleted successfully' });
     } else {
-      res.status(404).json({ message: 
-      'Post not found' });
+      res.status(404).json({ message: 'Post not found' });
     }
   } catch (error) {
-    res.status(500).json({ message: 
-    'An error occurred while deleting the post' });
+    res.status(500).json({ message: 'An error occurred while deleting the post' });
   }
 };
 
@@ -201,8 +178,7 @@ const getAllPosts = async (req, res) => {
     res.json({ posts });
   }
   catch(error){
-    res.status(500).json({ message: 
-    'An error occurred while fetching the post' });
+    res.status(500).json({ message: 'An error occurred while fetching the post' });
   }
 }
 
@@ -213,8 +189,7 @@ const getById = async (req, res) => {
     res.json({ post })
   }
   catch(error){
-    res.status(500).json({ message: 
-    'An error occurred while fetching the post' });
+    res.status(500).json({ message: 'An error occurred while fetching the post' });
   }
 }
 
@@ -225,8 +200,7 @@ const getTrendingPosts = async(req, res) => {
     res.json({ trendingPosts });
   } catch (error) {
     console.error(error);
-    res.status(500).json({ message: 
-    'An error occurred while fetching trending posts' });
+    res.status(500).json({ message: 'An error occurred while fetching trending posts' });
   }
 }
 module.exports = {
@@ -239,6 +213,7 @@ module.exports = {
   getTrendingPosts
 
 };
+
 ```
 Notice that we have some other functions as well. These are endpoints to get the blog posts. I leave this to you guys to understand them. Try chewing some glass. These are easier so I expect you get it. Feel free to comment down any doubts.
 
@@ -249,7 +224,7 @@ In `getTrendingPosts`, `const trendingPosts = await Post.find({}).sort({ likes: 
 Now in postRoutes.js
 
 
-```
+```javascript
 const express = require('express');
 const postController = require('../controllers/postController');
 const { authenticateJwt } = require('../middlewares/authentication');
@@ -271,7 +246,7 @@ Notice `router.delete('/post/:postId', authenticateJwt, postController.deletePos
 Now in app.js
 
 
-```
+```javascript
 const express = require('express');
 const mongoose = require('mongoose');
 const authRoutes = require('./routes/authRoutes');

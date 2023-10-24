@@ -44,7 +44,7 @@ app.get('/', (req, res) => {
 // Start the server
 const port = 3000;
 app.listen(port, () => {
-  console.log(`Server running on port ${port}`);
+  console.log(`Server is running on port ${port}`);
 });
 
 ```
@@ -77,6 +77,7 @@ const port = 3000;
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
+
 ```
 
 Here, The middleware is added using `app.get('/special', middlewareFunction, ...)`, where `middlewareFunction` is passed as an argument between the route path and the route handler function. When a request is made to the `'/special'` route, the `middlewareFunction` will be invoked before the route handler function `(req, res) => {...}`. Inside the middleware function, you can include any logic you need, such as authentication, authorization, or data manipulation specific to that route.
