@@ -11,7 +11,8 @@ struct node
     int data;
     struct node *next;
 };
-// We created a structure named node. It has data and a pointer named next.
+// We created a structure named node. 
+//It has data and a pointer named next.
 ```
 
 How to initialise the linkedlist?
