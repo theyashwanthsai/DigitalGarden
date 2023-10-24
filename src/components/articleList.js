@@ -3,7 +3,7 @@ const articles = [
     title: "Let's Build A Simple Programming Language. Part 1.",
     link: 'https://theyashwanthsai.hashnode.dev/mastering-backend-development-the-ultimate-guide-to-building-a-nodejs-blog-app-server-part-2',
     tags: "Compiler Design, Interpreters",
-    slug: 'learning1'
+    slug: 'language1'
 },
 {
     title: 'Mastering Backend Development: The Ultimate Guide to Building a Nodejs Blog App Server. Part - 2',
