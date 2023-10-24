@@ -30,7 +30,7 @@ function ArticlePage() {
 
   return (
     <div className="p-5 flex items-center justify-center flex-col text-left pt-5 pb-6 ">
-      <div className="markdown p-5 text-lg mb-6 border-4 w-2/4">
+      <div className="markdown p-5 text-lg mb-6 border-4  sm:w-4/5">
             <Markdown>{markdownContent}</Markdown>
       </div>
     </div>

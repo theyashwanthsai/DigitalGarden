@@ -64,8 +64,6 @@ console.log(user);
 try {
     const post = new Post({ title, content, tags, author });
     await post.save();
-    //console.log(user._id);
-    //console.log(user.customId);
     await User.findOneAndUpdate({ username: user.username }, 
     { $push: { posts: post._id } });
 
