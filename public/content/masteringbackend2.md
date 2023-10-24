@@ -77,15 +77,15 @@ while creating the post' });
 ~~~
 We create a post and save it in the database using await post.save();
 
-await User.findOneAndUpdate({ username: user.username }, { $push: { posts: post._id } }); helps in pushing the blogpost id to an array present in userSchema so we can keep track of the blogs written by a certain user.
+`await User.findOneAndUpdate({ username: user.username }, { $push: { posts: post._id } });` helps in pushing the blogpost id to an array present in userSchema so we can keep track of the blogs written by a certain user.
 
 Update a certain post
-Allowing users to update their blog posts is essential for keeping content up to date. To achieve this, we have implemented the PUT /posts/:postId endpoint. This endpoint accepts a JSON payload with the updated title and content of the blog post.
+Allowing users to update their blog posts is essential for keeping content up to date. To achieve this, we have implemented the `PUT /posts/:postId` endpoint. This endpoint accepts a JSON payload with the updated title and content of the blog post.
 
-By specifying the :postId parameter in the endpoint URL, we can identify the post to be updated. After a successful update, the endpoint responds with the updated post's details, including the modified title, content, etc. This way, users can see the changes they made reflected in their posts.
+By specifying the `:postId` parameter in the endpoint URL, we can identify the post to be updated. After a successful update, the endpoint responds with the updated post's details, including the modified title, content, etc. This way, users can see the changes they made reflected in their posts.
 
 
-```
+```javascript
 const updatePost = async (req, res) => {
   const postId = req.params.postId;
   const { title, content, tags } = req.body;
@@ -109,12 +109,12 @@ const updatePost = async (req, res) => {
 We use the method findByIdAndUpdate to update the post using the id.
 
 Delete a certain post
-In some cases, users may want to remove a blog post entirely. To accommodate this, we have implemented the DELETE /posts/:postId endpoint. By providing the :postId parameter in the URL, users can specify the post they wish to delete.
+In some cases, users may want to remove a blog post entirely. To accommodate this, we have implemented the `DELETE /posts/:postId` endpoint. By providing the `:postId` parameter in the URL, users can specify the post they wish to delete.
 
 Upon successful deletion, the endpoint returns a simple JSON response confirming the deletion. This ensures users are aware that their blog post has been removed from the system.
 
 
-COPY
+```javascript
 const deletePost = async (req, res) => {
   const postId = req.params.postId;
 
@@ -129,12 +129,13 @@ const deletePost = async (req, res) => {
     res.status(500).json({ message: 'An error occurred while deleting the post' });
   }
 };
-We use the method findByIdAndDelete to delete the post from the database.
+```
+We use the method `findByIdAndDelete` to delete the post from the database.
 
 In postController.js
 
 
-COPY
+```
 const Post = require('../models/Post');
 const User = require('../models/User');
 
@@ -148,11 +149,14 @@ const createPost = async (req, res) => {
     await post.save();
     console.log(user._id);
     console.log(user.customId);
-    await User.findOneAndUpdate({ username: user.username }, { $push: { posts: post._id } });
+    await User.findOneAndUpdate({ username: user.username }, 
+    { $push: { posts: post._id } });
 
-    res.json({ message: 'Post created successfully', postId: post._id });
+    res.json({ message: 'Post created successfully', 
+    postId: post._id });
   } catch (error) {
-    res.status(500).json({ message: 'An error occurred while creating the post' });
+    res.status(500).json({ message: 
+    'An error occurred while creating the post' });
   }
 };
 
@@ -161,14 +165,16 @@ const updatePost = async (req, res) => {
   const { title, content, tags } = req.body;
 
   try {
-    const post = await Post.findByIdAndUpdate(postId, { title, content, tags }, { new: true });
+    const post = await Post.findByIdAndUpdate(postId, 
+    { title, content, tags }, { new: true });
     if (post) {
       res.json({ message: 'Post updated successfully' });
     } else {
       res.status(404).json({ message: 'Post not found' });
     }
   } catch (error) {
-    res.status(500).json({ message: 'An error occurred while updating the post' });
+    res.status(500).json({ message: 
+    'An error occurred while updating the post' });
   }
 };
 
@@ -180,10 +186,12 @@ const deletePost = async (req, res) => {
     if (deletedPost) {
       res.json({ message: 'Post deleted successfully' });
     } else {
-      res.status(404).json({ message: 'Post not found' });
+      res.status(404).json({ message: 
+      'Post not found' });
     }
   } catch (error) {
-    res.status(500).json({ message: 'An error occurred while deleting the post' });
+    res.status(500).json({ message: 
+    'An error occurred while deleting the post' });
   }
 };
 
@@ -193,7 +201,8 @@ const getAllPosts = async (req, res) => {
     res.json({ posts });
   }
   catch(error){
-    res.status(500).json({ message: 'An error occurred while fetching the post' });
+    res.status(500).json({ message: 
+    'An error occurred while fetching the post' });
   }
 }
 
@@ -204,7 +213,8 @@ const getById = async (req, res) => {
     res.json({ post })
   }
   catch(error){
-    res.status(500).json({ message: 'An error occurred while fetching the post' });
+    res.status(500).json({ message: 
+    'An error occurred while fetching the post' });
   }
 }
 
@@ -215,7 +225,8 @@ const getTrendingPosts = async(req, res) => {
     res.json({ trendingPosts });
   } catch (error) {
     console.error(error);
-    res.status(500).json({ message: 'An error occurred while fetching trending posts' });
+    res.status(500).json({ message: 
+    'An error occurred while fetching trending posts' });
   }
 }
 module.exports = {
@@ -228,16 +239,17 @@ module.exports = {
   getTrendingPosts
 
 };
+```
 Notice that we have some other functions as well. These are endpoints to get the blog posts. I leave this to you guys to understand them. Try chewing some glass. These are easier so I expect you get it. Feel free to comment down any doubts.
 
 Note:
 
-In getTrendingPosts, const trendingPosts = await Post.find({}).sort({ likes: -1 }).limit(5) ; here "likes" is something we havent yet discussed, I will be discussing it in the next part.
+In `getTrendingPosts`, `const trendingPosts = await Post.find({}).sort({ likes: -1 }).limit(5) ;` here "likes" is something we havent yet discussed, I will be discussing it in the next part.
 
 Now in postRoutes.js
 
 
-COPY
+```
 const express = require('express');
 const postController = require('../controllers/postController');
 const { authenticateJwt } = require('../middlewares/authentication');
@@ -253,12 +265,13 @@ router.get('/post/:postId', authenticateJwt, postController.getById);
 router.get('/trending', authenticateJwt, postController.getTrendingPosts)
 
 module.exports = router;
-Notice router.delete('/post/:postId', authenticateJwt, postController.deletePost); We are using middlewares. I have covered middlewares in my previous blogpost. Please feel free to check that. This middleware is used to to authenticate the user, so that only registered, authorized users can access these specific routes.
+```
+Notice `router.delete('/post/:postId', authenticateJwt, postController.deletePost);` We are using middlewares. I have covered middlewares in my previous blogpost. Please feel free to check that. This middleware is used to to authenticate the user, so that only registered, authorized users can access these specific routes.
 
 Now in app.js
 
 
-COPY
+```
 const express = require('express');
 const mongoose = require('mongoose');
 const authRoutes = require('./routes/authRoutes');
@@ -284,5 +297,6 @@ app.use('', postRoutes);
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
   });
+```
 Conclusion
 We covered adding, updating and deleting blog posts in this article. In the next part, I will be discussing about comments, likes, bookmarks and user profile endpoints. Stay tuned till then :)
