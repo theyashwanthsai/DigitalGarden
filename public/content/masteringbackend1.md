@@ -30,7 +30,7 @@ Building a backend server for your blog app is a crucial step towards creating a
 
 **The File Structure:**
 
-graphql
+
 
 ```graphql
 - app.js (or index.js)                # Entry point of your application
@@ -60,7 +60,7 @@ We will be using a secret key to generate a token. This token will be used to ve
 
 This is the code snippet for a function which will verify whether the token is authorized or not. This can be used to secure our API routes so that only verified users (The one who is logged in) can access them.
 
-javascript
+
 
 ```javascript
 const authenticateJwt = (req, res, next) => {
@@ -84,7 +84,6 @@ const authenticateJwt = (req, res, next) => {
 
 In `authentication.js` file:
 
-javascript
 
 ```javascript
 const jwt = require('jsonwebtoken');
@@ -120,7 +119,7 @@ To login, we take the username and password from the user and check if it matche
 
 Code snippet for the signup function:
 
-javascript
+
 
 ```javascript
 const signup = async (req, res) => {
@@ -145,7 +144,7 @@ const signup = async (req, res) => {
 
 Code snippet for the login function:
 
-javascript
+
 
 ```javascript
 const login = async (req, res) => {
@@ -167,7 +166,7 @@ const login = async (req, res) => {
 
 `authController.js`:
 
-javascript
+
 
 ```javascript
 const jwt = require('jsonwebtoken');
@@ -223,7 +222,7 @@ These are the needed functions. Now we need to use these functions to perform on
 
 Let's say for my website - `random/hellouser`, I want to send a simple "hello, world." To achieve this:
 
-javascript
+
 
 ```javascript
 app.get('/hellouser', (req, res) => { 
@@ -235,7 +234,7 @@ We are specifying a route and then a function which will send "Hello, World!"
 
 Now in `authRoutes.js` file:
 
-javascript
+
 
 ```javascript
 const express = require('express');
@@ -251,7 +250,7 @@ module.exports = router;
 
 Now in `app.js`:
 
-javascript
+
 
 ```javascript
 const express = require('express');
@@ -317,7 +316,6 @@ module.exports = User;
 
 In `Post.js`:
 
-javascript
 
 ```javascript
 const mongoose = require('mongoose');
@@ -345,7 +343,6 @@ module.exports = Post;
 
 We have successfully defined the user and post Schema. Notice that in `app.js` we had:
 
-javascript
 
 ```javascript
 // MongoDB connection

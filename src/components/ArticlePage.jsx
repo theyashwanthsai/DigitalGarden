@@ -29,9 +29,30 @@ function ArticlePage() {
   }, [slug]);
 
   return (
-    <div className="lg:p-5 flex items-center justify-center flex-col text-left pt-5 pb-6">
-      <div className="markdown p-5 text-lg mb-6 border-4 w-11/12 lg:w-9/12 ">
-            <Markdown>{markdownContent}</Markdown>
+    <div className="lg:p-5 flex items-center justify-center flex-col text-left pt-5 pb-">
+      <div className="markdown p-5 text-lg mb-6 border-4 w-11/12 lg:w-9/12">
+      <Markdown
+          components={{
+            code: ({ node, inline, className, children, ...props }) => {
+              const match = /language-(\w+)/.exec(className || '');
+              return !inline && match ? (
+                <SyntaxHighlighter
+                  // style={dark}
+                  language={match[1]}
+                  PreTag="div"
+                  children={String(children).replace(/\n$/, '')}
+                />
+              ) : (
+                <code className={className} {...props}>
+                  {children}
+                </code>
+              );
+            }
+          }}
+        >
+          {markdownContent}
+        </Markdown>
+
       </div>
     </div>
     
