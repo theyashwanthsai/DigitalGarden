@@ -28,10 +28,12 @@ function ArticlePage() {
   }, [slug]);
 
   return (
-    <div className="p-10 markdown">
-            {console.log(markdownContent)}
+    <div className="p-5 flex items-center justify-center flex-col text-left pt-5 pb-6 ">
+      <div className="markdown p-10 text-lg max-w-xl mb-6">
             <Markdown>{markdownContent}</Markdown>
+      </div>
     </div>
+    
   );
 }
 
