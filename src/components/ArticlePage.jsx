@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-// import Markdown from "react-markdown";
-// import gfm from 'remark-gfm';
-import Markdown from 'marked-react'
-
+import Markdown from "react-markdown";
+import gfm from 'remark-gfm';
+// import Markdown from 'marked-react'
+import {Prism as SyntaxHighlighter} from 'react-syntax-highlighter'
+import {dark} from 'react-syntax-highlighter/dist/esm/styles/prism'
 
 function ArticlePage() {
   const { slug } = useParams();
@@ -29,7 +30,7 @@ function ArticlePage() {
 
   return (
     <div className="p-5 flex items-center justify-center flex-col text-left pt-5 pb-6 ">
-      <div className="markdown p-10 text-lg max-w-xl mb-6">
+      <div className="markdown p-5 text-lg mb-6 border-4 w-2/4">
             <Markdown>{markdownContent}</Markdown>
       </div>
     </div>
