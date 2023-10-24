@@ -1,4 +1,28 @@
 const projects = [
+   {
+    title: 'ZenScript',
+    description: 'Building my own programming language using python - To understand more about interpreters, compliers.',
+    link: 'https://github.com/theyashwanthsai/ZenScript',
+    tags: "Python"
+  },
+  {
+    title: 'TinyReact ',
+    description: 'Tiny React is a lightweight clone of the popular JavaScript library, React.',
+    link: 'https://github.com/theyashwanthsai/TinyReact',
+    tags: "Javascript"
+  },
+  {
+    title: 'TinyExpress',
+    description: 'TinyExpress is a lightweight and simplified clone of the popular Node.js web application framework, Express.js.',
+    link: 'https://github.com/theyashwanthsai/TinyExpress',
+    tags: "Javascript, nodejs"
+  },
+    {
+      title: 'Toy Chess Engine',
+      description: 'Creating my own tiny toy chess engine for fun... and to learn more about chess programming :)',
+      link: 'https://github.com/theyashwanthsai/ToyChessEngine',
+      tags: "Python, scikit-learn"
+    },
     {
       title: 'UltraSonicFPS',
       description: 'A 3d Exploration game played using our hand gestures',
@@ -10,12 +34,6 @@ const projects = [
       description: '3D raycasting engine similar to Doom/Wolfenstein made using python and pygame',
       link: 'https://github.com/theyashwanthsai/raycasting-3d-engine',
       tags: "Python, Pygame",
-    },
-    {
-      title: 'Toy Chess Engine',
-      description: 'Creating my own tiny toy chess engine for fun... and to learn more about chess programming :)',
-      link: 'https://github.com/theyashwanthsai/ToyChessEngine',
-      tags: "Python, scikit-learn"
     },
     {
       title: 'jungleGPT',

@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import { SocialIcon } from 'react-social-icons';
-
+import { Link } from 'react-router-dom';
 
 
 function Home() {
@@ -23,10 +23,12 @@ function Home() {
         Here's a rough map of this website:
 
         <br /> 
-        <b className="underline">Projects</b>: List of all the Projects I have worked on since I started this journey of computer science.
+        <b className="underline"><Link to = "/projects" className="" href="">Projects</Link></b>: List of all the Projects I have worked on since I started this journey of computer science.
         <br /> 
-        <b className="underline"> Articles</b>: List of some of the articles I have written. I try to share my learnings by writing articles, in hopes of helping someone in some way.
-        
+        <b className="underline"><Link to = "/articles" className="" href="">Articles</Link></b>: List of some of the articles I have written. I try to share my learnings by writing articles, in hopes of helping someone in some way.
+        <br />
+        <b className="underline"><a href = 'https://drive.google.com/file/d/1JjqfkjYx0AQkcvYRArhrohVgnzUQX1c7/view?usp=sharing'>Resume</a></b> - Heres my resume
+
 
       </p>
       <div className="flex">

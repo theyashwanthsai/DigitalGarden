@@ -11,7 +11,7 @@ function About() {
        You can check what I'm building <a className= "underline" href="https://github.com/theyashwanthsai">here</a>. 
       <br /> <br /> Follow me on Twitter, Linkedin, Github</p>
 
-      <h5 className="p-5 text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">Uses</h5>
+      <h5 className="p-5 text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">Tech</h5>
       <div className="p-5 text-lg max-w-xl mb-6 font-bold">
         <ul></ul>
       <p>
