@@ -50,6 +50,11 @@ const articles = [
     slug: 'linkedlist'
   
 },
+{
+    title: 'My First Hackathon',
+    tags: 'Hackathon, Experiences',
+    slug: 'hackathon'
+}
 
 
 
