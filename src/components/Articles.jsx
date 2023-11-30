@@ -8,6 +8,12 @@ function Articles() {
       <div className="p-5 text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">
         <h1 className = "p-5 text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">Articles</h1>
       </div>
+      <div className="p-2 text-xl  mb-6 font-semibold md:w-6/12">
+      <blockquote class="p-4 my-4 border-s-4 border-gray-300 bg-gray-50 dark:border-gray-500 dark:bg-gray-800">
+        <p class="text-xl italic font-medium leading-relaxed text-gray-900 dark:text-white">"You can make anything by writing." - C.S. Lewis</p>
+      </blockquote>
+      </div>
+      
       <div className="md:w-6/12 ">
       {articles.map((item, index) => (
         
