@@ -27,7 +27,7 @@ function Home() {
         <br /> 
         <b className="underline"><Link to = "/articles" className="" href="">Articles</Link></b>: List of some of the articles I have written. I try to share my learnings by writing articles, in hopes of helping someone in some way.
         <br />
-        <b className="underline"><a href = 'https://drive.google.com/file/d/1JjqfkjYx0AQkcvYRArhrohVgnzUQX1c7/view?usp=sharing'>Resume</a></b> - Heres my resume
+        <b className="underline"><a href = 'https://docs.google.com/document/d/1-OqzfYF25iUmStaX3Ab5BQlg8hyEi8BKh_dc1fZmyZI/edit?usp=sharing'>Resume</a></b> - Heres my resume
 
 
       </p>
