@@ -12,3 +12,16 @@ Hi there! My name is Sai Yashwanth, I am an Engineer and a builder. I love build
 [Resume](https://docs.google.com/document/d/1-OqzfYF25iUmStaX3Ab5BQlg8hyEi8BKh_dc1fZmyZI/edit?usp=sharing) - Heres my resume
 
 ### Timeline
+
+- **2021: Joined College**
+  - Started my journey in computer science.
+  - Made a lot of friends and learned a lot of things in life.
+
+- **2022 Nov: Gave my First Workshop**
+  - Gave a workshop on Linux for ethical hacking.
+
+- **2023-present: Intern at Vertexcover Technology**
+  - Joined Vertexcover Technology as a Dev Intern.
+
+- **2023 July-Sept: Worked as a Freelancer**
+  - Worked on automation projects for several clients.
