@@ -8,6 +8,7 @@ export default {
         inter:['inter', 'serif'],
       }
     },
+    
   },
   plugins: [],
 }
