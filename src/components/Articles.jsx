@@ -17,7 +17,7 @@ function Articles() {
       <div className="md:w-6/12 ">
       {articles.map((item, index) => (
         
-        <p key={index} className="p-9 mt-2 text-lg border-4 rounded-2xl">
+        <p key={index} className="p-9 mt-2 text-lg border-4 rounded-xl">
             <Link to= {`/articles/${item.slug}`}>{item.title}</Link>
           <p className="italic font-thin text-base p-3">{item.tags}</p>
         </p>

@@ -20,7 +20,7 @@ function Projects() {
       
       <div className="md:w-6/12 ">
       {projects.map((item, index) => (
-        <p key={index} className="p-9 mt-2 text-lg border-4 rounded-2xl">
+        <p key={index} className="p-9 mt-2 text-lg border-4 rounded-xl">
           <a className="underline font-semibold" href={item.link}>
             {item.title}
           </a>{' '}

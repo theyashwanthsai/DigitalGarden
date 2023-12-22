@@ -25,7 +25,7 @@ function Home() {
 
   return (
     <div className="lg:p-5 flex items-center justify-center flex-col text-left pt-5">
-      <div className="markdown p-5 text-lg mb-6 w-11/12 lg:w-4/12">
+      <div className="markdown p-5 text-lg mb-6 w-11/12 lg:w-5/12">
       <Markdown>
           {markdownContent}
         </Markdown>
