@@ -7,46 +7,37 @@
 
 I love writing online. These are a few of the articles I have written over the years. Writing is the best way to learn. If you guys learned something new reading my blogs, please let me know :)
 
+## Some of the aricles I have written:
 
----
 
-#### [Let's Build A Simple Programming Language. Part 1.](./articles/language1)
+__[Let's Build A Simple Programming Language. Part 1.](./articles/language1)__
+
 *Topic: Compiler Design, Interpreters*
 
----
+__[Mastering Backend Development: The Ultimate Guide to Building a Node.js Blog App Server. Part - 2](./articles/masteringbackend2)__
 
-#### [Mastering Backend Development: The Ultimate Guide to Building a Node.js Blog App Server. Part - 2](./articles/masteringbackend2)
 *Topics: Node.js, Express.js, Backend*
 
----
+__[What are Middlewares? A Comprehensive Guide for Programmers to Level Up Their Application Development](./articles/middlewares)__
 
-#### [What are Middlewares? A Comprehensive Guide for Programmers to Level Up Their Application Development](./articles/middlewares)
 *Topics: Node.js, Express.js, Backend*
 
----
+__[Mastering Backend Development: The Ultimate Guide to Building a Node.js Blog App Server. Part - 1](./articles/masteringbackend1)__
 
-#### [Mastering Backend Development: The Ultimate Guide to Building a Node.js Blog App Server. Part - 1](./articles/masteringbackend1)
 *Topics: Node.js, Express.js, Backend*
 
----
+__[Vim 101](./articles/vim)__
 
-#### [Vim 101](./articles/vim)
 *Topics: Vim, NeoVim, Dev Tools*
 
----
+__[Git 101](./articles/git)__
 
-#### [Git 101](./articles/git)
 *Topics: Git, Version Control, Dev Tools*
 
----
+__[Linked List in C](./articles/linkedlist)__
 
-#### [Linked List in C](./articles/linkedlist)
 *Topics: C, Data Structures, Programming*
 
----
 
-#### [My First Hackathon](./articles/hackathon)
+- [My First Hackathon](./articles/hackathon)
 *Topics: Hackathon, Experiences*
-
-
----
