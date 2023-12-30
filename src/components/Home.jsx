@@ -2,6 +2,8 @@ import React, { useEffect, useRef, useState } from "react";
 import { SocialIcon } from 'react-social-icons';
 import { Link } from 'react-router-dom';
 import Markdown from "react-markdown";
+
+
 function Home() {
   
   const [markdownContent, setMarkdownContent] = useState("");
@@ -25,10 +27,11 @@ function Home() {
 
   return (
     <div className="lg:p-5 flex items-center justify-center flex-col text-left pt-5">
-      <div className="markdown p-5 text-lg mb-6 w-11/12 lg:w-5/12">
-      <Markdown>
-          {markdownContent}
-        </Markdown>
+      
+      <div className=" p-5 text-lg mb-6 w-11/12 lg:w-5/12 leading-loose font-medium">
+      <Markdown className="markdown">
+        {markdownContent}
+      </Markdown>
 
       </div>
     </div>

@@ -6,6 +6,10 @@ export default {
     extend: {
       fontFamily: {
         inter:['inter', 'serif'],
+        indie: ['Indie'],
+        victor: ['Victormono'],
+        lora: ['lora'],
+        ostwald: ['ostwald']
       }
     },
     
