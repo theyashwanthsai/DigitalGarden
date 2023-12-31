@@ -8,87 +8,87 @@ I always believe in learning by building. Projects are what I have been building
 
 ---
 
-1. **[ZenScript](https://github.com/theyashwanthsai/ZenScript)** - Building my own programming language using Python - To understand more about interpreters, compilers.
+**[ZenScript](https://github.com/theyashwanthsai/ZenScript)** - Building my own programming language using Python - To understand more about interpreters, compilers.
    - Language: Python
 
 ---
 
-2. **[TinyReact](https://github.com/theyashwanthsai/TinyReact)** - Tiny React is a lightweight clone of the popular JavaScript library, React.
+**[TinyReact](https://github.com/theyashwanthsai/TinyReact)** - Tiny React is a lightweight clone of the popular JavaScript library, React.
    - Language: JavaScript
 
 ---
 
-3. **[TinyExpress](https://github.com/theyashwanthsai/TinyExpress)** - TinyExpress is a lightweight and simplified clone of the popular Node.js web application framework, Express.js.
+**[TinyExpress](https://github.com/theyashwanthsai/TinyExpress)** - TinyExpress is a lightweight and simplified clone of the popular Node.js web application framework, Express.js.
    - Languages: JavaScript, Node.js
 
 ---
 
-4. **[Toy Chess Engine](https://github.com/theyashwanthsai/ToyChessEngine)** - Creating my own tiny toy chess engine for fun... and to learn more about chess programming :)
+**[Toy Chess Engine](https://github.com/theyashwanthsai/ToyChessEngine)** - Creating my own tiny toy chess engine for fun... and to learn more about chess programming :)
    - Language: Python, scikit-learn
 
 ---
 
-5. **[UltraSonicFPS](https://github.com/theyashwanthsai/UltrasonicFPS)** - A 3D Exploration game played using our hand gestures.
+**[UltraSonicFPS](https://github.com/theyashwanthsai/UltrasonicFPS)** - A 3D Exploration game played using our hand gestures.
    - Languages: Arduino, Python, C++
 
 ---
 
-6. **[Raycasting 3D Engine](https://github.com/theyashwanthsai/raycasting-3d-engine)** - 3D raycasting engine similar to Doom/Wolfenstein made using Python and Pygame.
+**[Raycasting 3D Engine](https://github.com/theyashwanthsai/raycasting-3d-engine)** - 3D raycasting engine similar to Doom/Wolfenstein made using Python and Pygame.
    - Languages: Python, Pygame
 
 ---
 
-7. **[jungleGPT](https://github.com/theyashwanthsai/jungleGPT)** - Full Stack ML App. Pokedex for real-life animals. User describes an animal he wants to know more about, and the app displays an image and a small description.
+**[jungleGPT](https://github.com/theyashwanthsai/jungleGPT)** - Full Stack ML App. Pokedex for real-life animals. User describes an animal he wants to know more about, and the app displays an image and a small description.
    - Languages: Node.js, React.js, Express.js, OpenAI, Tailwind CSS, Vite.js
 
 ---
 
-8. **[Flight-Fare-Prediction](https://github.com/theyashwanthsai/Flight-Fare-Prediction)** - Predicting the fare of flight tickets using ML, and building a Streamlit web app to implement it.
+**[Flight-Fare-Prediction](https://github.com/theyashwanthsai/Flight-Fare-Prediction)** - Predicting the fare of flight tickets using ML, and building a Streamlit web app to implement it.
    - Languages: Python, scikit-learn, Streamlit
 
 ---
 
-9. **[BlogApp Backend](https://github.com/theyashwanthsai/Blog-Backend)** - Express server for my blog app.
+**[BlogApp Backend](https://github.com/theyashwanthsai/Blog-Backend)** - Express server for my blog app.
    - Languages: Express, MongoDB, Node.js, JavaScript
 
 ---
 
-10. **[Workout Tracker](https://github.com/theyashwanthsai/Workout-Tracker-Backend)** - Exercise Tracker microservice built with JavaScript, Node.JS, Express, MongoDB, Mongoose.
+**[Workout Tracker](https://github.com/theyashwanthsai/Workout-Tracker-Backend)** - Exercise Tracker microservice built with JavaScript, Node.JS, Express, MongoDB, Mongoose.
     - Languages: Express, MongoDB, Node.js, JavaScript
 
 ---
 
-11. **[ActionRPG](https://github.com/theyashwanthsai/ActionRPG-Pygame)** - Trying to build my dream action RPG game like Zelda using Python.
+**[ActionRPG](https://github.com/theyashwanthsai/ActionRPG-Pygame)** - Trying to build my dream action RPG game like Zelda using Python.
     - Language: Python, Pygame
 
 ---
 
-12. **[Anime Recommendation System](https://github.com/theyashwanthsai/Anime-Recommendation-System)** - A web app built with the help of Streamlit and using the Kaggle dataset to build a simple anime recommendation system.
+**[Anime Recommendation System](https://github.com/theyashwanthsai/Anime-Recommendation-System)** - A web app built with the help of Streamlit and using the Kaggle dataset to build a simple anime recommendation system.
     - Languages: Python, scikit-learn, Streamlit
 
 ---
 
-13. **[Theft Detection System](https://github.com/theyashwanthsai/Theft-Detection_System)** - A project made using Arduino, UltraSonic sensor, PIR sensor which detects any movement within a specific range from the sensor and lights up the LED.
+**[Theft Detection System](https://github.com/theyashwanthsai/Theft-Detection_System)** - A project made using Arduino, UltraSonic sensor, PIR sensor which detects any movement within a specific range from the sensor and lights up the LED.
     - Languages: Arduino, Python, C++
 
 ---
 
-14. **[First-Person-Shooter](https://github.com/theyashwanthsai/First-Person-Shooter)** - The project is a simple first-person shooter game built using the Ursina game engine and Python programming language.
+**[First-Person-Shooter](https://github.com/theyashwanthsai/First-Person-Shooter)** - The project is a simple first-person shooter game built using the Ursina game engine and Python programming language.
     - Languages: Python, Ursina
 
 ---
 
-15. **[Snake Game](https://github.com/theyashwanthsai/Snake-Game)** - Here is my implementation of the Snake game in JS. This is part of my journey to learn JS by making games.
+**[Snake Game](https://github.com/theyashwanthsai/Snake-Game)** - Here is my implementation of the Snake game in JS. This is part of my journey to learn JS by making games.
     - Language: Vanilla JavaScript
 
 ---
 
-16. **[CR7 Analysis](https://github.com/theyashwanthsai/CR7-Analysis)** - Exploring the Cristiano Ronaldo dataset from Kaggle and building a website using Streamlit.
+**[CR7 Analysis](https://github.com/theyashwanthsai/CR7-Analysis)** - Exploring the Cristiano Ronaldo dataset from Kaggle and building a website using Streamlit.
     - Languages: Python, Streamlit, EDA
 
 ---
 
-17. **[CryptoTwitterBOT](https://github.com/acmpesuecc/TwitterBotCryptocurrencyPrice)** - A Twitter bot that tweets cryptocurrency prices. Made using Tweepy and uses CoinGecko API.
+**[CryptoTwitterBOT](https://github.com/acmpesuecc/TwitterBotCryptocurrencyPrice)** - A Twitter bot that tweets cryptocurrency prices. Made using Tweepy and uses CoinGecko API.
     - Language: Python
 
 ---
