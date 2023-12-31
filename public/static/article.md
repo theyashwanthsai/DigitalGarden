@@ -6,7 +6,7 @@
 
 I love writing online. These are a few of the articles I have written over the years. Writing is the best way to learn. If you learned something new reading my blogs, please let me know :)
 
-## Some of my Work:
+## Some of my work:
 
 ---
 
