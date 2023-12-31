@@ -4,8 +4,8 @@ import { Link } from 'react-router-dom';
 
 function Header() {
   return(
-    <div>
-      <header className="flex p-3 ">
+    <div >
+      <header className="flex p-3">
         <nav>
           {/* <a  className="p-3" >Home</a>
           <a className="p-3" href="">Blog</a>
