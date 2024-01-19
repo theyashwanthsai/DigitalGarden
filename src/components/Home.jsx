@@ -29,6 +29,7 @@ function Home() {
     <div className="lg:p-5 flex items-center justify-center flex-col text-left pt-5">
       
       <div className=" p-5 text-lg mb-6 w-11/12 lg:w-5/12 leading-loose font-medium">
+      
       <Markdown className="markdown">
         {markdownContent}
       </Markdown>
