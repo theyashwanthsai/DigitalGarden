@@ -9,16 +9,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
 
-  const [theme, setTheme] = useState(null);
-
-	useEffect(() => {
-		if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-			setTheme('dark');
-		} else {
-			setTheme('light');
-		}
-	}, []);
-
+    const [theme, setTheme] = useState('dark');
 	const handleThemeSwitch = () => {
 		setTheme(theme === 'dark' ? 'light' : 'dark');
 	};
