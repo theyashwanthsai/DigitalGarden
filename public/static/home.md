@@ -8,7 +8,7 @@ Welcome to my personal website. This is where I will be sharing all the stuff I 
 
 ## Map
 
-![map](map.gif)
+![map](https://64.media.tumblr.com/5f61d3e6e629e3bec5db7a5613ff05fa/tumblr_plgozkFcxG1qciqqno2_r1_1280.gif)
 
 Here's a rough map of this website:
 * __[Projects](./projects)__: List of all the Projects I have worked on since I started this journey of computer science.
