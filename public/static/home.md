@@ -1,14 +1,13 @@
 # Sai Yashwanth
 
-![Sai Yashwanth](new.jpeg)
-*My Setup*
+![img](https://64.media.tumblr.com/8b868373b16c535b6494ea3f6a323030/499da71b41a48e3b-d6/s1280x1920/f98819182c7c4429ce02b30aac82de593c71b47b.gif)
 
 Welcome to my personal website. This is where I will be sharing all the stuff I have done related to tech.
 
 
 ## Map
 
-![map](https://64.media.tumblr.com/5f61d3e6e629e3bec5db7a5613ff05fa/tumblr_plgozkFcxG1qciqqno2_r1_1280.gif)
+![map](map.gif)
 
 Here's a rough map of this website:
 * __[Projects](./projects)__: List of all the Projects I have worked on since I started this journey of computer science.
@@ -29,7 +28,6 @@ Languages are just a medium to solve a problem. I love coding and solving proble
 <!--  
 Todo
 ## Technologies
-
 
 ## Outside of tech -->
 
