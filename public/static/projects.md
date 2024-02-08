@@ -28,10 +28,17 @@ Tiny React is a lightweight clone of the popular JavaScript library, React.
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-**[KVDatastore ](https://github.com/theyashwanthsai/KVDatastore)**
+**[DKVDatastore](https://github.com/theyashwanthsai/DKVDatastore)**
 
-A simple implementation of a nosql "database" using go. Experimental, built for learning purposes
+A minimal distributed key-value database written in golang. Uses Raft consensus algorithm
    - Language: Golang
+
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+**[leetArena](https://github.com/theyashwanthsai/leetArena)**
+
+LeetArena is a platform where users can create custom rooms, select LeetCode questions, and compete with their friends. Basically adding multiplayer feature to Leetcode
+   - Language: Javascript (Nodejs, socketio)
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
