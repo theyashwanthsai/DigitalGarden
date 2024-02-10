@@ -63,7 +63,7 @@ function App() {
   <button
 			type="button"
 			onClick={handleThemeSwitch}
-			className="fixed z-10 right-8 top-3 bg-violet-300 dark:bg-orange-300 text-lg p-0 rounded-md"
+			className="fixed z-10 right-8 top-3 bg-moon dark:bg-sun text-lg p-0 rounded-md"
 		>
 			{theme === 'dark' ? sun : moon}
 		</button>
@@ -74,7 +74,7 @@ function App() {
 
 
 
-    <div className="bg-white dark:bg-gray-950 text-stone-900 dark:text-stone-300 min-h-screen font-inter">
+    <div className="bg-light dark:bg-dark text-ltext dark:text-dtext min-h-screen font-inter">
     <BrowserRouter>
       <Header />
         <Routes>
