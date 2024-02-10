@@ -3,7 +3,7 @@
 
 > "If you don’t produce, you won’t thrive—no matter how skilled or talented you are." - Cal Newport
 
-![chill](https://camo.githubusercontent.com/28e64d517089d4b23ff5716340d789b4af32b3aa44001a62677f273d3ee898d5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
+![img](https://64.media.tumblr.com/8b868373b16c535b6494ea3f6a323030/499da71b41a48e3b-d6/s1280x1920/f98819182c7c4429ce02b30aac82de593c71b47b.gif)
 
 I love writing online. These are a few of the articles I have written over the years. Writing is the best way to learn. If you learned something new reading my blogs, please let me know :)
 
