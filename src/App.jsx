@@ -74,7 +74,7 @@ function App() {
 
 
 
-    <div className="bg-light dark:bg-dark text-ltext dark:text-dtext min-h-screen font-inter">
+    <div className="bg-dark dark:bg-light text-dtext dark:text-ltext min-h-screen font-inter">
     <BrowserRouter>
       <Header />
         <Routes>
