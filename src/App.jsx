@@ -9,7 +9,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
 
-    const [theme, setTheme] = useState('dark');
+    const [theme, setTheme] = useState();
 	const handleThemeSwitch = () => {
 		setTheme(theme === 'dark' ? 'light' : 'dark');
 	};
