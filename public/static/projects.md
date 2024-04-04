@@ -8,7 +8,7 @@ I always believe in learning by building. Projects are what I have been building
 
 
 
-## Some of my "flagship" projects:
+## Some of my "cool" projects:
 These are the projects which I would show you if you want to know what my craft is all about.
 If you're curious about the scope and quality of my work, these are the ones I would proudly present.
 
@@ -20,6 +20,14 @@ Building my own programming language using Python - To understand more about int
    - Language: Python
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+**[Opilot.nvim](hhttps://github.com/theyashwanthsai/opilot.nvim)**  
+
+Built a neovim plugin copilot clone using codellama (13B paramater model). Designed a middleware microservice architecture, supporting autocomplete code and test function generation.
+   - Language: Luascript, Typescript
+
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 
 **[TinyReact](https://github.com/theyashwanthsai/TinyReact)** 
 
