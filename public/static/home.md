@@ -11,7 +11,7 @@ Here's a rough map of this website:
 
 * __[Articles](./articles)__: List of some of the articles I have written. I try to share my learnings by writing articles, in hopes of helping someone in some way.
 
-__[Resume](https://docs.google.com/document/d/1-OqzfYF25iUmStaX3Ab5BQlg8hyEi8BKh_dc1fZmyZI/edit?usp=sharing)__ - Heres my resume
+__[Resume](https://drive.google.com/file/d/1btflfv-4Mrc5kF06xORT1tDJKVoNJZdQ/view)__ - Heres my resume
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 

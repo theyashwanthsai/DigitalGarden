@@ -7,7 +7,6 @@
 I always believe in learning by building. Projects are what I have been building from the past two and a half years. Here are a few of the projects I built while exploring various fields of interest.
 
 
-
 ## Some of my "cool" projects:
 These are the projects which I would show you if you want to know what my craft is all about.
 If you're curious about the scope and quality of my work, these are the ones I would proudly present.
