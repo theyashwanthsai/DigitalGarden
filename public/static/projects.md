@@ -55,6 +55,13 @@ These are other projects I built. I learn the best while building, and these are
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
+**[Inventory Management Microservices](https://github.com/theyashwanthsai/Inventory-Microservices)** 
+
+Course project for UE21CS351B. Building an Inventory management system using microservice architecture. Using rabbitMQ to perform asynchronous task scheduling. 
+   - Languages: Typescript, JavaScript, Node.js, RabbitMQ, MYSQL
+
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 **[TinyExpress](https://github.com/theyashwanthsai/TinyExpress)** 
 
 TinyExpress is a lightweight and simplified clone of the popular Node.js web application framework, Express.js.

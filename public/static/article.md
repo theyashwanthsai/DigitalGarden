@@ -11,6 +11,12 @@ I love writing online. These are a few of the articles I have written over the y
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
+__[Building a Copilot Clone using Open Source LLMs for neovim.](./articles/opilot)__
+
+*Topic: Luascript, Neovim plugin, Typescript*
+
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 __[Let's Build A Simple Programming Language. Part 1.](./articles/language1)__
 
 *Topic: Compiler Design, Interpreters*
