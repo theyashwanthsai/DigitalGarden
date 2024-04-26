@@ -11,6 +11,8 @@ Here's a rough map of this website:
 
 * __[Articles](./articles)__: List of some of the articles I have written. I try to share my learnings by writing articles, in hopes of helping someone in some way.
 
+* __[Me](./about.md)__: Find my social links here.
+
 __[Resume](https://drive.google.com/file/d/1btflfv-4Mrc5kF06xORT1tDJKVoNJZdQ/view)__ - Heres my resume
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
@@ -24,23 +26,24 @@ Languages are just a medium to solve a problem. I love coding and solving proble
 - __Golang__: Currently trying to build small backend projects/services in golang. Will be working a lot with go in 2024. 
 - __C++__: Never built an "actual" project using cpp but i have coded a lot in cpp thanks to leetcode.
 
-
-## Technologies
-- __Databases__: Love playing around with different databases, fascinating and interesting.
-- __Cloud__: Neat, Always fascinated by the way big tech companies provide resources for us to perform things easily, conviniently.
-- __Docker__: Really love how containers work and make things easy.
-- __Distributed Computing__: Amazed by the "Engineering" concepts which these systems put forward, a lot to explore, will surely do.
-
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 # Timeline
 
+## 2024
+- Learning Stuff, looking for oppurtunities to work in a fast paced deep tech workplace.
+
 ## 2023
 - Worked as an Intern at Vertexcover Technology (Dec - Jan)
 - Worked as a Freelancer under Wulot (July-Sept)
-
+- Started focusing on internals of databases, programming languages and much more.
+ 
 ## 2022
 - Gave my First Workshop, Linux for ethical hacking (November)
+- Got into CyberSec, Started participating in CTFs.
+- Learnt JS, Learnt React and Nodejs to build complete full stack webapps.
 
 ## 2021
 - Joined College, Started my computer science journey in 2021.
+- Started learning python and building projects in it. 
+- Learnt C.
