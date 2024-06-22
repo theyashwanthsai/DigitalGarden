@@ -20,18 +20,18 @@ Building my own programming language using Python - To understand more about int
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
+**[Devyan](https://github.com/theyashwanthsai/Devyan)**
+
+Devyan is an AI-powered software development assistant that orchestrates a team of agents to solve programming tasks.
+Agents perform various roles such as architecture design, implementation, testing, and reviewing.
+   - Language: Python, Crewai
+
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 **[Opilot.nvim](hhttps://github.com/theyashwanthsai/opilot.nvim)**  
 
 Built a neovim plugin copilot clone using codellama (13B paramater model). Designed a middleware microservice architecture, supporting autocomplete code and test function generation.
    - Language: Luascript, Typescript
-
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-
-**[TinyReact](https://github.com/theyashwanthsai/TinyReact)** 
-
-Tiny React is a lightweight clone of the popular JavaScript library, React.
-   - Language: JavaScript
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
@@ -52,6 +52,13 @@ LeetArena is a platform where users can create custom rooms, select LeetCode que
 ## Some of my other projects:
 
 These are other projects I built. I learn the best while building, and these are some of the mini projects I built over the years
+
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+**[TinyReact](https://github.com/theyashwanthsai/TinyReact)** 
+
+Tiny React is a lightweight clone of the popular JavaScript library, React.
+   - Language: JavaScript
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 

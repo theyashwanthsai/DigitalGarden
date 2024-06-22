@@ -1,5 +1,7 @@
 # Middleware in Web Development
 
+*Written on Jul 10, 2023*
+
 Middleware is a software component or service that acts as an intermediary layer between different software applications or components. It can be used to apply a particular functionality to an endpoint. Authentication can be taken as an example. In the previous article, We defined an authentication function, which checks if the user is authorized using the headers. We can apply this to any endpoint which we want to protect, so only the authorized users i.e. the ones who have registered on the website can access the route.
 
 

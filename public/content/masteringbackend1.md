@@ -1,5 +1,8 @@
 ## Mastering Backend Development: Part-1
 
+*Written on Jul 9, 2023*
+
+
 Building a backend server for your blog app is a crucial step towards creating a reliable and high-performing platform for your users. In this comprehensive guide, we will walk through the process of building a dynamic Node.js backend server that will empower your blog app with robust functionality, scalability, and optimal performance. Whether you're a seasoned backend developer or just starting your journey, this step-by-step tutorial will equip you with the knowledge and skills to create a backend server that meets the unique requirements of your blog app.
 
 **Table of Contents:**

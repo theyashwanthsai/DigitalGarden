@@ -1,5 +1,8 @@
 ## Mastering Backend Development 2:
 
+*Written on Jul 15, 2023*
+
+
 In the previous part of this blog series, we discussed the basic setup of our blog app's backend. Now, let's dive into the implementation of the endpoints responsible for creating, updating, and deleting blog posts. These functionalities are crucial for allowing users to manage their content effectively.
 
 Below are the list of routes we will add.

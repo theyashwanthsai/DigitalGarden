@@ -1,5 +1,7 @@
 ## Let's Build A Simple Programming Language. Part 1.
 
+*Written on Oct 23, 2023*
+
 > "What I cannot build, I do not understand"    ~ Richard Feynman
 
 There are over 27.7 million programmers in the world. How many of them do you think would know how to build a programming language? Very few. Why is it a good idea to build one in the first place? Understanding how programming languages work under the hood can empower you to be a more effective developer. You'll have a deeper appreciation for the tools you use daily. I had decided to give this crazy idea a try and it has been worth the effort I put in. I have decided to share what I have learned in this process, So it stays on the internet forever and I can read it whenever I want xD.

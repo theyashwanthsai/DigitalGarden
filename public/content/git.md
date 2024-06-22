@@ -1,6 +1,10 @@
 Introduction to Git
 ===================
 
+*Written on Jan 6, 2023*
+
+
+
 Git is a powerful and versatile version control system that developers and teams widely use to manage and collaborate on software projects. Whether you're working on a small personal project or a large enterprise application, Git can help you keep track of changes, manage multiple versions, and collaborate with others.
 
 Key Features of Git

@@ -1,4 +1,7 @@
 ## Linked List
+
+*Written on Jun 9, 2022*
+
 This article covers single linked list.
 
 A Linked List is basically nodes connected or linked to each other. We will discuss how they are linked together.

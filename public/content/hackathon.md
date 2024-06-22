@@ -1,4 +1,7 @@
 ## My First Hackathon
+
+*Written on Jan 13, 2022*
+
 ![local](/articleimages/hackathon.png)
 On 12th November 2021, I took part in my first Hackathon conducted by my college. This post is all about my experience with hackathons and also working in a team(which was quite new to me).
 Our App [Maver](https://github.com/theyashwanthsai/Maver-inGENIUS)

@@ -1,6 +1,9 @@
 Exploring Vim
 ======================================
 
+*Written on Jan 21, 2023*
+
+
 [Vim](https://www.vim.org/) is a powerful, open-source text editor that has been a favorite among programmers, system administrators, and power users for over two decades. In this blog post, we'll delve into some of Vim's key features and explain why it's worth the effort to learn.
 
 Modal Nature

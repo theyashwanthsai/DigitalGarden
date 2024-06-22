@@ -1,6 +1,8 @@
 # Building a Copilot using Open Source LLMs for neovim.
 
- 
+*Written on Apr 10, 2024*
+
+
 # Introduction
 So I have been looking into AI and how it has been changing the way we do things. 
 From basic tasks like email writing to even coding. 
