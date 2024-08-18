@@ -1,0 +1,25 @@
+
+.markdown h1 {
+  border-bottom: 2px solid #3b82f6;
+  padding-bottom: 0.3em;
+}
+
+.markdown h2 {
+  border-bottom: 1px solid #10b981;
+  padding-bottom: 0.2em;
+}
+
+.markdown a {
+  transition: all 0.2s ease-in-out;
+}
+
+.markdown a:hover {
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+.markdown p {
+  margin-bottom: 1em;
+}
+
+

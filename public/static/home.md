@@ -1,26 +1,19 @@
 # Sai Yashwanth
 
 
-Welcome to my personal website. This is where I will be sharing all the stuff I have done related to tech.
+Welcome to my personal website. I am Sai Yashwanth, an engineer, builder and a writer (I write blogs and currently writing a book under Manning Publications).
+I love building stuff with code, writing about it, playing football and working out (currently learning ring based moments, really love it). I believe in becoming "multidimensionally jacked" - 
+body, mind, knowledge, skills, communication, finance. The idea is to max out all aspects of life.
 
-
-## Map
-
-Here's a rough map of this website:
-* __[Projects](./projects)__: List of all the Projects I have worked on since I started this journey of computer science.
-
-* __[Articles](./articles)__: List of some of the articles I have written. I try to share my learnings by writing articles, in hopes of helping someone in some way.
-
-* __[Me](./about.md)__: Find my social links here.
-
-__[Resume](https://drive.google.com/file/d/1btflfv-4Mrc5kF06xORT1tDJKVoNJZdQ/view)__ - Heres my resume
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 # Timeline
 
 ## 2024
-- Started working as an Intern at [Composio](https://www.composio.dev/)
+- Started writing a book on AI Agents under Manning Publications.
+- Joined Vuhosi as an AI Engineer. I build and ship AI agents to production with the help of my amazing team.
+- Started working as an Intern at [Composio](https://www.composio.dev/) during this summer.
 - First publications: IEEE CONECCT 2024 (international conference). Paper on using llms to generate ipl match blogposts.
 - Learning Stuff, looking for oppurtunities to work in a fast paced deep tech workplace. (Spoiler alert got in one such startup) 
 
@@ -40,14 +33,14 @@ __[Resume](https://drive.google.com/file/d/1btflfv-4Mrc5kF06xORT1tDJKVoNJZdQ/vie
 - Joined College, Started my computer science journey in 2021.
 
 
-## Languages that I use
-Languages are just a medium to solve a problem. I love coding and solving problems using code.
-- __Typescript__: Stricter js, my go to for complex projects (this is coming after I wasted hours using javascript).
-- __Javascript__: Been using js to build frontend, backend for few of my projects. Love this language.
-- __Python__: My first programming language. Spent a lot of time trying to figure out things using this language.
-- __Rust__: My favorite language to code in. Still learning a lot, building small projects and step by step getting comfortable with rust. 
-- __Golang__: Currently trying to build small backend projects/services in golang. Will be working a lot with go in 2024. 
-- __C++__: Never built an "actual" project using cpp but i have coded a lot in cpp thanks to leetcode.
+## What I am trying to make my day look like
+I lift weights, Currently training with rings. Eat clean, high protein less carbs.
+Reading some books, blogs mostly related to the work I do and get paid for.
+Inculcating the practice of writing daily, publishing weekly.
+
+I like solving codeforces problems. I try to do one atleast.
+Play games with friends, or alone. Currently love playing [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima) 
+
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 

@@ -5,7 +5,10 @@
 
 ![img](https://64.media.tumblr.com/8b868373b16c535b6494ea3f6a323030/499da71b41a48e3b-d6/s1280x1920/f98819182c7c4429ce02b30aac82de593c71b47b.gif)
 
-I love writing online. These are a few of the articles I have written over the years. Writing is the best way to learn. If you learned something new reading my blogs, please let me know :)
+I love writing. It shapes my thoughts and my personality in general. Its like talking to myself.
+My goal is to write mini essays daily and publish something weekly. I have started creating more than consuming.
+These are a few of the articles I have written over the years. Writing is the best way to learn. 
+If you learned something new reading my blogs, please let me know :)
 
 ## Some of my work:
 
