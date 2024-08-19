@@ -8,7 +8,6 @@ import { dracula } from 'react-syntax-highlighter/dist/cjs/styles/prism';
 
 function ArticlePage() {
   const { slug } = useParams();
-  // const markdownContent = '# A demo of `react-markdown`'
   const [markdownContent, setMarkdownContent] = useState("");
 
   useEffect(() => {
@@ -30,40 +29,38 @@ function ArticlePage() {
 
   return (
     <div className="lg:p-5 flex items-center justify-center flex-col text-left pt-5 pb-">
-      <div className="markdown p-5 text-lg mb-6 border-4 w-11/12 lg:w-9/12 ">
-      {/* <Markdown>
-          {markdownContent}
-        </Markdown> */}
-        {/* <Markdown>{markdownContent}</Markdown> */}
+      <div className="markdown p-5 text-lg mb-6 border-4 w-11/12 lg:w-9/12">
         <Markdown
-      remarkPlugins={[remarkGfm]}
-      rehypePlugins={[rehypeRaw]}
-      components={{
-        code({ node, inline, className, children, ...props }, any) {
-          const match = /language-(\w+)/.exec(className || '');
-
-          return !inline && match ? (
-            <SyntaxHighlighter style={dracula} PreTag="div" language={match[1]} {...props}>
-              {String(children).replace(/\n$/, '')}
-            </SyntaxHighlighter>
-          ) : (
-            <code className={className} {...props}>
-              {children}
-            </code>
-          );
-        },
-      }}
-    >
-      {markdownContent}
-    </Markdown>
-
+          remarkPlugins={[remarkGfm]}
+          rehypePlugins={[rehypeRaw]}
+          components={{
+            code({ node, inline, className, children, ...props }) {
+              const match = /language-(\w+)/.exec(className || '');
+              return !inline && match ? (
+                <SyntaxHighlighter style={dracula} PreTag="div" language={match[1]} {...props}>
+                  {String(children).replace(/\n$/, '')}
+                </SyntaxHighlighter>
+              ) : (
+                <code className={className} {...props}>
+                  {children}
+                </code>
+              );
+            },
+            a({ node, ...props }) {
+              return <a className="markdown-link" {...props} />;
+            }
+          }}
+        >
+          {markdownContent}
+        </Markdown>
       </div>
+      <style jsx>{`
+        .markdown-link {
+          text-decoration: underline;
+        }
+      `}</style>
     </div>
-    
   );
 }
 
-
-
 export default ArticlePage;
-// `../content/${slug}.md`

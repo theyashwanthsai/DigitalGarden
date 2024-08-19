@@ -1,0 +1,43 @@
+.markdown h1 {
+  @apply text-3xl font-bold text-blue-600 mb-4;
+}
+
+.markdown h2 {
+  @apply text-2xl font-semibold text-green-600 mb-3;
+}
+
+.markdown h3 {
+  @apply text-xl font-semibold text-yellow-600 mb-2;
+}
+
+.markdown a {
+  @apply text-purple-600 underline hover:text-purple-800;
+}
+
+.markdown p {
+  @apply mb-4;
+}
+
+.markdown ul {
+  @apply list-disc pl-5 mb-4;
+}
+
+.markdown ol {
+  @apply list-decimal pl-5 mb-4;
+}
+
+.markdown li {
+  @apply mb-2;
+}
+
+.markdown blockquote {
+  @apply border-l-4 border-gray-300 pl-4 italic my-4;
+}
+
+.markdown pre {
+  @apply bg-gray-100 rounded p-4 mb-4;
+}
+
+.markdown code {
+  @apply font-mono text-sm;
+}
