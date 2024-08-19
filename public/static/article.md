@@ -14,6 +14,15 @@ If you learned something new reading my blogs, please let me know :)
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
+__[Building my first PC](./articles/pcbuild)__
+
+*Written on Aug 19, 2024*
+
+*Topic: PC, Gaming, Fun*
+
+
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 __[Building a Copilot Clone using Open Source LLMs for neovim.](./articles/opilot)__
 
 *Written on Apr 10, 2024*
