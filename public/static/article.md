@@ -14,6 +14,15 @@ If you learned something new reading my blogs, please let me know :)
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
+__[What are AI Agents](./articles/aiagents)__
+
+*Written on Aug 20, 2024*
+
+*Topic: AI Agents, Crewai*
+
+
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 __[Building my first PC](./articles/pcbuild)__
 
 *Written on Aug 19, 2024*
