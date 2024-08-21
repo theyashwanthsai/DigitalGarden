@@ -1,43 +1,112 @@
-.markdown h1 {
-  @apply text-3xl font-bold text-blue-600 mb-4;
+body {
+    background-color: #0A0A0A;
+    color: #F5DEB3;
 }
 
-.markdown h2 {
-  @apply text-2xl font-semibold text-green-600 mb-3;
+.markdown-content {
+    max-width: 52rem;
+    margin: 0 auto;
+    padding: 2rem 1rem;
 }
 
-.markdown h3 {
-  @apply text-xl font-semibold text-yellow-600 mb-2;
+.markdown-content h1 {
+    color: #D2691E;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
 }
 
-.markdown a {
-  @apply text-purple-600 underline hover:text-purple-800;
+.markdown-content h2 {
+    color: #9ACD32;
+    font-size: 2.0rem;
+    font-weight: bold;
+    margin-bottom: 1.25rem;
 }
 
-.markdown p {
-  @apply mb-4;
+.markdown-content h3 {
+    color: #DEB887;
+    font-size: 1.6rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
 }
 
-.markdown ul {
-  @apply list-disc pl-5 mb-4;
+.markdown-content p {
+    color: #F5DEB3;
+    font-size: 1.125rem;
+    line-height: 1.75;
+    margin-bottom: 1.25rem;
 }
 
-.markdown ol {
-  @apply list-decimal pl-5 mb-4;
+.markdown-content ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    color: #D2B48C;
+    font-size: 1.125rem;
+    margin-bottom: 1.25rem;
 }
 
-.markdown li {
-  @apply mb-2;
+.markdown-content li {
+    margin-bottom: 0.75rem;
 }
 
-.markdown blockquote {
-  @apply border-l-4 border-gray-300 pl-4 italic my-4;
+.markdown-content a {
+    color: #20B2AA;
+    text-decoration: underline;
+    font-size: 1.125rem;
 }
 
-.markdown pre {
-  @apply bg-gray-100 rounded p-4 mb-4;
+pre, code {
+    background-color: #1A1A1A;
+    color: #E6D5B8;
+    padding: 0.5rem;
+    border-radius: 4px;
 }
 
-.markdown code {
-  @apply font-mono text-sm;
+blockquote {
+    border-left: 4px solid #9ACD32;
+    padding-left: 1rem;
+    margin-left: 0;
+    font-style: italic;
+    color: #DEB887;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #DEB887;
+    margin: 2rem 0;
+}
+
+.button {
+    background-color: #D2691E;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #E07A5F;
+}
+
+a:hover {
+    color: #D2691E;
+}
+
+.article-container {
+    background-color: #0A0A0A;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.25rem;
+}
+
+.article-content {
+    max-width: 64rem;
+    width: 100%;
+    padding: 1.25rem;
+    border: 4px solid #D2B48C;  /* Tan color border to match the earthy theme */
+    border-radius: 0.5rem;
 }

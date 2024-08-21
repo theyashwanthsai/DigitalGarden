@@ -8,26 +8,26 @@ body, mind, knowledge, skills, communication, finance. The idea is to max out al
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-# Timeline
+## Timeline
 
-## 2024
+### 2024
 - Started writing a book on AI Agents under Manning Publications.
 - Joined Vuhosi as an AI Engineer. I build and ship AI agents to production with the help of my amazing team.
 - Started working as an Intern at [Composio](https://www.composio.dev/) during this summer.
 - First publications: IEEE CONECCT 2024 (international conference). Paper on using llms to generate ipl match blogposts.
 - Learning Stuff, looking for oppurtunities to work in a fast paced deep tech workplace. (Spoiler alert got in one such startup) 
 
-## 2023
+### 2023
 - Worked as an Intern at Vertexcover Technology (Dec - Jan).
 - Worked as a Freelancer for Wulot (July-Sept). Earn some money (My first salary)
 - Started focusing on internals of databases, programming languages and much more technologies.
  
-## 2022
+### 2022
 - Gave my First Workshop, Linux for ethical hacking (November)
 - Got into CyberSec, Started participating in CTFs.
 - Learnt JS, Learnt React and Nodejs to build complete full stack webapps.
 
-## 2021
+### 2021
 - Learnt C.
 - Started learning python and building projects in it. Built a simple twitter bot (My shipping) 
 - Joined College, Started my computer science journey in 2021.

@@ -1,0 +1,22 @@
+.header-container {
+    background-color: #0A0A0A;
+    color: #F5DEB3;
+}
+
+.header {
+    display: flex;
+    padding: 1rem;
+    /* max-width: 64rem; */
+    margin: 0 auto;
+}
+
+.nav-link {
+    padding: 0.75rem;
+    color: #F5DEB3;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #D2691E;
+}

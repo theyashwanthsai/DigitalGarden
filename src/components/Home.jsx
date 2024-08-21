@@ -2,9 +2,7 @@ import React, { useEffect, useState } from "react";
 import Markdown from "react-markdown";
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
-import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
-import { dracula } from 'react-syntax-highlighter/dist/cjs/styles/prism';
-// import './markdown.css'; 
+import './markdown.css';
 
 function Home() {
   const [markdownContent, setMarkdownContent] = useState("");
@@ -24,21 +22,17 @@ function Home() {
       }
     };
     fetchMarkdown();
-  }, []); // Add empty dependency array to run effect only once
+  }, []);
 
+return (
 
-  return (
-    <div className="lg:p-5 flex items-center justify-center flex-col text-left pt-5">
-      <div className="p-5 text-lg mb-6 w-11/12 lg:w-5/12 leading-loose font-medium">
-        <Markdown 
-          className="markdown" 
-
-          remarkPlugins={[remarkGfm]}
-          rehypePlugins={[rehypeRaw]}
-        >
-          {markdownContent}
-        </Markdown>
-      </div>
+    <div className="markdown-content">
+      <Markdown 
+        remarkPlugins={[remarkGfm]}
+        rehypePlugins={[rehypeRaw]}
+      >
+        {markdownContent}
+      </Markdown>
     </div>
   );
 }

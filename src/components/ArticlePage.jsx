@@ -5,6 +5,7 @@ import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
 import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { dracula } from 'react-syntax-highlighter/dist/cjs/styles/prism';
+import './markdown.css'
 
 function ArticlePage() {
   const { slug } = useParams();
@@ -27,38 +28,34 @@ function ArticlePage() {
     fetchMarkdown();
   }, [slug]);
 
+  const customRenderers = {
+    code({ node, inline, className, children, ...props }) {
+      const match = /language-(\w+)/.exec(className || '');
+      return !inline && match ? (
+        <SyntaxHighlighter style={dracula} PreTag="div" language={match[1]} {...props}>
+          {String(children).replace(/\n$/, '')}
+        </SyntaxHighlighter>
+      ) : (
+        <code {...props}>
+          {children}
+        </code>
+      );
+    },
+  };
+
   return (
-    <div className="lg:p-5 flex items-center justify-center flex-col text-left pt-5 pb-">
-      <div className="markdown p-5 text-lg mb-6 border-4 w-11/12 lg:w-9/12">
-        <Markdown
-          remarkPlugins={[remarkGfm]}
-          rehypePlugins={[rehypeRaw]}
-          components={{
-            code({ node, inline, className, children, ...props }) {
-              const match = /language-(\w+)/.exec(className || '');
-              return !inline && match ? (
-                <SyntaxHighlighter style={dracula} PreTag="div" language={match[1]} {...props}>
-                  {String(children).replace(/\n$/, '')}
-                </SyntaxHighlighter>
-              ) : (
-                <code className={className} {...props}>
-                  {children}
-                </code>
-              );
-            },
-            a({ node, ...props }) {
-              return <a className="markdown-link" {...props} />;
-            }
-          }}
-        >
-          {markdownContent}
-        </Markdown>
+    <div className="article-container">
+      <div className="article-content">
+        <div className="markdown-content">
+          <Markdown 
+            remarkPlugins={[remarkGfm]}
+            rehypePlugins={[rehypeRaw]}
+            components={customRenderers}
+          >
+            {markdownContent}
+          </Markdown>
+        </div>
       </div>
-      <style jsx>{`
-        .markdown-link {
-          text-decoration: underline;
-        }
-      `}</style>
     </div>
   );
 }

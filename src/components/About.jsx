@@ -1,10 +1,11 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useState } from "react";
 import Markdown from "react-markdown";
+import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
+import './markdown.css'
 
-// ![linee](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 function About() {
-  
   const [markdownContent, setMarkdownContent] = useState("");
 
   useEffect(() => {
@@ -22,21 +23,18 @@ function About() {
       }
     };
     fetchMarkdown();
-  });
+  }, []); // Added empty dependency array to prevent continuous fetching
 
   return (
-    <div className="lg:p-5 flex items-center justify-center flex-col text-left pt-5">
-      
-      <div className=" p-5 text-lg mb-6 w-11/12 lg:w-5/12 leading-loose font-medium">
-      <Markdown className="markdown">
+    <div className="markdown-content">
+      <Markdown 
+        remarkPlugins={[remarkGfm]}
+        rehypePlugins={[rehypeRaw]}
+      >
         {markdownContent}
       </Markdown>
-
-      </div>
     </div>
-    
   );
-  
-  
 }
-export default About
+
+export default About;

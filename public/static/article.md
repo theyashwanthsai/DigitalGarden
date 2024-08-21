@@ -12,6 +12,15 @@ If you learned something new reading my blogs, please let me know :)
 
 ## Some of my work:
 
+
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+__[Learning LLM internals by building one](./articles/llm0)__
+
+*Started on Aug 21, 2024*
+
+*Topic: LLM, Series*
+
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 __[What are AI Agents](./articles/aiagents)__
