@@ -22,6 +22,10 @@
   src: url("/fonts/ostwald.ttf");
 }
 
+@font-face {
+  font-family: "iosevka";
+  src: url("/fonts/iosevka.ttf");
+}
 .markdown > * {
     all: revert;
   }

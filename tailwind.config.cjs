@@ -9,7 +9,8 @@ export default {
         indie: ['Indie'],
         victor: ['Victormono'],
         lora: ['lora'],
-        ostwald: ['ostwald']
+        ostwald: ['ostwald'],
+        iosevka: ['iosevka'],
       }
     },
     colors: {

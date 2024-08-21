@@ -9,7 +9,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
   return(
-    <div className="bg-black text-white min-h-screen font-inter">
+    <div className="bg-black text-white min-h-screen font-iosevka">
       <BrowserRouter>
         <Header />
         <Routes>
