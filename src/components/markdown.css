@@ -121,7 +121,7 @@ a:hover {
     .article-content {
         border: none;
         border-radius: 0;
-        padding: 1rem;
+        padding: 0;
     }
 
     .markdown-content {
