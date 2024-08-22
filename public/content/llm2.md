@@ -11,14 +11,14 @@ is same and hence, its important to study the architecture in detail (and also c
 ## Roadmap to build an LLM
 General overview/structure. The whole series will follow this structure throughout.
 
-1. Data preprocessing
-2. Code attention mechanism
-3. Pretraining
-4. Finetune this base model
+- Data preprocessing
+- Code attention mechanism
+- Pretraining
+- Finetune this base model
 
 
 
-### Pretraining and finetuning
+## Pretraining and finetuning
 The basic idea is to train your llm on a large raw dataset. This will help the model understand the language.
 The next step is to finetune on some specific data. This will make the llm perform better on some usecases. The pretrained model is considered base llm model.
 
