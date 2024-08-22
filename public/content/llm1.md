@@ -14,4 +14,20 @@ Most of the newer LLMs are just minor tweaks here and there to the original arch
 Hence learning this is crucial to understand the fundamentals.
 
 ## Transformers Architecture
+A quick overview of the transformer architecture from the paper [Attention Is All You Need](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need)
+
+![img](../articleimages/transformers.png)
+
+The primary example shown in the paper was machine translation. The encoder converts the input embeddings into encoded embeddings as input to decoder. Decoder uses both the 
+encoded embeddings and partial embeddings to generate an output sequence.
+
+__Self attention mechanism__ will be discussed later.
+
+## GPT (and Bert)
+GPT - Generative Pretrained Transformer is a deep neural network based autoregressive model. 
+Each new word is chosen based on the preceding sequence. This is how the text is generated.
+Originally it was developed to get the next word in sequence, but surprisingly, it was able to translate, find missing words, etc. This is known as emergent behaviour.
+
+
+
 
