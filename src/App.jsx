@@ -6,6 +6,8 @@ import Articles from "./components/Articles";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { Analytics } from "@vercel/analytics/react"
+
 
 function App() {
   return(
@@ -19,6 +21,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/articles/:slug" element={<ArticlePage />} />
         </Routes>
+     <Analytics />
       </BrowserRouter>
     </div>
   );
