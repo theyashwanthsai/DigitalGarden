@@ -8,6 +8,8 @@ Both these models are based on the Transformers architecture. But there are some
 is based on the encoder. BERT can sort of find the missing (masked) word in an input text, while GPT gives the next word. Their application varies but the underlying architecture
 is same and hence, its important to study the architecture in detail (and also code it!).
 
+![img](../articleimages/sliding.png)
+
 ## Roadmap to build an LLM
 General overview/structure. The whole series will follow this structure throughout.
 
