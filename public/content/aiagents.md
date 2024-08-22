@@ -2,6 +2,8 @@
 
 > Note: This is more of a discussion than a tutorial. I hate writing tutorials. My blogs are written so that it sets you up with a roadmap to build the project. Building it is your own business. Get out tutorial hell!
 
+*Written on Aug 20, 2024*
+
 
 AI Agents have been a buzz around, and I have some experience building them (partly from my internship, and partly from my own interest around them). 
 

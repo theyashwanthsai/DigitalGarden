@@ -1,6 +1,8 @@
 # LLM Internals part 1
 > This article is part of [this](./llm0) series. My goal is to Learn AI using [Fenyman's Technique](https://aliabdaal.com/the-feynman-technique/)
 
+*Written on Aug 21, 2024*
+
 ## What is an LLM?
 LLM is basically a model which is trained to predict the next word in a sequence. 
 It is a deep neural network model which follows the famous transformers architecture.
@@ -30,6 +32,8 @@ Originally it was developed to get the next word in sequence, but surprisingly, 
 
 
 ---
+
+
 
 Rest will be continued in the next part. Go to [index](./llm0)
 
