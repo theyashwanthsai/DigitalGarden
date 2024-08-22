@@ -12,6 +12,6 @@ kind of inspired me as well.
 
 
 Contents:
-* [LLM Internals part 1]()
+* [LLM Internals part 1](./llm1)
 * [LLM Internals part 2]()
 
