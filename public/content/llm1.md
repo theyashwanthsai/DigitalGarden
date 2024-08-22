@@ -29,5 +29,7 @@ Each new word is chosen based on the preceding sequence. This is how the text is
 Originally it was developed to get the next word in sequence, but surprisingly, it was able to translate, find missing words, etc. This is known as emergent behaviour.
 
 
+---
 
+Rest will be continued in the next part. Go to [index](./llm0)
 
