@@ -16,16 +16,16 @@ LLMs use word embeddings. We embed each word.
 Rag (Retrieval Augemented Generation) on the other hand uses sentence or paragraph embeddings.
 Converting input text to vectors is important, and to do this, there are multiple methods/frameworks/algorithms. One such method is Word2Vec
 
-### Word2Vec:
-The basic idea is to predict the context of a word in a ssentence, provided you have the target word, or vice-versa. The principle here is that similar words cluster together.
+> Word2Vec: The basic idea is to predict the context of a word in a ssentence, provided you have the target word, or vice-versa. The principle here is that similar words cluster together.
 
 
 When it comes to LLMs, They use an input layer (first layer of neural network) to produce their own embeddings. This is especially useful as it optmises our model for specific usecases.
 
 Usually models like gpt 2 or 3.5 use higher dimensionality (embedding size). Its a tradeoff between performance and effeciency. 
 
-## Tokens
+## Tokens 
 We convert input text into tokens. This the first step, Then we convert this into IDs which we will cover in a moment.
+
 ![img](../articleimages/tokens.png)
 
 
@@ -39,6 +39,10 @@ So once we have converted the text into tokens, and these tokens to IDs, Its tim
 
 Note that LLM gives output which is basically numbers. Our task would be to apply inverse vocabulary function to convert these numbers to text. `Numbers -> Text`
 
+**Special tokens:** 
+* `|<unk>|` - Lets say our input to the model contains some words which are not present in our textual data. We use a special token `|<unk>|` - to represent words
+which are not present in the training text data, but is present in the input.
+* `|<endoftext|` - Marks the end/star of a particular text source (segment).
 
 
 > I am only discussing here, Theres no code or anything, although you can find in my github. The main purpose of these mini essays is that whatever I am learning, I want to teach it in form of micro lessons.
