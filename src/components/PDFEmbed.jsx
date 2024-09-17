@@ -6,7 +6,7 @@ const PDFEmbed = () => {
       <div className="w-full max-w-3xl">
         <iframe 
           src="/static/resume.pdf" 
-          className="w-full h-[80vh] border-none shadow-lg"
+          className="w-full h-[85vh] border-none shadow-lg"
         >
           This browser does not support PDFs. Please download the PDF to view it.
         </iframe>
