@@ -10,7 +10,6 @@ You can check what I'm building on my __[Github](<https://github.com/theyashwant
 Follow me on __[Twitter](<https://twitter.com/yashwanthsai29>)__, __[LinkedIn](<https://www.linkedin.com/in/sai-yashwanth-457aa51b9/>)__.
 
 **Tech that I use:**
-- B760M
 - Nvidia RTX4060
 - Intel i5 12400f
 - Acer ED270R 27 Inch Curved LCD

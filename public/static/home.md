@@ -1,7 +1,12 @@
 # Sai Yashwanth
 
 
-Welcome to my personal website. I am Sai Yashwanth, an engineer, builder and a writer (I write blogs and currently writing a book under Manning Publications).
+Welcome to my personal website. I am Sai Yashwanth, an engineer, builder and a writer (currently writing a book under Manning Publications).
+
+Currently working as a Research AI Engineer at Vuhosi, where I read a lot of papers and build AI products. I am also writing research papers, books and making videos about AI.
+> Goal: Build local AGI from my bedroom. :P
+
+
 I love building stuff with code, writing about it, playing football and working out (currently learning ring based moments, really love it). I believe in becoming "multidimensionally jacked" - 
 body, mind, knowledge, skills, communication, finance. The idea is to max out all aspects of life.
 
