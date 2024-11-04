@@ -1,14 +1,18 @@
 # Sai Yashwanth
 
 
-Welcome to my personal website. I am Sai Yashwanth, an engineer, builder and a writer (currently writing a book under Manning Publications).
+Welcome to my personal website. I am Sai Yashwanth, an engineer, builder and a writer.
 
-Currently working as a Research AI Engineer at Vuhosi, where I read a lot of papers and build AI products. I am also writing research papers, books and making videos about AI.
-> Goal: Build local AGI from my bedroom. :P
+I am currently working as an AI Research Engineer at Vuhosi (we are building a copilot for investors and founders), where I read a lot of papers and build ai agents. 
+I am also writing research papers, books and making videos (sometimes) about AI. In my free time, I am learning gamedev using the godot engine. 
+This is my hobby, the reason why I chose CS as my major (although I got sucked into other domains later).
+
+> Goal: Build local AGI from my bedroom :P
 
 
-I love building stuff with code, writing about it, playing football and working out (currently learning ring based moments, really love it). I believe in becoming "multidimensionally jacked" - 
+I love building stuff with code, writing, playing football and working out (currently learning calisthenics, really love it). I believe in the idea of becoming "multidimensionally jacked" - 
 body, mind, knowledge, skills, communication, finance. The idea is to max out all aspects of life.
+Although I am very lazy and sometimes lack the motivation or the urge to take actions, I am actively trying to fix my life in this regard. 
 
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
@@ -39,12 +43,14 @@ body, mind, knowledge, skills, communication, finance. The idea is to max out al
 
 
 ## What I am trying to make my day look like
-I lift weights, Currently training with rings. Eat clean, high protein less carbs.
-Reading some books, blogs mostly related to the work I do and get paid for.
-Inculcating the practice of writing daily, publishing weekly.
+- Lift weights (currently learning calisthenics). 
+- Eat clean, high protein less carbs, more healthy fats.
+- Read books, blogs (mostly related to the work I do and get paid for).
+- Practice writing daily (or atleast often).
 
-I like solving codeforces problems. I try to do one atleast.
-Play games with friends, or alone. Currently love playing [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima) 
+
+I like solving beginner level algorithmic problems. These are fun to do!
+I also love playing games. Favorite ones: [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima), [Uncharted 4](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) 
 
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
