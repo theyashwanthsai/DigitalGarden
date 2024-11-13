@@ -1,10 +1,11 @@
 # Sai Yashwanth
 
 
-Welcome to my personal website. I am Sai Yashwanth, an engineer, builder and a writer.
-
+Welcome to my personal website. I am Sai Yashwanth, an engineer, builder and a writer. 
 I am currently working as an AI Research Engineer at Vuhosi (we are building a copilot for investors and founders), where I read a lot of papers and build ai agents. 
-I am also writing research papers, books and making videos (sometimes) about AI. In my free time, I am learning gamedev using the godot engine. 
+I am also writing research papers, books and making videos (sometimes) about AI. 
+
+In my free time, I am learning gamedev using the godot engine. 
 This is my hobby, the reason why I chose CS as my major (although I got sucked into other domains later).
 
 > Goal: Build local AGI from my bedroom :P
@@ -15,11 +16,16 @@ body, mind, knowledge, skills, communication, finance. The idea is to max out al
 Although I am very lazy and sometimes lack the motivation or the urge to take actions, I am actively trying to fix my life in this regard. 
 
 
+
+I started [Turi Labs](https://www.turilabs.tech) with my friend. Do check out!
+
+
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ## Timeline
 
 ### 2024
+- Co-founded [Turi Labs](https://www.turilabs.tech) with my friend. Turi Labs is an AI Research Lab X Agency. Check out the [landing page](https://www.turilabs.tech)!
 - Started writing a book on AI Agents under Manning Publications.
 - Joined Vuhosi as an AI Engineer. I build and ship AI agents to production with the help of my amazing team.
 - Started working as an Intern at [Composio](https://www.composio.dev/) during this summer.
