@@ -33,7 +33,7 @@ I started [Turi Labs](https://www.turilabs.tech) with my friend. Do check out!
 - Started writing a book on AI Agents under Manning Publications.
 - Joined Vuhosi as an AI Engineer. I build and ship AI agents to production with the help of my amazing team.
 - Started working as an Intern at [Composio](https://www.composio.dev/) this summer.
-- Published first research paper at an internation conference.
+- Published my first research paper at an international conference.
 - Learning Stuff, looking for oppurtunities to work in a fast paced deep tech workplace. (Spoiler alert got in one such startup) 
 
 ### 2023
