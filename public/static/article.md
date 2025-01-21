@@ -9,12 +9,20 @@ I love writing. It shapes my thoughts and my personality in general. My goal is 
 Aim is to create more than what I consume.
 
 
-These are few articles I have written over the years. Writing is the best way to re-learn.
+Writing is the best way to re-learn.
 
 ## Some of my work:
 
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+__[2025 AI Agents Guide](./articles/twitter_essays/mini_essays.md)__
+
+*Started on Dec 27, 2024*
+
+*Topic: AI Agents, Series*
+
+
 
 __[Learning LLM internals by building one](./articles/llm0)__
 
@@ -22,7 +30,12 @@ __[Learning LLM internals by building one](./articles/llm0)__
 
 *Topic: LLM, Series*
 
+
+
+
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+## These are few articles I have written over the years.
 
 __[What are AI Agents](./articles/aiagents)__
 
@@ -41,6 +54,7 @@ __[Building my first PC](./articles/pcbuild)__
 
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 
 __[Building a Copilot Clone using Open Source LLMs for neovim.](./articles/opilot)__
 

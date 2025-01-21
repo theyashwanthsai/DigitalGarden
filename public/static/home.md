@@ -24,23 +24,28 @@ I started [Turi Labs](https://www.turilabs.tech) with my friend. Do check out!
 
 ## Timeline
 
+### 2025
+- Teaching Assistant at my college for the course - Generative AI and its Applications
+- Year started off with a lot of positive vibes. Started journaling and inculcating the habit of reading books.
+
 ### 2024
 - Co-founded [Turi Labs](https://www.turilabs.tech) with my friend. Turi Labs is an AI Research Lab X Agency. Check out the [landing page](https://www.turilabs.tech)!
 - Started writing a book on AI Agents under Manning Publications.
 - Joined Vuhosi as an AI Engineer. I build and ship AI agents to production with the help of my amazing team.
-- Started working as an Intern at [Composio](https://www.composio.dev/) during this summer.
-- First publications: IEEE CONECCT 2024 (international conference). Paper on using llms to generate ipl match blogposts.
+- Started working as an Intern at [Composio](https://www.composio.dev/) this summer.
+- Published first research paper at an internation conference.
 - Learning Stuff, looking for oppurtunities to work in a fast paced deep tech workplace. (Spoiler alert got in one such startup) 
 
 ### 2023
 - Worked as an Intern at Vertexcover Technology (Dec - Jan).
-- Worked as a Freelancer for Wulot (July-Sept). Earn some money (My first salary)
-- Started focusing on internals of databases, programming languages and much more technologies.
- 
+- Worked as a Freelancer for Wulot (July-Sept). Earned some money (My first time earning money online)
+- Started focusing on internals of databases, programming languages and many other technologies.
+- Learnt JS, Learnt React and Nodejs to build complete full stack webapps.
+
 ### 2022
 - Gave my First Workshop, Linux for ethical hacking (November)
 - Got into CyberSec, Started participating in CTFs.
-- Learnt JS, Learnt React and Nodejs to build complete full stack webapps.
+
 
 ### 2021
 - Learnt C.
@@ -48,11 +53,11 @@ I started [Turi Labs](https://www.turilabs.tech) with my friend. Do check out!
 - Joined College, Started my computer science journey in 2021.
 
 
-## What I am trying to make my day look like
-- Lift weights (currently learning calisthenics). 
-- Eat clean, high protein less carbs, more healthy fats.
-- Read books, blogs (mostly related to the work I do and get paid for).
-- Practice writing daily (or atleast often).
+## What my day looks like (trying hard to make it look like this)
+- Training: Lift weights (currently learning calisthenics). 
+- Eating: Eat clean, high protein less carbs, more healthy fats.
+- Reading: Read books (self help), blogs (mostly related to the work I do and get paid for).
+- Writing: Practice writing daily (or atleast often).
 
 
 I like solving beginner level algorithmic problems. These are fun to do!
