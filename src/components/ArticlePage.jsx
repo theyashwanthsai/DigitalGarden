@@ -8,25 +8,35 @@ import { dracula } from 'react-syntax-highlighter/dist/cjs/styles/prism';
 import './markdown.css'
 
 function ArticlePage() {
-  const { slug } = useParams();
+  const { folder, slug } = useParams();
+  console.log(folder)
+  console.log(slug)
   const [markdownContent, setMarkdownContent] = useState("");
 
   useEffect(() => {
     const fetchMarkdown = async () => {
       try {
-        const response = await fetch(`/content/${slug}.md`);
+        // Simplified path construction
+        const path = folder 
+          ? `/content/${folder}/${slug}.md`  // For nested files
+          : `/content/${slug}.md`;          // For root level files
+        
+        const response = await fetch(path);
+
         if (response.ok) {
           const markdownFile = await response.text();
           setMarkdownContent(markdownFile);
         } else {
           console.error("Error fetching the Markdown file");
+          setMarkdownContent("# 404\nArticle not found");
         }
       } catch (error) {
         console.error(error);
+        setMarkdownContent("# Error\nFailed to load article");
       }
     };
     fetchMarkdown();
-  }, [slug]);
+  }, [folder, slug]);
 
   const customRenderers = {
     code({ node, inline, className, children, ...props }) {

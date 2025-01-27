@@ -19,7 +19,8 @@ function App() {
           <Route path="/articles" element={<Articles />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/about" element={<About />} />
-          <Route path="/articles/:slug" element={<ArticlePage />} />
+          <Route path="/content/:slug" element={<ArticlePage />} />
+          <Route path="/content/:folder/:slug" element={<ArticlePage />} />
           <Route path="/resume" element={<PDFEmbed />} />
         </Routes>
      <Analytics />

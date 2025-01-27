@@ -59,6 +59,8 @@ I started [Turi Labs](https://www.turilabs.tech) with my friend. Do check out!
 - Reading: Read books (self help), blogs (mostly related to the work I do and get paid for).
 - Writing: Practice writing daily (or atleast often).
 
+I am trying to keep my 
+
 
 I like solving beginner level algorithmic problems. These are fun to do!
 I also love playing games. Favorite ones: [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima), [Uncharted 4](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) 

@@ -11,12 +11,10 @@ Aim is to create more than what I consume.
 
 Writing is the best way to re-learn.
 
-## Some of my work:
+## Series:
+Some of my mini essays are part of a same larger topic. Hence I have put them as a series of posts.
 
-
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-__[2025 AI Agents Guide](./articles/twitter_essays/mini_essays.md)__
+__[2025 AI Agents Guide](./content/twitter_essays/mini_essays)__
 
 *Started on Dec 27, 2024*
 
@@ -24,7 +22,7 @@ __[2025 AI Agents Guide](./articles/twitter_essays/mini_essays.md)__
 
 
 
-__[Learning LLM internals by building one](./articles/llm0)__
+__[Learning LLM internals by building one](./content/llm0)__
 
 *Started on Aug 21, 2024*
 
@@ -35,92 +33,85 @@ __[Learning LLM internals by building one](./articles/llm0)__
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## These are few articles I have written over the years.
+## Mini Essays 
+Documenting my thoughts regularly
 
-__[What are AI Agents](./articles/aiagents)__
+__[Writing](./content/writing)__
+
+*Written on Dec 29, 2024*
+
+*Topic: Writing, Life, Habit*
+
+
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+## Blogs
+
+
+__[What are AI Agents](./content/aiagents)__
 
 *Written on Aug 20, 2024*
 
 *Topic: AI Agents, Crewai*
 
-
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-__[Building my first PC](./articles/pcbuild)__
+__[Building my first PC](./content/pcbuild)__
 
 *Written on Aug 19, 2024*
 
 *Topic: PC, Gaming, Fun*
 
 
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-
-__[Building a Copilot Clone using Open Source LLMs for neovim.](./articles/opilot)__
+__[Building a Copilot Clone using Open Source LLMs for neovim.](./content/opilot)__
 
 *Written on Apr 10, 2024*
 
 *Topic: Luascript, Neovim plugin, Typescript*
 
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-__[Let's Build A Simple Programming Language. Part 1.](./articles/language1)__
+__[Let's Build A Simple Programming Language. Part 1.](./content/language1)__
 
 *Written on Oct 23, 2023*
 
 *Topic: Compiler Design, Interpreters*
 
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-__[Lets build a simple blog app backend. Part - 2](./articles/masteringbackend2)__
+__[Lets build a simple blog app backend. Part - 2](./content/masteringbackend2)__
 
 *Written on Jul 15, 2023*
 
 *Topics: Node.js, Express.js, Backend*
 
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-__[What are Middlewares?](./articles/middlewares)__
+__[What are Middlewares?](./content/middlewares)__
 
 *Written on Jul 10, 2023*
 
 *Topics: Node.js, Express.js, Backend*
 
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-__[Lets build a simple blog app backend. Part - 1](./articles/masteringbackend1)__
+__[Lets build a simple blog app backend. Part - 1](./content/masteringbackend1)__
 
 *Written on Jul 9, 2023*
 
 *Topics: Node.js, Express.js, Backend*
 
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-__[Vim 101](./articles/vim)__
+__[Vim 101](./content/vim)__
 
 *Written on Jan 21, 2023*
 
 *Topics: Vim, NeoVim, Dev Tools*
 
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-__[Git 101](./articles/git)__
+__[Git 101](./content/git)__
 
 *Written on Jan 6, 2023*
 
 *Topics: Git, Version Control, Dev Tools*
 
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-__[Linked List in C](./articles/linkedlist)__
+__[Linked List in C](./content/linkedlist)__
 
 *Written on Jun 9, 2022*
 
 *Topics: C, Data Structures, Programming*
 
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-__[My First Hackathon](./articles/hackathon)__
+__[My First Hackathon](./content/hackathon)__
 
 *Written on Jan 13, 2022*
 

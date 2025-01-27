@@ -1,4 +1,7 @@
-Which framework to choose to build AI Agents
+## Which framework to choose to build AI Agents
+> This mini essay was written on twitter originally, Check it out here: https://x.com/yashwanthsai29/status/1873690100527399065
+
+*Written on Dec 30, 2024*
 
 Even though I mentioned that any framework works best for learning, there were still some questions on which one to choose. And which is the best to get started. I have used all of the listed frameworks to build agents. 
 
