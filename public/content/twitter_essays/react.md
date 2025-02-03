@@ -17,9 +17,9 @@ Why do we need to know whats happening inside? That will give us some more under
 ReAct - Reasoning and Action. This is one popular pattern, where a llm is given a role (Agent profile), given a task and is said to think in a chain of reasoning steps (Chain of thought) before reaching out to final answer/conclusion. Also the llm is equipped with some tools (External functions, which the llm can tell along with parameters, and then these functions are executed by sending the said parameter). Crewai works in a similar manner.
 
 Components of an AI Agent:
--Brain: LLM acts the brain for AI Agents. You also give the ability to "think/reason"
--Limbs: Tools act as limbs. Agents can interact with the real world and perform some actions using these Tools. 
--Memory: Agents can have memory, where you could store some interaction/some important data. You can use some "retrieval tool" to retrieve whenever needed. More on memory in another essay.
+- Brain: LLM acts the brain for AI Agents. You also give the ability to "think/reason"
+- Limbs: Tools act as limbs. Agents can interact with the real world and perform some actions using these Tools. 
+- Memory: Agents can have memory, where you could store some interaction/some important data. You can use some "retrieval tool" to retrieve whenever needed. More on memory in another essay.
 
 So yes, AI Agents are just LLM with the ability to do function calling, and the ability to go over a few steps of COT. 
 Yes, things are "hyped" up. But we are severely underestimating what multiple AI Agents when communicating with each other can achieve. The limit is our creativity.
