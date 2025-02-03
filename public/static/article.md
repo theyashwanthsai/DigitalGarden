@@ -36,6 +36,18 @@ __[Learning LLM internals by building one](./content/llm0)__
 ## Mini Essays 
 Documenting my thoughts regularly
 
+__[Why Build in Public?](./content/buildinpublic)__
+
+*Written on Jan 28, 2025*
+
+*Topic: Writing, Life, Habit*
+
+__[DeepSeek R1 Training Pipeline Explained from their Paper](./content/deepseek)__
+
+*Written on Jan 27, 2025*
+
+*Topic: AI, LLMs, Research Paper*
+
 __[Writing](./content/writing)__
 
 *Written on Dec 29, 2024*
