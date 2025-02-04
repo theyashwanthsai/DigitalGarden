@@ -18,3 +18,5 @@ You can view all my writings here:
 - [What are AI Agents and How do they work internally?](./react)
 - [How I structure my AI Agent codebase](./codebase)
 - [Why most AI Agent frameworks would fail](./framework_fail)
+- [AI Agents will kill traditional SaaS?](./saas.md)
+- [How I save API costs while building AI Agents](./cheapagents)
