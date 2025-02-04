@@ -18,7 +18,7 @@ The most fundamental components in crewAIInc are:
 - Tasks: Assigning specific work to these personified AI. I like to use this principle: Least Responsibility
 - Tools: Most important, You have a persona, and a task, but without tools, agents wont be able to complete their jobs. Tools are like Arms and Legs for Agents. 
 
-composiohq is very useful (I worked there in summer), I would still argue that it is good to build atleast some "not so complex" tools on your own.
+Composio is very useful (I worked there in summer), I would still argue that it is good to build atleast some "not so complex" tools on your own.
 
 Keep playing around with ideas, and you might build something cool. Check for my pinned tweet, where I built something really cool and really basic.
 

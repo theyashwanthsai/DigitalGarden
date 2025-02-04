@@ -24,6 +24,9 @@ Components of an AI Agent:
 So yes, AI Agents are just LLM with the ability to do function calling, and the ability to go over a few steps of COT. 
 Yes, things are "hyped" up. But we are severely underestimating what multiple AI Agents when communicating with each other can achieve. The limit is our creativity.
 
+
+![tweet](/articleimages/react.png)
+
 -----------------------------------------------
 
 This was a very short essay on how AI Agents work. Please follow me if you find it interesting. I will be posting more and more such essays on AI Agents.

@@ -46,3 +46,5 @@ The tool decorator is powerful, and saves us time by setting up the function for
 In my own AI Agent framework which we built at Vuhosi, there is no decorator, instead, the function name is taken as tool name. Same thing happens in the above frameworks as well. The function name is the tool name (Unless u mention in the decorator), function's docstring is the tool's description (a docstring MUST be provided, it helps the llm understand better so good to have)
 
 This is how I build tools. At Vuhosi, I build all the tools myself to make sure there is no issues when deployed in production.
+
+![tweet](/articleimages/tools.png)

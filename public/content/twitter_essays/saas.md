@@ -4,8 +4,8 @@ This is what a lot of people are talking about. Satya Nadella even talked about 
 So to understand how that might happen, we need to understand what a traditional SaaS is, and then what a simple definition of an agent which might act on top of SaaS look like.
 
 So SaaS is basically a layer (website/mobile app) on top of a huge database. This layer is an interaction layer between users and database. This layer has two aspects: 
-1. UI which the user interacts with, 
-2. A business logic which is what the interaction is meant for. This business logic is reflected on the database (CRUD operations). 
+- UI which the user interacts with, 
+- A business logic which is what the interaction is meant for. This business logic is reflected on the database (CRUD operations). 
 
 Look into google sheets, 
 It is a SaaS which has a layer (website or app) and users can interact, click buttons and this interaction can change the database at their servers (This is obviously a very high level overview, when u dig deeper u will know how there are distributed algorithms at play) 
@@ -25,3 +25,6 @@ This reduces learning curve for users. Most important thing in business is to ma
 If you are a service provider, It would be good to get started with building another layer of interaction. I am seeing few doing it. Stripe has also released an agent toolkit. 
 
 Some have entirely skipped the first layer (UI and backend logic) and are natively using agents. Perhaps Agents as a Service
+
+
+![tweet](/articleimages/saas.png)

@@ -25,9 +25,9 @@ My agents (built using crewai) were not working as expected. This was kind of a 
 Hence, I started building agents using Openai's assistant framework. Soon, I built a small reusable abstraction, which I kept on improving, and 6 months later I still use it, works much better. 
 
 The problem with AI agent frameworks is that they might:
--Hallucinate a lot when performing function/tool calling.
--They might go into an endless "Thought-Action-Observation" loop.
--Cost would be high.
+- Hallucinate a lot when performing function/tool calling.
+- They might go into an endless "Thought-Action-Observation" loop.
+- Cost would be high.
 
 And most importantly, AI Agent frameworks which orchestrate a multi agent system is overkill for most business problems. If you cant define/engineer a clear cut pipeline, then you should go back to a rough paper and think again, instead of delegating it to AI Agents. 
 

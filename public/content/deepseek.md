@@ -32,23 +32,26 @@ Drawbacks: R1-Zero struggled with challenges like poor readability, and language
 Inspired by the promising results of R1-Zero, Authors went on ahead to create a new training pipeline, with small but high quality data for SFT phase.
 
 R1 4 stage pipeline:
-1) First SFT Phase: V3-Base + SFT (using cold start data) 
+- First SFT Phase: V3-Base + SFT (using cold start data) 
 First Checkpoint - Establishing basic competencies and reasoning patterns.
 
-2) First RL Phase: Checkpoint 1 + RL (GRPO + Language Consistency)
+- First RL Phase: Checkpoint 1 + RL (GRPO + Language Consistency)
 Second Checkpoint - Enhanced language understanding and consistency.
 This checkpoint is used to collect SFT data for the subsequent round.
 
-3) Second SFT Phase: Start fresh
+- Second SFT Phase: Start fresh
 V3-Base +  SFT  (Generated data in step 2 and other data, 800k samples). Done for 2 epochs
 Third Checkpoint - Improved foundational capabilities
 
-4) Final RL Phase: **Checkpoint 3** + RL (a combination of reward signals and diverse prompt distributions) 
+- Final RL Phase: **Checkpoint 3** + RL (a combination of reward signals and diverse prompt distributions) 
 Final Checkpoint: DeepSeek R1
 
 This is how the training pipeline of the best open source model (currently) looks like. 
 
 Obviously this is a high level overview so I haven't explained in detail. Even covering even the first 10 pages without losing my mind is difficult with the amount of new stuff I am discovering (I love it)
+
+![tweet](/articleimages/deepseek.png)
+
 
 Soon I will be going deep into topics like GRPO and PPO, SFT, Cold Start Problem and many more. 
 I use Feyman's technique to learn anything. So I will mostly be sharing a lot of my thoughts and learnings regularly.
