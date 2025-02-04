@@ -25,3 +25,4 @@ Keep playing around with ideas, and you might build something cool. Check for my
 Keep in mind that this is for learning. 
 What do I use for production grade projects? I will write something about this in a future post, Something I use in my daily job as AI Engineer at VuhosiAI
  
+![tweet](/articleimages/crew.png)
