@@ -1,5 +1,11 @@
 How I save API costs while building AI Agents
 
+> This mini essay was written on twitter originally, Check it out here: https://x.com/yashwanthsai29/status/1886285416250437943
+
+*Written on Feb 03, 2025*
+
+
+
 My lessons on how to build agents for cheap
 
 So, building agents is very costly. Simply because agents go on multiple "thought action observation" loops under the hood, and this can cause some serious issues. 

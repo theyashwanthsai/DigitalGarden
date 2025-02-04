@@ -1,5 +1,11 @@
 ## AI Agents will kill traditional SaaS
 
+> This mini essay was written on twitter originally, Check it out here: https://x.com/yashwanthsai29/status/1885193969728184671
+
+*Written on Jan 31, 2025*
+
+
+
 This is what a lot of people are talking about. Satya Nadella even talked about it in few interviews. After building AI Agents close to one full year now, I think I can understand how this might happen.  
 So to understand how that might happen, we need to understand what a traditional SaaS is, and then what a simple definition of an agent which might act on top of SaaS look like.
 
