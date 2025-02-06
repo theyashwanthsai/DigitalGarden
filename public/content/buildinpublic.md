@@ -22,3 +22,7 @@ PS: I referred my friend for that since I already have a job
 
 
 ![local](/articleimages/bip.png)
+
+
+`Tags: Writing, Life, Habit`
+

@@ -361,3 +361,5 @@ This line will connect the database and our code. I use MongoDB Atlas, easy to u
 
 We have implemented signup and login routes and created user and post Schemas. In our next article, we will look into posts, comments, likes, and bookmarks.   
 ```
+
+`Tags: Node.js, Express.js, Backend`

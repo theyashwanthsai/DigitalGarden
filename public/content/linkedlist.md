@@ -74,3 +74,6 @@ This code should give me a list
 The first node contains integer data 5 and address of 98, Second node contains data 98 and address of 34. The third node contains 34 and next pointer points to null.
 
 In the next article, Further operations on linked list will be covered.
+
+
+`Tags: C, Data Structures, Programming`

@@ -20,3 +20,5 @@ Frontend is something not to be ignored and recently I have focused more on fron
 Need to focus on communication with teammates. I was lucky my teammate understood what was to be done and we somehow made something to show to the evaluators.
 
 In the end, I made friends, learnt about team management and about how a product is made from idea part to execution part.
+
+`Tags: Hackathon, Experiences`

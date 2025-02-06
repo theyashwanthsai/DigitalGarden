@@ -119,3 +119,4 @@ Okay, that’s it for today. In the next article, I will probably introduce Pars
 Thank you for reading ◝(^ ^)◜
 
 
+`Tags: Compiler Design, Interpreters`

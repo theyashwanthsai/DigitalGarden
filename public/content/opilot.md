@@ -174,5 +174,4 @@ Here's the source code __[repo](https://github.com/theyashwanthsai/opilot.nvim)_
 
 
 
-
-
+`Tags: Luascript, Neovim plugin, Typescript`

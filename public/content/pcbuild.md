@@ -26,3 +26,5 @@ I currently use pop os and windows 11 (Dual booted). I play on my windows and co
 Currently playing: Ghost of Tsushima. Love this game and the world.
 
 This was an amazing experience and I love my pc.
+
+`Tags: PC, Gaming, Fun`

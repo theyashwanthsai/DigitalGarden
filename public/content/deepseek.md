@@ -55,3 +55,5 @@ Obviously this is a high level overview so I haven't explained in detail. Even c
 
 Soon I will be going deep into topics like GRPO and PPO, SFT, Cold Start Problem and many more. 
 I use Feyman's technique to learn anything. So I will mostly be sharing a lot of my thoughts and learnings regularly.
+
+`Tags: AI, LLMs, Research Paper`

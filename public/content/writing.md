@@ -25,3 +25,5 @@ What I am doing -
 3. Share online. Nobody cares, so just put it. It has asymmetric returns, Might change your life (did for me).
 
 I honestly write whatever would have been useful to the past me. It also helps a lot of people, and I get views and likes which makes me happy. I connect to people, my network grows. Its helpful in all ways
+
+`Tags: Writing, Life, Habit`
