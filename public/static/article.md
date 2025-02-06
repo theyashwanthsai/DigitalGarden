@@ -5,21 +5,21 @@
 
 <!-- ![img](https://64.media.tumblr.com/8b868373b16c535b6494ea3f6a323030/499da71b41a48e3b-d6/s1280x1920/f98819182c7c4429ce02b30aac82de593c71b47b.gif) -->
 
-I love writing. It shapes my thoughts and my personality in general. My goal is to write mini essays on a regular basis (Raw unfiltered thoughts and learnings). 
+I love writing. It shapes my thoughts and my personality in general. Writing is the best way to re-learn a topic. My goal is to write mini essays on a regular basis (Raw unfiltered thoughts and learnings). 
 Aim is to create more than what I consume.
 
-
-Writing is the best way to re-learn.
+This section is divided into 3 parts.
+- Series: Some of my mini essays are part of a same larger topic. Hence I have put them as a series of posts.
+- Mini Essays: Documenting my thoughts on various parts of life
+- Blogs: Stuff I wrote back when I was in college and living in the hostel. I don’t want to touch this section. It remains a place for me to come back and look at how naive I was back then.
 
 ## Series:
-Some of my mini essays are part of a same larger topic. Hence I have put them as a series of posts.
-
 *Dec 27, 2024* __[2025 AI Agents Guide](./content/twitter_essays/mini_essays)__
 
 *Aug 21, 2024* __[Learning LLM internals by building one](./content/llm0)__
 
 ## Mini Essays 
-Documenting my thoughts regularly
+
 
 *Jan 28, 2025* __[Why Build in Public?](./content/buildinpublic)__
 
