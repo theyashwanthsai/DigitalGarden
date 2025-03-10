@@ -29,6 +29,22 @@ This section is divided into 3 parts.
 
 ## Blogs
 
+*Feb 03, 2025* __[How I save API costs while building AI Agents](./content/twitter_essays/cheapagents)__
+
+*Jan 31, 2025* __[AI Agents will kill traditional SaaS?](./content/twitter_essays/saas)__
+
+*Jan 17, 2025* __[Why most AI Agent frameworks would fail](./content/twitter_essays/framework_fail)__
+
+*Jan 12, 2025* __[How I structure my AI Agent codebase](./content/twitter_essays/codebase)__
+
+*Jan 9, 2025* __[What are AI Agents and How do they work internally?](./content/twitter_essays/react)__
+
+*Jan 7, 2025* __[How to Write tools for AI agent](./content/twitter_essays/tools)__
+
+*Dec 30, 2024* __[Which framework to choose to build AI Agents](./content/twitter_essays/framework)__
+
+*Dec 27, 2024* __[Heres How I would go about Building AI Agents in 2025](./content/twitter_essays/build_agents)__
+
 *Aug 20, 2024* __[What are AI Agents](./content/aiagents)__
 
 *Aug 19, 2024* __[Building my first PC](./content/pcbuild)__
