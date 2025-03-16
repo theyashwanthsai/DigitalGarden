@@ -2,7 +2,7 @@
 
 
 Welcome to my personal website. I am Sai Yashwanth, an engineer, builder and a writer. 
-I am currently working as an AI Research Engineer at Vuhosi. Check my [proof of work](./static/timeline)
+I am currently working as an AI Research Engineer at Vuhosi. Check my [proof of work](./timeline)
 
 I started [Turi Labs](https://www.turilabs.tech) - Indie AI Research Lab. 
 
@@ -19,7 +19,7 @@ Although I am very lazy and sometimes lack the motivation or the urge to take ac
 - [Essays](./articles): I got this habbit of writing and I love it. Here's a collection of all the stuff I have written.
 - [Projects](./projects): A showcase of all the projects I have worked on. (Might be incomplete)
 - [Timeline](./timeline): A chronological view of my journey, achievements, and experiences.
-- [Reading List](./reading-list): A compilation of books, articles, and blogs that I have read or plan to read.
+- [Reading List (wip)](./reading-list): A compilation of books, articles, and blogs that I have read or plan to read.
 
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)

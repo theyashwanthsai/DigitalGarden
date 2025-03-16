@@ -11,6 +11,12 @@ I always believe in learning by building. Projects are what I have been building
 These are the projects which I would show you if you want to know what my craft is all about.
 If you're curious about the scope and quality of my work, these are the ones I would proudly present.
 
+**[MREB](./mreb)**  
+
+Multimodal Reasoning and Ethics Benchmark (MREB) is an open source benchmark designed to assess the cross-domain capabilities of AI models.
+   - Language: Python
+
+
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 **[ZenScript](https://github.com/theyashwanthsai/ZenScript)**  

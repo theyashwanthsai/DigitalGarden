@@ -16,13 +16,13 @@ function ArticlePage() {
   useEffect(() => {
     const fetchMarkdown = async () => {
       try {
-        // Simplified path construction
+        // Still fetch from the content directory, but URLs don't show it
         const path = folder 
           ? `/content/${folder}/${slug}.md`  // For nested files
           : `/content/${slug}.md`;          // For root level files
         
         const response = await fetch(path);
-
+  
         if (response.ok) {
           const markdownFile = await response.text();
           setMarkdownContent(markdownFile);
