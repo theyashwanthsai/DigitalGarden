@@ -106,8 +106,8 @@ pip install -r requirements.txt
 
 
 ```bash
-chmod +x run_eval.sh
-./run_eval.sh
+chmod +x eval.sh
+./eval.sh
 ```
 
 
