@@ -37,11 +37,20 @@ llava-llama3:latest | 40.0 | 48.0 | 84.0 | 84.0 | 64.0
 llava:latest | 20.0 | 48.0 | 88.0 | 92.0 | 62.0
 
 
-Some plots:
-![bar](images/bar.png)
-![radar](images/radar.png)
-![perf](images/perf.png)
 
+Interesting to see that gemma3 is the smallest model out of all - 4B. I couldn't run the 12B model due to less vram (I think thats an ollama issue, might be fixed soon)
+
+
+
+
+### Some plots:
+![bar](../articleimages/bar.png)
+![radar](../articleimages/radar.png)
+![perf](../articleimages/perf.png)
+
+
+Spider Plot for Gemma3 4b
+![gemma](../articleimages/Gemma3-4b.png)
 
 ## How does it work?
 There are 4 categories - Logical, Coding, Ethics, Multimodal. Each category is to test an llm in that skill/space. Currently there are 25 tasks in each. The goal is to expand them to 120, with different difficulty types. 
