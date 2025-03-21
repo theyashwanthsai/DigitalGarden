@@ -3,7 +3,7 @@
 *Created on 16 march, 2025*
 
 - [Github Repo](https://github.com/theyashwanthsai/MREB)
-- [Youtube Video - tbd]() 
+- [Youtube Video](https://www.youtube.com/watch?v=mquVt7PJFxU) 
 
 
 So, I wanted to benchmark local small llms and learn more about llm benchmarks in general. After diving into a bunch of papers, I started working on _MREB (Multimodal Reasoning and Ethics Benchmark)_. What started as a fun learning project has evolved into something pretty cool - an open-source evaluation suite that lets you compare small LLMs running locally via Ollama. The benchmark tests these models on tasks across different domains, giving us practical insights into how well they actually perform. 
