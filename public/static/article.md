@@ -8,30 +8,33 @@
 I love writing. It shapes my thoughts and my personality in general. Writing is the best way to re-learn a topic. My goal is to write mini essays on a regular basis (Raw unfiltered thoughts and learnings). 
 Aim is to create more than what I consume.
 
-This section is divided into 3 parts.
+This section is consists of 3 parts.
 - Series: Some of my mini essays are part of a same larger topic. Hence I have put them as a series of posts.
 - Mini Essays: Documenting my thoughts on various parts of life
-- Blogs: Stuff I wrote back when I was in college and living in the hostel. I don’t want to touch this section. It remains a place for me to come back and look at how naive I was back then.
+- Blogs: Stuff I wrote back when I was in college and living in the hostel. I don’t want to touch this section. It remains a place for me to come back and look at how naive I was back then. These are old and are a reflection of my younger self.
 
 ## Series:
+*Apr 01, 2025* __[Computers are cool. Lets learn about them](./computers/computers0)__
+
 *Dec 27, 2024* __[2025 AI Agents Guide](./twitter_essays/mini_essays)__
 
 *Aug 21, 2024* __[Learning LLM internals by building one](./llm0)__
 
 ## Mini Essays 
 
+<!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
 
-*Jan 28, 2025* __[Why Build in Public?](./buildinpublic)__
+*Apr 01, 2025* __[Computers are cool. Lets learn about them](./computers/computers0)__
 
-*Jan 27, 2025* __[DeepSeek R1 Training Pipeline Explained from their Paper](./deepseek)__
-
-*Dec 29, 2024* __[Writing](./writing)__
-
-## Blogs
+*Mar 16, 2025* __[MREB](./mreb)__  
 
 *Feb 03, 2025* __[How I save API costs while building AI Agents](./twitter_essays/cheapagents)__
 
 *Jan 31, 2025* __[AI Agents will kill traditional SaaS?](./twitter_essays/saas)__
+
+*Jan 28, 2025* __[Why Build in Public?](./buildinpublic)__
+
+*Jan 27, 2025* __[DeepSeek R1 Training Pipeline Explained from their Paper](./deepseek)__
 
 *Jan 17, 2025* __[Why most AI Agent frameworks would fail](./twitter_essays/framework_fail)__
 
@@ -42,6 +45,8 @@ This section is divided into 3 parts.
 *Jan 7, 2025* __[How to Write tools for AI agent](./twitter_essays/tools)__
 
 *Dec 30, 2024* __[Which framework to choose to build AI Agents](./twitter_essays/framework)__
+
+*Dec 29, 2024* __[Writing](./writing)__
 
 *Dec 27, 2024* __[Heres How I would go about Building AI Agents in 2025](./twitter_essays/build_agents)__
 
