@@ -28,7 +28,9 @@ This section is consists of 3 parts.
 
 *Mar 16, 2025* __[MREB](./mreb)__ 
 
-*Feb 11, 2025* [How I write prompts for my AI Agent](./prompting)
+*Mar 5, 2025* __[MCP 101: A Beginner's Guide to AI Agents](./twitter_essays/mcp101)__
+
+*Feb 11, 2025* __[How I write prompts for my AI Agent](./twitter_essays/prompting)__
 
 *Feb 03, 2025* __[How I save API costs while building AI Agents](./twitter_essays/cheapagents)__
 
