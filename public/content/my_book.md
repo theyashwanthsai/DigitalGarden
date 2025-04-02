@@ -11,13 +11,19 @@ Probably the biggest project I have taken as an undergrad – writing a book wit
 
 
 We will soon be launching a small book community, where we: 
+
+
 ▪️ Go beyond the curriculum (AI Agents space is rapidly advancing), 
+
+
 ▪️ Stay updated with the world of AI, and 
+
+
 ▪️ Provide help whenever needed. 
 
 
 If you like this, please fill the form here so we know how many are interested and what to expect:
-https://lnkd.in/gyWMs85q
+[Link for interest form](https://docs.google.com/forms/d/e/1FAIpQLSd6zp3w5NXqJotSvR1lDjWaYHFtoXYFffxNM69AZHj95Xr-VA/viewform)
 
 
 This book, born out of my hands-on experience as a Founding AI at Vuhosi over the past seven months, dives into the fascinating world of AI agents.
