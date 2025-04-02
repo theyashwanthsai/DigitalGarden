@@ -28,7 +28,9 @@ This section is consists of 3 parts.
 
 *Mar 16, 2025* __[MREB](./mreb)__ 
 
-*Mar 5, 2025* __[MCP 101: A Beginner's Guide to AI Agents](./twitter_essays/mcp101)__
+*Mar 11, 2025* __[Becoming an Author](./my_book)__
+
+*Mar 05, 2025* __[MCP 101: A Beginner's Guide to AI Agents](./twitter_essays/mcp101)__
 
 *Feb 11, 2025* __[How I write prompts for my AI Agent](./twitter_essays/prompting)__
 
@@ -44,9 +46,9 @@ This section is consists of 3 parts.
 
 *Jan 12, 2025* __[How I structure my AI Agent codebase](./twitter_essays/codebase)__
 
-*Jan 9, 2025* __[What are AI Agents and How do they work internally?](./twitter_essays/react)__
+*Jan 09, 2025* __[What are AI Agents and How do they work internally?](./twitter_essays/react)__
 
-*Jan 7, 2025* __[How to Write tools for AI agent](./twitter_essays/tools)__
+*Jan 07, 2025* __[How to Write tools for AI agent](./twitter_essays/tools)__
 
 *Dec 30, 2024* __[Which framework to choose to build AI Agents](./twitter_essays/framework)__
 
@@ -66,13 +68,13 @@ This section is consists of 3 parts.
 
 *Jul 10, 2023* __[What are Middlewares?](./middlewares)__
 
-*Jul 9, 2023* __[Lets build a simple blog app backend. Part - 1](./masteringbackend1)__
+*Jul 09, 2023* __[Lets build a simple blog app backend. Part - 1](./masteringbackend1)__
 
 *Jan 21, 2023* __[Vim 101](./vim)__
 
-*Jan 6, 2023* __[Git 101](./git)__
+*Jan 06, 2023* __[Git 101](./git)__
 
-*Jun 9, 2022* __[Linked List in C](./linkedlist)__
+*Jun 09, 2022* __[Linked List in C](./linkedlist)__
 
 *Jan 13, 2022* __[My First Hackathon](./hackathon)__
 
