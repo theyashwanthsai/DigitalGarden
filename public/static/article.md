@@ -26,7 +26,9 @@ This section is consists of 3 parts.
 
 *Apr 01, 2025* __[Computers are cool. Lets learn about them](./computers/computers0)__
 
-*Mar 16, 2025* __[MREB](./mreb)__  
+*Mar 16, 2025* __[MREB](./mreb)__ 
+
+*Feb 11, 2025* [How I write prompts for my AI Agent](./prompting)
 
 *Feb 03, 2025* __[How I save API costs while building AI Agents](./twitter_essays/cheapagents)__
 

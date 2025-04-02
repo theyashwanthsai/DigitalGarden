@@ -20,6 +20,7 @@ You can view all my writings here:
 
 *Feb 03, 2025* [How I save API costs while building AI Agents](./cheapagents)
 
+*Feb 11, 2025* [How I write prompts for my AI Agent](./prompting)
 
 Recently, my posts on twitter started getting thousands of views, giving me 100s of followers. This has enabled me to connect to a lot of founders and CEOs, talking to them and having calls, discussing AI Agents. This truly made me appreciate "Build in Public" which is what I have been doing for the past 3-4 years, since the start of my college as a CS undergrad.
 
