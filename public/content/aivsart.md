@@ -6,6 +6,7 @@ I have been seeing a lot of arguments in the past one week, where a lot of artis
 Well this emotion is pretty much expected, and I am afraid there will be a lot more in the coming few years. AGI will completely change the economy as we see it. Many of our "jobs" will be replaced for real. But this is where I draw a line. 
 
 Well for those who don't know me,  I am all for AI. (I have bet all my 16 years of education in AI (more specifically AI Agents) by not sitting in college placements which is like taking a huge jump with no safety net. And I am all in for this risk. Probably the best decision of my life)
+
 I am putting all of my spare time into building machines which mimic human thinking and I actually love this process.
 
 Lets get back to the main topic.
@@ -23,7 +24,7 @@ The reason is probably two things
 The last point is the one which is biting everyone's ass. Why will someone pay an artist, when we can have art done by these machines which are faster and cheaper. 
 Unless you are famous in this field, you are cooked. And this is why I was telling AGI will change the economy completely. This is true for poets, writers, and even musicians. 
 
-### Who is at fault here?￼
+## Who is at fault here?￼
 
 Its the people who consume these. I am not with AI in this argument. Recently read this manga "The Climber", and one of the mangaka apparently left, and since the other who was an artist knew nothing can be done, he just did whatever he felt like and it was a masterpiece. One of the finest piece of story I ever read. 
 
