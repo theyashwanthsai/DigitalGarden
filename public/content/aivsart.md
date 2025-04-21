@@ -10,7 +10,9 @@ I am putting all of my spare time into building machines which mimic human think
 
 Lets get back to the main topic.
 
-"Art" is not a job. Its not a profession. Sure there are people who draw for a living, and they mostly make content. This is kind of philosphical, but art is more than content. Art is a way to express emotions. It is a way to tell story. And for sure AI wont be doing this. AI is just a lot of math to predict next sequence with a bit of randomness. There's no story/emotions. None of that. 
+"Art" is not a job. Its not a profession. Sure there are people who draw for a living, and they mostly make content. This is kind of philosphical, but art is more than content. 
+
+Art is a way to express emotions. It is a way to tell story. And for sure AI wont be doing this. AI is just a lot of math to predict next sequence with a bit of randomness. There's no story/emotions. None of that. 
 
 So why the outrage? When these "Artist" were using AI to generate captions, ideas and whatnot, there was no rebel against AI. But when AI gets as good as what we see now, to do anime art and what not, thats when a lot of these people are raising their voices. 
 
@@ -19,7 +21,9 @@ The reason is probably two things
 2. AI can create content faster than an artist ever could. And this is true for all other domains where AI could do. Copywriting? Yessir. Programming? Hell yes. We devs have seen it last year. Heck, infact I myself built Devyan way before bolt or lovable, and I remember I was telling my friends Devyan will replace us.
 
 The last point is the one which is biting everyone's ass. Why will someone pay an artist, when we can have art done by these machines which are faster and cheaper. 
-Unless you are famous in this field, you are cooked. And this is why I was telling AGI will change the economy completely. This is true for poets, writers, and even musicians. **Who is at fault here?**
+Unless you are famous in this field, you are cooked. And this is why I was telling AGI will change the economy completely. This is true for poets, writers, and even musicians. 
+
+### Who is at fault here?￼
 
 Its the people who consume these. I am not with AI in this argument. Recently read this manga "The Climber", and one of the mangaka apparently left, and since the other who was an artist knew nothing can be done, he just did whatever he felt like and it was a masterpiece. One of the finest piece of story I ever read. 
 
