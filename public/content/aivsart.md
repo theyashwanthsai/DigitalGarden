@@ -15,8 +15,8 @@ Lets get back to the main topic.
 So why the outrage? When these "Artist" were using AI to generate captions, ideas and whatnot, there was no rebel against AI. But when AI gets as good as what we see now, to do anime art and what not, thats when a lot of these people are raising their voices. 
 
 The reason is probably two things
-- Using internet data for training is fine when it was text corpus. But when u take all the "art" done by artists without their consent and train, That's some crime boss. And this is wrong
-- AI can create content faster than an artist ever could. And this is true for all other domains where AI could do. Copywriting? Yessir. Programming? Hell yes. We devs have seen it last year. Heck, infact I myself built Devyan way before bolt or lovable, and I remember I was telling my friends Devyan will replace us.
+1. Using internet data for training is fine when it was text corpus. But when u take all the "art" done by artists without their consent and train, That's some crime boss. And this is wrong
+2. AI can create content faster than an artist ever could. And this is true for all other domains where AI could do. Copywriting? Yessir. Programming? Hell yes. We devs have seen it last year. Heck, infact I myself built Devyan way before bolt or lovable, and I remember I was telling my friends Devyan will replace us.
 
 The last point is the one which is biting everyone's ass. Why will someone pay an artist, when we can have art done by these machines which are faster and cheaper. 
 Unless you are famous in this field, you are cooked. And this is why I was telling AGI will change the economy completely. This is true for poets, writers, and even musicians. **Who is at fault here?**

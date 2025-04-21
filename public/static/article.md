@@ -24,6 +24,9 @@ This section is consists of 3 parts.
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
 
+
+*Apr 02, 2025* __[AI vs Art?](./aivsart)__
+
 *Apr 01, 2025* __[Computers are cool. Lets learn about them](./computers/computers0)__
 
 *Mar 16, 2025* __[MREB](./mreb)__ 
