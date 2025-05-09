@@ -10,6 +10,7 @@
 - Joined Vuhosi as an AI Engineer. I build and ship AI agents to production with the help of my amazing team.
 - Started working as an Intern at [Composio](https://www.composio.dev/) this summer.
 - Published my first research paper at an international conference.
+- Won a hackathon hosted at my college.
 - Learning Stuff, looking for oppurtunities to work in a fast paced deep tech workplace. (Spoiler alert got in one such startup) 
 
 ### 2023
@@ -17,6 +18,7 @@
 - Worked as a Freelancer for Wulot (July-Sept). Earned some money (My first time earning money online)
 - Started focusing on internals of databases, programming languages and many other technologies.
 - Learnt JS, Learnt React and Nodejs to build complete full stack webapps.
+- Placed 3rd at Train an AI to Play Chess Kaggle Competition MLH Global Hack Week. This was a thrilling experience for me
 
 ### 2022
 - Gave my First Workshop, Linux for ethical hacking (November)
@@ -26,4 +28,5 @@
 ### 2021
 - Learnt C.
 - Started learning python and building projects in it. Built a simple twitter bot (My shipping) 
+- Took part in my first hackathon and learnt a lot.
 - Joined College, Started my computer science journey in 2021.
