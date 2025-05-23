@@ -13,6 +13,7 @@ function Header() {
           <Link to="/articles" className="nav-link">Essays</Link>
           <Link to="/about" className="nav-link">Me</Link>
         </nav>
+        {/* Show theme switcher on all devices */}
         <div className="theme-switcher-container">
           <ThemeSwitcher />
         </div>

@@ -53,7 +53,7 @@ const ThemeSwitcher = () => {
 
     return (
         <div className="theme-switcher-container">
-            <label htmlFor="theme-select">Theme:</label>
+            <label htmlFor="theme-select"></label>
             <div className="theme-switcher">
                 <select 
                     id="theme-select"

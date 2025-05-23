@@ -38,6 +38,12 @@
     white-space: nowrap;
 }
 
+@media (max-width: 768px) {
+    .theme-switcher-container {
+      transform: scale(0.9);
+    }
+  }
+
 .theme-switcher {
     position: relative;
 }
