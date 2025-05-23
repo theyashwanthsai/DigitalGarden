@@ -1,4 +1,5 @@
 :root {
+    /* Default theme class will be applied to body */
     /* Background Colors */
     --bg-primary: #0A1A0A;        /* Deep forest black for mystical feel */
     

@@ -1,0 +1,335 @@
+.theme-emerald {
+    --bg-primary: #0A1A0A;
+    --text-primary: #F0FFF0;
+    --text-secondary: #E0FFE0;
+    --heading-primary: #50C878;
+    --heading-secondary: #00A86B;
+    --heading-tertiary: #2E8B57;
+    --link-primary: #FFD700;
+    --link-hover: #50C878;
+    --code-bg: #1A2F1A;
+    --code-text: #F5FFF5;
+    --button-primary: #50C878;
+    --button-hover: #66CDAA;
+    --border-primary: #228B22;
+}
+
+.theme-electric-dreams {
+    --bg-primary: #0A0A0F;
+    --text-primary: #F0F0FF;
+    --text-secondary: #D8BFD8;
+    --heading-primary: #FF00FF;
+    --heading-secondary: #00BFFF;
+    --heading-tertiary: #FFD700;
+    --link-primary: #8A2BE2;
+    --link-hover: #FF00FF;
+    --code-bg: #1C1C2E;
+    --code-text: #E0FFFF;
+    --button-primary: #FF00FF;
+    --button-hover: #FF1493;
+    --border-primary: #4B0082;
+}
+
+.theme-blood-moon {
+    --bg-primary: #0F0A0A;
+    --text-primary: #FFF8DC;
+    --text-secondary: #F5DEB3;
+    --heading-primary: #DC143C;
+    --heading-secondary: #B22222;
+    --heading-tertiary: #CD853F;
+    --link-primary: #4682B4;
+    --link-hover: #DC143C;
+    --code-bg: #1A0F0F;
+    --code-text: #FFE4E1;
+    --button-primary: #DC143C;
+    --button-hover: #FF6347;
+    --border-primary: #8B0000;
+}
+
+.theme-arctic-frost {
+    --bg-primary: #0F1419;
+    --text-primary: #F0F8FF;
+    --text-secondary: #E6F3FF;
+    --heading-primary: #00CED1;
+    --heading-secondary: #87CEEB;
+    --heading-tertiary: #B0E0E6;
+    --link-primary: #4169E1;
+    --link-hover: #00CED1;
+    --code-bg: #1E2A3A;
+    --code-text: #F0FFFF;
+    --button-primary: #00CED1;
+    --button-hover: #48CAE4;
+    --border-primary: #2F4F4F;
+}
+
+.theme-toxic-waste {
+    --bg-primary: #0D1B0D;
+    --text-primary: #F5F5F5;
+    --text-secondary: #DCDCDC;
+    --heading-primary: #32CD32;
+    --heading-secondary: #ADFF2F;
+    --heading-tertiary: #9ACD32;
+    --link-primary: #FF4500;
+    --link-hover: #32CD32;
+    --code-bg: #1C2E1C;
+    --code-text: #F0FFF0;
+    --button-primary: #32CD32;
+    --button-hover: #00FF00;
+    --border-primary: #228B22;
+}
+
+.theme-royal-purple {
+    --bg-primary: #0F0A1A;
+    --text-primary: #F8F8FF;
+    --text-secondary: #E6E6FA;
+    --heading-primary: #9370DB;
+    --heading-secondary: #BA55D3;
+    --heading-tertiary: #DDA0DD;
+    --link-primary: #FFD700;
+    --link-hover: #9370DB;
+    --code-bg: #1A0F2E;
+    --code-text: #F0E6FF;
+    --button-primary: #9370DB;
+    --button-hover: #BA55D3;
+    --border-primary: #663399;
+}
+
+.theme-solar-flare {
+    --bg-primary: #1A1000;
+    --text-primary: #FFFAF0;
+    --text-secondary: #FFF8DC;
+    --heading-primary: #FF8C00;
+    --heading-secondary: #FFD700;
+    --heading-tertiary: #FFA500;
+    --link-primary: #FF4500;
+    --link-hover: #FF8C00;
+    --code-bg: #2A1F00;
+    --code-text: #FFF5EE;
+    --button-primary: #FF8C00;
+    --button-hover: #FFD700;
+    --border-primary: #B8860B;
+}
+
+.theme-deep-space {
+    --bg-primary: #000011;
+    --text-primary: #F0F8FF;
+    --text-secondary: #E0E6FF;
+    --heading-primary: #6A5ACD;
+    --heading-secondary: #9370DB;
+    --heading-tertiary: #DA70D6;
+    --link-primary: #00FFFF;
+    --link-hover: #6A5ACD;
+    --code-bg: #0A0A1A;
+    --code-text: #E6E6FA;
+    --button-primary: #6A5ACD;
+    --button-hover: #7B68EE;
+    --border-primary: #483D8B;
+}
+
+.theme-sunset-boulevard {
+    --bg-primary: #1A0F05;
+    --text-primary: #FFF8DC;
+    --text-secondary: #FFEFD5;
+    --heading-primary: #FF6347;
+    --heading-secondary: #FF7F50;
+    --heading-tertiary: #FFD700;
+    --link-primary: #4169E1;
+    --link-hover: #FF6347;
+    --code-bg: #2F1A0A;
+    --code-text: #FFF0E6;
+    --button-primary: #FF6347;
+    --button-hover: #FF7F50;
+    --border-primary: #CD853F;
+}
+
+.theme-midnight-oil {
+    --bg-primary: #0F0F0F;
+    --text-primary: #F5F5F5;
+    --text-secondary: #D3D3D3;
+    --heading-primary: #FFD700;
+    --heading-secondary: #C0C0C0;
+    --heading-tertiary: #CD7F32;
+    --link-primary: #FF4500;
+    --link-hover: #FFD700;
+    --code-bg: #1C1C1C;
+    --code-text: #F0F0F0;
+    --button-primary: #FFD700;
+    --button-hover: #FFA500;
+    --border-primary: #696969;
+}
+
+.theme-cherry-blossom {
+    --bg-primary: #1A0F1A;
+    --text-primary: #FFF0F5;
+    --text-secondary: #FFE4E1;
+    --heading-primary: #FF69B4;
+    --heading-secondary: #FFB6C1;
+    --heading-tertiary: #FFC0CB;
+    --link-primary: #8B008B;
+    --link-hover: #FF69B4;
+    --code-bg: #2F1A2F;
+    --code-text: #F8F0FF;
+    --button-primary: #FF69B4;
+    --button-hover: #FF1493;
+    --border-primary: #C71585;
+}
+
+.theme-cyberpunk-matrix {
+    --bg-primary: #000000;
+    --text-primary: #00FF00;
+    --text-secondary: #00CC00;
+    --heading-primary: #00FFFF;
+    --heading-secondary: #00FF00;
+    --heading-tertiary: #FFFF00;
+    --link-primary: #FF00FF;
+    --link-hover: #00FFFF;
+    --code-bg: #0A0A0A;
+    --code-text: #00FF41;
+    --button-primary: #00FFFF;
+    --button-hover: #00FF00;
+    --border-primary: #008000;
+}
+
+.theme-lavender-dreams {
+    --bg-primary: #1A0F1F;
+    --text-primary: #F8F0FF;
+    --text-secondary: #E6D8FF;
+    --heading-primary: #B19CD9;
+    --heading-secondary: #DDA0DD;
+    --heading-tertiary: #E6E6FA;
+    --link-primary: #FFB6C1;
+    --link-hover: #B19CD9;
+    --code-bg: #2A1F35;
+    --code-text: #F0E6FF;
+    --button-primary: #B19CD9;
+    --button-hover: #DDA0DD;
+    --border-primary: #8B7D9B;
+}
+
+.theme-rust-steel {
+    --bg-primary: #1C1410;
+    --text-primary: #F5F5DC;
+    --text-secondary: #E8E0D0;
+    --heading-primary: #CD853F;
+    --heading-secondary: #A0522D;
+    --heading-tertiary: #8B4513;
+    --link-primary: #708090;
+    --link-hover: #CD853F;
+    --code-bg: #2A1F1A;
+    --code-text: #F0E8D8;
+    --button-primary: #CD853F;
+    --button-hover: #D2691E;
+    --border-primary: #696969;
+}
+
+.theme-cotton-candy {
+    --bg-primary: #1F0A1F;
+    --text-primary: #FFF0F8;
+    --text-secondary: #FFE0F0;
+    --heading-primary: #FF69B4;
+    --heading-secondary: #FFB6C1;
+    --heading-tertiary: #F0E68C;
+    --link-primary: #9370DB;
+    --link-hover: #FF69B4;
+    --code-bg: #2F1A2F;
+    --code-text: #FFF0FF;
+    --button-primary: #FF69B4;
+    --button-hover: #FF1493;
+    --border-primary: #DA70D6;
+}
+
+.theme-midnight-diner {
+    --bg-primary: #0F0F0A;
+    --text-primary: #FFF8DC;
+    --text-secondary: #F5DEB3;
+    --heading-primary: #FF6347;
+    --heading-secondary: #FFD700;
+    --heading-tertiary: #20B2AA;
+    --link-primary: #4682B4;
+    --link-hover: #FF6347;
+    --code-bg: #1A1A0F;
+    --code-text: #F0E8D0;
+    --button-primary: #FF6347;
+    --button-hover: #FF7F50;
+    --border-primary: #CD853F;
+}
+
+.theme-frozen-tundra {
+    --bg-primary: #0A0F14;
+    --text-primary: #F0F8FF;
+    --text-secondary: #E0F0FF;
+    --heading-primary: #B0E0E6;
+    --heading-secondary: #87CEEB;
+    --heading-tertiary: #ADD8E6;
+    --link-primary: #4169E1;
+    --link-hover: #B0E0E6;
+    --code-bg: #1A2530;
+    --code-text: #F0FFFF;
+    --button-primary: #B0E0E6;
+    --button-hover: #87CEEB;
+    --border-primary: #2F4F4F;
+}
+
+.theme-vintage-sepia {
+    --bg-primary: #1A1510;
+    --text-primary: #F5E6D3;
+    --text-secondary: #E8D5B7;
+    --heading-primary: #CD853F;
+    --heading-secondary: #DEB887;
+    --heading-tertiary: #D2B48C;
+    --link-primary: #8B4513;
+    --link-hover: #CD853F;
+    --code-bg: #2A1F1A;
+    --code-text: #F0E0D0;
+    --button-primary: #CD853F;
+    --button-hover: #DEB887;
+    --border-primary: #A0522D;
+}
+
+.theme-neon-miami {
+    --bg-primary: #0A0A1A;
+    --text-primary: #F0F0FF;
+    --text-secondary: #E0E0FF;
+    --heading-primary: #FF1493;
+    --heading-secondary: #00FFFF;
+    --heading-tertiary: #ADFF2F;
+    --link-primary: #FF4500;
+    --link-hover: #FF1493;
+    --code-bg: #1A1A2E;
+    --code-text: #E0FFFF;
+    --button-primary: #FF1493;
+    --button-hover: #FF69B4;
+    --border-primary: #8A2BE2;
+}
+
+.theme-forest-mushroom {
+    --bg-primary: #0F1A0A;
+    --text-primary: #F5F0E8;
+    --text-secondary: #E8E0D0;
+    --heading-primary: #8B4513;
+    --heading-secondary: #D2691E;
+    --heading-tertiary: #DEB887;
+    --link-primary: #228B22;
+    --link-hover: #8B4513;
+    --code-bg: #1A2F1A;
+    --code-text: #F0F8E8;
+    --button-primary: #8B4513;
+    --button-hover: #A0522D;
+    --border-primary: #556B2F;
+}
+
+.theme-electric-storm {
+    --bg-primary: #0A0A14;
+    --text-primary: #F0F8FF;
+    --text-secondary: #E0E8FF;
+    --heading-primary: #FFFF00;
+    --heading-secondary: #9370DB;
+    --heading-tertiary: #4169E1;
+    --link-primary: #00BFFF;
+    --link-hover: #FFFF00;
+    --code-bg: #1A1A2E;
+    --code-text: #E6E6FA;
+    --button-primary: #FFFF00;
+    --button-hover: #FFD700;
+    --border-primary: #483D8B;
+}

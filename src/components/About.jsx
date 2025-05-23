@@ -5,6 +5,7 @@ import rehypeRaw from 'rehype-raw';
 import './markdown.css'
 
 
+
 function About() {
   const [markdownContent, setMarkdownContent] = useState("");
 
@@ -33,6 +34,7 @@ function About() {
       >
         {markdownContent}
       </Markdown>
+
     </div>
   );
 }
