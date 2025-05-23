@@ -38,15 +38,18 @@
     white-space: nowrap;
 }
 
+/* In Header.css */
 @media (max-width: 768px) {
     .theme-switcher-container {
-      transform: scale(0.9);
+      font-size: 0.8rem;
+    }
+    
+    .theme-switcher-container button,
+    .theme-switcher-container select {
+      padding: 0.25rem 0.5rem;
+      font-size: 0.75rem;
     }
   }
-
-.theme-switcher {
-    position: relative;
-}
 
 .theme-switcher select {
     padding: 0.5rem 2rem 0.5rem 0.75rem;
