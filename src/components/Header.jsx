@@ -6,9 +6,9 @@ import ThemeSwitcher from './ThemeSwitcher';
 function Header() {
   return(
     <div className="header-container">
-        <div className="theme-switcher-container">
+        {/* <div className="theme-switcher-container">
           <ThemeSwitcher />
-        </div>
+        </div> */}
       <header className="header">
         <nav>
 
