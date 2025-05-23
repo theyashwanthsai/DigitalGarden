@@ -1,6 +1,6 @@
 .header-container {
-    background-color: #0A0A0A;
-    color: #F5DEB3;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
 }
 
 .header {
@@ -12,11 +12,11 @@
 
 .nav-link {
     padding: 0.75rem;
-    color: #F5DEB3;
+    color: var(--text-primary);
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 .nav-link:hover {
-    color: #D2691E;
+    color: var(--link-hover);
 }

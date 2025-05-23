@@ -1,6 +1,35 @@
+:root {
+    /* Background Colors */
+    --bg-primary: #0A1A0A;        /* Deep forest black for mystical feel */
+    
+    /* Text Colors */
+    --text-primary: #F0FFF0;      /* Honeydew for fresh readability */
+    --text-secondary: #E0FFE0;    /* Light green for secondary text */
+    
+    /* Heading Colors - Emerald and jade palette */
+    --heading-primary: #50C878;   /* Emerald for main headings - precious gem */
+    --heading-secondary: #00A86B; /* Jade for sub-headings */
+    --heading-tertiary: #2E8B57;  /* Sea green for tertiary */
+    
+    /* Interactive Elements */
+    --link-primary: #FFD700;      /* Gold for links - treasure accent */
+    --link-hover: #50C878;        /* Emerald hover */
+    
+    /* Code Block Styling */
+    --code-bg: #1A2F1A;           /* Darker green for code */
+    --code-text: #F5FFF5;         /* Mint cream for code readability */
+    
+    /* Button Styling */
+    --button-primary: #50C878;    /* Emerald for buttons */
+    --button-hover: #66CDAA;      /* Medium aquamarine hover */
+    
+    /* Border and Divider Colors */
+    --border-primary: #228B22;    /* Forest green for natural borders */
+}
+
 body {
-    background-color: #0A0A0A;
-    color: #F5DEB3;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
 }
 
 .markdown-content {
@@ -10,28 +39,28 @@ body {
 }
 
 .markdown-content h1 {
-    color: #D2691E;
+    color: var(--heading-primary);
     font-size: 2.5rem;
     font-weight: bold;
     margin-bottom: 1.5rem;
 }
 
 .markdown-content h2 {
-    color: #9ACD32;
+    color: var(--heading-secondary);
     font-size: 2.0rem;
     font-weight: bold;
     margin-bottom: 1.25rem;
 }
 
 .markdown-content h3 {
-    color: #DEB887;
+    color: var(--heading-tertiary);
     font-size: 1.6rem;
     font-weight: bold;
     margin-bottom: 1rem;
 }
 
 .markdown-content p {
-    color: #F5DEB3;
+    color: var(--text-primary);
     font-size: 1.125rem;
     line-height: 1.75;
     margin-bottom: 1.25rem;
@@ -40,7 +69,7 @@ body {
 .markdown-content ul {
     list-style-type: disc;
     padding-left: 1.5rem;
-    color: #D2B48C;
+    color: var(--text-secondary);
     font-size: 1.125rem;
     margin-bottom: 1.25rem;
 }
@@ -50,34 +79,34 @@ body {
 }
 
 .markdown-content a {
-    color: #20B2AA;
+    color: var(--link-primary);
     text-decoration: underline;
     font-size: 1.125rem;
 }
 
 pre, code {
-    background-color: #1A1A1A;
-    color: #E6D5B8;
+    background-color: var(--code-bg);
+    color: var(--code-text);
     padding: 0.5rem;
     border-radius: 4px;
 }
 
 blockquote {
-    border-left: 4px solid #9ACD32;
+    border-left: 4px solid var(--heading-secondary);
     padding-left: 1rem;
     margin-left: 0;
     font-style: italic;
-    color: #DEB887;
+    color: var(--heading-tertiary);
 }
 
 hr {
     border: none;
-    border-top: 1px solid #DEB887;
+    border-top: 1px solid var(--heading-tertiary);
     margin: 2rem 0;
 }
 
 .button {
-    background-color: #D2691E;
+    background-color: var(--button-primary);
     color: white;
     padding: 0.5rem 1rem;
     border: none;
@@ -87,15 +116,15 @@ hr {
 }
 
 .button:hover {
-    background-color: #E07A5F;
+    background-color: var(--button-hover);
 }
 
 a:hover {
-    color: #D2691E;
+    color: var(--link-hover);
 }
 
 .article-container {
-    background-color: #0A0A0A;
+    background-color: var(--bg-primary);
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -107,7 +136,7 @@ a:hover {
     max-width: 64rem;
     width: 100%;
     padding: 1.25rem;
-    border: 4px solid #D2B48C;  /* Tan color border to match the earthy theme */
+    border: 4px solid var(--border-primary);
     border-radius: 0.5rem;
 }
 
