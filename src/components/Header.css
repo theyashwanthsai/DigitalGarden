@@ -5,11 +5,17 @@
 
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding: 1rem;
     margin: 0 auto;
     max-width: 64rem;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
 }
 
 .nav-link {
@@ -17,25 +23,36 @@
     color: var(--text-primary);
     text-decoration: none;
     transition: color 0.3s ease;
-    margin-right: 1rem;
 }
 
 .nav-link:hover {
     color: var(--link-hover);
 }
 
-/* Theme Switcher Styles */
+/* Fixed Theme Switcher at Top-Right */
+.theme-switcher-fixed {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1000;
+    background-color: var(--bg-primary);
+    border: 1px solid var(--border-primary, rgba(0,0,0,0.1));
+    border-radius: 8px;
+    padding: 0.5rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Theme Switcher Container Styles */
 .theme-switcher-container {
-    margin-left: auto;
     display: flex;
     align-items: center;
-    gap: 0.5rem;
 }
 
 .theme-switcher-container label {
     color: var(--text-primary);
     font-size: 0.9rem;
     white-space: nowrap;
+    margin-right: 0.5rem;
 }
 
 .theme-switcher select {
@@ -67,20 +84,15 @@
 
 /* Mobile Styles */
 @media (max-width: 768px) {
-    .header {
-        flex-direction: column;
-        gap: 1rem;
-        align-items: stretch;
-    }
-    
-    .theme-switcher-container {
-        margin-left: 0;
-        justify-content: center;
-        order: 2; /* Ensures it comes after nav */
+    .theme-switcher-fixed {
+        top: 0.5rem;
+        right: 0.5rem;
+        padding: 0.25rem;
     }
     
     .theme-switcher-container label {
         font-size: 0.8rem;
+        margin-right: 0.25rem;
     }
     
     .theme-switcher select {
@@ -88,16 +100,14 @@
         padding: 0.4rem 1.5rem 0.4rem 0.6rem;
     }
     
-    /* Center the navigation on mobile */
     nav {
-        display: flex;
-        justify-content: center;
         flex-wrap: wrap;
-        order: 1;
+        justify-content: center;
+        gap: 0.5rem;
     }
     
     .nav-link {
-        margin-right: 0.5rem;
         padding: 0.5rem;
+        font-size: 0.9rem;
     }
 }
