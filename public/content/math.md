@@ -1,4 +1,4 @@
-# Math Is the Language in Which the Universe Is Written
+# Math is the Language in Which the Universe was Written
 
 *Published on May 23, 2025*
 
