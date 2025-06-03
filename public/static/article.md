@@ -24,8 +24,9 @@ This section is consists of 3 parts.
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
 
-*May 23, 2025* __[Math is the language of the universe](./math)__
+*Jun 03, 2025* __[Learning Intelligence - Q-Learning](./rl/qlearning)__
 
+*May 23, 2025* __[Math is the language of the universe](./math)__
 
 *May 16, 2025* __[Lets build an MCP server from scratch](./twitter_essays/mcp_server)__
 
