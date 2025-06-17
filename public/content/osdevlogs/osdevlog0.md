@@ -38,6 +38,8 @@ Basic kernel (written in assembly) that prints "Hello World"
 ### The Bigger Picture
 My goal with this project is simple. Build till I have a basic GUI. Cause it looks so cool. But the most important thing is this - Having FUN. 
 
+(+ also be able to run doom on it)
+
 Its useless if I don't enjoy what I build. Especially for a side project which is not gonna pay my bills.
 
 ### Dirty?
