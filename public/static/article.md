@@ -15,7 +15,7 @@ This section is consists of 3 parts.
 
 ## Series:
 
-*Jun 17, 2025* __[OS Devlogs](./osdevlogs/osdevlog0)__
+*Jun 17, 2025* __[OS Devlogs](./osdevlogs/root)__
 
 *Apr 01, 2025* __[Computers are cool. Lets learn about them](./computers/computers0)__
 
