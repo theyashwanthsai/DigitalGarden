@@ -73,6 +73,8 @@ This section is consists of 3 parts.
 
 *Aug 19, 2024* __[Building my first PC](./pcbuild)__
 
+## Blogs:
+
 *Apr 10, 2024* __[Building a Copilot Clone using Open Source LLMs for neovim.](./opilot)__
 
 *Oct 23, 2023* __[Let's Build A Simple Programming Language. Part 1.](./language1)__

@@ -1,3 +1,5 @@
+# OS Devlogs
+
 This is the root of the OS devlogs - A series of posts about building an operating system from scratch.
 
 ## Table of Contents
