@@ -14,6 +14,9 @@ This section is consists of 3 parts.
 - Blogs: Stuff I wrote back when I was in college and living in the hostel. I don’t want to touch this section. It remains a place for me to come back and look at how naive I was back then. These are old and are a reflection of my younger self.
 
 ## Series:
+
+*Jun 17, 2025* __[OS Devlogs](./osdevlogs/osdevlog0)__
+
 *Apr 01, 2025* __[Computers are cool. Lets learn about them](./computers/computers0)__
 
 *Dec 27, 2024* __[2025 AI Agents Guide](./twitter_essays/mini_essays)__
@@ -23,6 +26,8 @@ This section is consists of 3 parts.
 ## Mini Essays 
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
+
+*Jun 17, 2025* __[OS Devlog - 0](./osdevlogs/osdevlog0)__
 
 *Jun 03, 2025* __[Learning Intelligence - Q-Learning](./rl/qlearning)__
 
