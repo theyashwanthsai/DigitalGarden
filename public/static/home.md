@@ -2,7 +2,9 @@
 
 
 Welcome to my personal website. I am Sai Yashwanth, an engineer, builder and a writer. 
-I am currently working as an AI Research Engineer at Vuhosi. Check my [proof of work](./timeline)
+I am currently working as a Founding AI Engineer at Vuhosi. Here's my [cv](./cv.pdf)
+
+Check my chronologically ordered [proof of work](./timeline) (Basically its a timeline of my work, achievements, and experiences)
 
 I started [Turi Labs](https://www.turilabs.tech) - Indie AI Research Lab. 
 
@@ -24,11 +26,14 @@ Although I am very lazy and sometimes lack the motivation or the urge to take ac
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## What my day looks like (trying hard to stick with it)
+## A typical day in my life
+Apart from work, I try to follow this routine:
+
 - Training: Lift weights (currently also learning calisthenics). 
 - Eating: Eat clean (high protein, less carbs, more healthy fats). Atleast 90% of the time.
-- Reading: Read books (self help), blogs (mostly related to the work I do and get paid for).
+- Reading: Read books (self help), blogs (mostly related to the work I do and get paid for). I am currently reading [The Almanack of Naval Ravikant](https://navalmanack.com/)
 - Writing: Practice writing daily (or atleast often).
+- Hacking: Work on my projects, and research.
 
 In my free time, I am reading books on business, finance and tech. Here's my philosophy on [reading](content/reading)
 

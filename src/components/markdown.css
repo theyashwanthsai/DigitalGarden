@@ -1,31 +1,17 @@
 :root {
-    /* Default theme class will be applied to body */
-    /* Background Colors */
-    --bg-primary: #0A1A0A;        /* Deep forest black for mystical feel */
-    
-    /* Text Colors */
-    --text-primary: #F0FFF0;      /* Honeydew for fresh readability */
-    --text-secondary: #E0FFE0;    /* Light green for secondary text */
-    
-    /* Heading Colors - Emerald and jade palette */
-    --heading-primary: #50C878;   /* Emerald for main headings - precious gem */
-    --heading-secondary: #00A86B; /* Jade for sub-headings */
-    --heading-tertiary: #2E8B57;  /* Sea green for tertiary */
-    
-    /* Interactive Elements */
-    --link-primary: #FFD700;      /* Gold for links - treasure accent */
-    --link-hover: #50C878;        /* Emerald hover */
-    
-    /* Code Block Styling */
-    --code-bg: #1A2F1A;           /* Darker green for code */
-    --code-text: #F5FFF5;         /* Mint cream for code readability */
-    
-    /* Button Styling */
-    --button-primary: #50C878;    /* Emerald for buttons */
-    --button-hover: #66CDAA;      /* Medium aquamarine hover */
-    
-    /* Border and Divider Colors */
-    --border-primary: #228B22;    /* Forest green for natural borders */
+    --bg-primary: #0F0F0F;
+    --text-primary: #F5F5F5;
+    --text-secondary: #D3D3D3;
+    --heading-primary: #FFD700;
+    --heading-secondary: #C0C0C0;
+    --heading-tertiary: #CD7F32;
+    --link-primary: #FF4500;
+    --link-hover: #FFD700;
+    --code-bg: #1C1C1C;
+    --code-text: #F0F0F0;
+    --button-primary: #FFD700;
+    --button-hover: #FFA500;
+    --border-primary: #696969;
 }
 
 body {

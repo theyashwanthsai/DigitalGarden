@@ -8,7 +8,7 @@
 
 Imagine you're dropped into an unfamiliar city with no map, no GPS, just a simple goal: reach the central plaza. You'd probably start by wandering randomly, noting which streets lead to dead ends and which ones seem promising. Over time, you'd build a mental map of "good" and "bad" moves from each location.
 
-This is exactly how Q-Learning works – it's an algorithm that teaches an agent to make optimal decisions through trial and error, building up knowledge about which actions work best in different situations.
+This is exactly how Q-Learning works. It's an algorithm that teaches an agent to make optimal decisions through trial and error, building up knowledge about which actions work best in different situations.
 
 This is not a new concept, we humans do it subconsciously all the time. After all, all these algorithms, this field of study itself is not born out of box, it is something we mimic from the nature. Thats what science is basically. Mimiccing the nature, around us.
 
@@ -22,7 +22,7 @@ Q-Learning is a **model-free reinforcement learning algorithm** that learns the 
 
 ### The Q-Table
 
-**Q-table** – a simple lookup table that stores the "quality" (Q-value) of taking each possible action from each possible state.
+**Q-table**: a simple lookup table that stores the "quality" (Q-value) of taking each possible action from each possible state.
 
 ```
 Q-Table Structure:
@@ -158,7 +158,7 @@ State 4: [52.1, 62.2, 45.8, 48.3]  # Right (62.2) leads to goal
 
 ![alt text](/articleimages/curve.jpeg)
 
-Our training results show the classic Q-Learning progression:
+Training results show the classic Q-Learning progression:
 
 ```
 Episode 100: Avg Reward = 16.8, Avg Steps = 40.2  (struggling)
