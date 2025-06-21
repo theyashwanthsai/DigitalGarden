@@ -1,6 +1,6 @@
 # Are you a Genius or a Talented Learner?
 
-So I have been reading blue lock manga from some time. Theres a theory which the main character (Isagi) comes up with, which caught my attention. Over the past few months, I have been viewing the world from this theory's perspective. Basically Isagi views his opponents (and his teammates) as either talented learners or geniuses.
+So I have been reading blue lock manga from some time. There's a theory which the main character (Isagi) comes up with, that caught my attention. Over the past few months, I've been viewing the world from this theory's pov. Basically, Isagi views his opponents (and his teammates) as either "talented learners" or "geniuses".
 
 ![img](./articleimages/isagi.png)
 
@@ -15,7 +15,7 @@ I feel learning this is a crucial step to optimize our lives. When you know what
 
 Isagi himself is a talented learner, who tries to find plays which can outsmart geniuses.
 
-Now you might call this a load of bullshit, and you might be half true. But I do feel this theory is true to some extent. Maybe an evolved version of this theory, not exactly the same. 
+Now you might call this bullshit, and you might be partially correct. But I do feel this theory is true to some extent. Maybe an evolved version of this theory, not exactly the same. 
 You could be a genius in one aspect of life, but might not be in other. What you should do is to double down on what you think works best for you.
 
 Nonetheless, its actually pretty cool to see a talented learner struggle to adapt to geniuses. Reminds me of myself.
