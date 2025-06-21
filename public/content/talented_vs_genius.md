@@ -1,5 +1,7 @@
 # Are you a Genius or a Talented Learner?
 
+*Written on 21st June, 2025*
+
 So I have been reading blue lock manga from some time. There's a theory which the main character (Isagi) comes up with, that caught my attention. Over the past few months, I've been viewing the world from this theory's pov. Basically, Isagi views his opponents (and his teammates) as either "talented learners" or "geniuses".
 
 ![img](./articleimages/isagi.png)
