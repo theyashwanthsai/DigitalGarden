@@ -13,6 +13,15 @@ So I have been reading blue lock manga from some time. There's a theory which th
 ### Why am I so interested in this idea?
 I feel learning this is a crucial step to optimize our lives. When you know what type of person you are, It becomes easier to follow along. I noticed this when I started learning RL, or started OS dev. I could figure out what works best for me, and double down on that method to learn something (optimally, since time is a luxury now)
 
+My theory is that geniuses are people who can come up with something original, completely new to the table. Their ideas arent mimicking something. I have noticed that most of ours thoughts immitate something. Atleast mine.
+Think about it. RL is a good example.
+
+Most of these algorithms I have seen come from the nature. Our thoughts are evolved from the nature's beautiful design.
+
+I have met people who can come up with ideas completely original. Something not mimicked from the nature.
+
+I myself am a talented learner. My ideas are not original, but heavily influenced by what I see. This is not at all a bad thing. I can use the ideas of geniuses to come up with something new. The "thought"
+may not be orginal, but the world gets something new. Thats what matters.
 ![img](./articleimages/isagi2.png)
 
 Isagi himself is a talented learner, who tries to find plays which can outsmart geniuses.
