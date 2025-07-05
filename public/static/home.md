@@ -4,7 +4,7 @@
 Welcome to my personal website. I am Sai Yashwanth, an engineer, builder and a writer. 
 I am currently working as a Founding AI Engineer at Vuhosi. Here's my [cv](./resume)
 
-Check my chronologically ordered [proof of work](./timeline) (Basically its a timeline of my work, achievements, and experiences)
+Check my chronologically ordered [proof of work.](./timeline) This basically a timeline of my work, achievements, and experiences.
 
 I started [Turi Labs](https://www.turilabs.tech) - Indie AI Research Lab. 
 
