@@ -2,30 +2,36 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
+/* @font-face {
   font-family: "Indie";
   src: url("/fonts/indie.ttf");
-}
+} */
 
-@font-face {
+/* @font-face {
   font-family: "Victormono";
   src: url("/fonts/victormono.ttf");
-}
+} */
 
-@font-face {
+/* @font-face {
   font-family: "lora";
   src: url("/fonts/lora.ttf");
-}
+} */
 
-@font-face {
-  font-family: "ostwald";
-  src: url("/fonts/ostwald.ttf");
-}
 
-@font-face {
+
+/* @font-face {
   font-family: "iosevka";
   src: url("/fonts/iosevka.ttf");
-}
+} */
+
+/* @font-face {
+  font-family: "Poppins";
+  src: url("https://fonts.cdnfonts.com/css/poppins");
+} */
+
+
+
+
 .markdown > * {
     all: revert;
   }
