@@ -4,6 +4,8 @@
 
 I feel this is going to be the next big thing in AI Research! So I went to Paras Chopra's Lossfunk residency graduation last month, and He himself presented what he was working on and it was super cool.
 
+![img](/articleimages/wm.png)
+
 That was my first introduction to world models, and I thought it was such a crazy idea. Turns out, research has been going on since years and I was just dumb enough to not know about this. So I began looking into it in my free time.
 
 ## What Are World Models?
