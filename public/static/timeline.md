@@ -8,7 +8,7 @@ I started documenting my life right after I started college. I was writing blogs
 - Working on my 4th and 5th research project with the founder of Vuhosi.
 - Completed my college. Had an amazing 4 years. Filled with ups and downs, learnings. Perfect character development :)
 - Published my third research paper.
-- Feb: My second Microsoft Reactor Talk!
+- Feb: My second Microsoft Reactor Talk! [Link](https://www.youtube.com/live/Uuor1o809NY?si=wNf8Xd_y1KMe7YHN)
 - Won the the best Capstone Project in Panel 6 award at Capstone Mela hosted by dept of CS of our college.
 - Our Capstone Project got selected for an international conference.
 - Started as working as a Teaching Assistant at my college for the course - Generative AI and its Applications
@@ -16,7 +16,7 @@ I started documenting my life right after I started college. I was writing blogs
 - Year started off with a lot of positive vibes. Started journaling and inculcating the habit of reading books.
 
 ### 2024
-- Dec: Gave my first Microsoft Reactor Talk!
+- Dec: Gave my first Microsoft Reactor Talk! [Link](https://www.youtube.com/live/Z8wIyqEUKyA?si=StWR4BeEv60ztMHd)
 - Founded [Turi Labs](https://www.turilabs.tech). Turi Labs is an Indie AI Research Lab.
 - Started writing a book on AI Agents under Manning Publications with the founder of Vuhosi.
 - Eventually didnt sit for college placements, joined Vuhosi as a Founding AI Engineer.
