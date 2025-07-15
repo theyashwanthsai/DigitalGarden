@@ -27,6 +27,8 @@ This section is consists of 3 parts.
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
 
+*Jul 15, 2025* __[World Models: Machines That actually "Think"](./worldmodels)__
+
 *Jul 14, 2025* __[Anthropic's Multi-Agent System](./ai_playbooks/prompting_playbook)__
 
 *Jun 21, 2025* __[Are you a Genius or a Talented Learner?](./talented_vs_genius)__
