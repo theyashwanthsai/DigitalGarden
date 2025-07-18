@@ -27,6 +27,8 @@ This section is consists of 3 parts.
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
 
+*Jul 18, 2025* __[The 4-Part Playbook for Writing Efficient Prompts](./ai_playbooks/4_part_prompting_template)__
+
 *Jul 15, 2025* __[World Models: Machines That actually "Think"](./worldmodels)__
 
 *Jul 14, 2025* __[Anthropic's Multi-Agent System](./ai_playbooks/prompting_playbook)__
