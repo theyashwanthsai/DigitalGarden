@@ -56,5 +56,6 @@ This is how you move from tinkering to engineering.
 .
 .
 
-Hey, as you know, I am writing a book on AI Agents. I'm sharing these playbooks as I write my book on AI Agents because I believe in building in public. If you found this useful, there's a lot more where that came from.
-The best way to get more frameworks like this, ask questions, and follow the journey is to connect with our community.
+Hey, as you know, I am writing a book on AI Agents. I'm sharing these playbooks as I write my book on AI Agents because I believe in building in public. If you found this useful, there’s a lot more coming.
+
+Follow the journey!
