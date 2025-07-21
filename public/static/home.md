@@ -1,27 +1,23 @@
 # Sai Yashwanth
 
-
 Welcome to my personal website. I am Sai Yashwanth, an engineer, builder and a writer. 
-I am currently working as a Founding AI Engineer at Vuhosi. Here's my [cv](./resume)
+I am currently working as a the Head of AI at Plotweaver, leading the development of ai agents and automation workflows. Here's my [cv](./resume)
 
-Check my chronologically ordered [proof of work.](./timeline) This basically a timeline of my work, achievements, and experiences.
+Want to know me better? Check my chronologically ordered [proof of work.](./timeline) This is basically a timeline of my work, achievements, and experiences over the years.
 
-I started [Turi Labs](https://www.turilabs.tech) - Indie AI Research Lab. 
+I run an indie ai research lab called [Turi Labs.](https://www.turilabs.tech) Check it out.
 
-> Goal: Build local AGI from my bedroom :P
+I love building stuff with code, writing, reading, playing football and working out. I believe in the idea of becoming "multidimensionally jacked" - body, mind, knowledge, skills, communication, finance. The idea is to max out all aspects of life.
 
-I love building stuff with code, writing, reading, playing football and working out (currently learning calisthenic skills and enjoying it). 
-I believe in the idea of becoming "multidimensionally jacked" - body, mind, knowledge, skills, communication, finance. 
-The idea is to max out all aspects of life.
-
-
-Although I am very lazy and sometimes lack the motivation or the urge to take actions, I am actively trying to fix my life in this regard. 
+Although I am very lazy and sometimes lack the motivation or the urge to take actions, I am actively trying to fix my life in this regard. I will write about my experiments and observations fixing my body and mind soon. 
 
 ### Map
+If you are here, you probably should know how I organized this space. Now let me be honest, Most of the stuff here is a work in progress. But I take my sweet time out to update this website. To me, this is my digital journal. 
+
 - [Essays](./articles): I got this habbit of writing and I love it. Here's a collection of all the stuff I have written.
 - [Projects](./projects): A showcase of all the projects I have worked on. (Might be incomplete)
 - [Timeline](./timeline): A chronological view of my journey, achievements, and experiences.
-- [Reading List (wip)](./reading-list): A compilation of books, articles, and blogs that I have read or plan to read.
+- [Reading List (wip)](./reading-list): A compilation of books, articles, and papers that I have read or plan to read.
 
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
@@ -29,9 +25,9 @@ Although I am very lazy and sometimes lack the motivation or the urge to take ac
 ## A typical day in my life
 Apart from work, I try to follow this routine:
 
-- Training: Lift weights (currently also learning calisthenics). 
+- Training: Lift weights (currently also learning calisthenics).
 - Eating: Eat clean (high protein, less carbs, more healthy fats). Atleast 90% of the time.
-- Reading: Read books (self help), blogs (mostly related to the work I do and get paid for). I am currently reading [The Almanack of Naval Ravikant](https://navalmanack.com/)
+- Reading: Read books (self help), blogs (mostly related to the work I do and get paid for). I am currently reading [The Almanack of Naval Ravikant.](https://navalmanack.com/)
 - Writing: Practice writing daily (or atleast often).
 - Hacking: Work on my projects, and research.
 
