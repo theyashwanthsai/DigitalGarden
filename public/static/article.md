@@ -13,6 +13,10 @@ This section is consists of 3 parts.
 - Mini Essays: Documenting my thoughts on various parts of life
 - Blogs: Stuff I wrote back when I was in college and living in the hostel. I don’t want to touch this section. It remains a place for me to come back and look at how naive I was back then. These are old and are a reflection of my younger self.
 
+
+## 📌 Pinned
+*Jul 22, 2025* __[My future predicted by AI](./ai_prediction)__
+
 ## Series:
 
 *Jun 17, 2025* __[OS Devlogs](./osdevlogs/root)__
@@ -26,6 +30,8 @@ This section is consists of 3 parts.
 ## Mini Essays 
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
+
+*Jul 22, 2025* __[My future predicted by AI](./ai_prediction)__
 
 *Jul 18, 2025* __[The 4-Part Playbook for Writing Efficient Prompts](./ai_playbooks/4_part_prompting_template)__
 
