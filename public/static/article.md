@@ -31,6 +31,8 @@ This section is consists of 3 parts.
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
 
+*Jul 23, 2025* __[The DSPy Playbook: A Humble Introduction](./ai_playbooks/dspy_playbook)__
+
 *Jul 22, 2025* __[My future predicted by AI](./ai_prediction)__
 
 *Jul 18, 2025* __[The 4-Part Playbook for Writing Efficient Prompts](./ai_playbooks/4_part_prompting_template)__
