@@ -100,7 +100,7 @@ judge_lm = dspy.LM(
 
 Here, we define the agent's core: a Tool for external data access, a Signature to define its task, and a Module to bring it all together.
 
-We start by creating a tool. The @dspy.Tool decorator registers a standard Python function as a resource the agent can decide to use. This foodDBtool allows the agent to look up nutritional information from a local JSON file. You can download the file from here.
+We start by creating a tool. The @dspy.Tool decorator registers a standard Python function as a resource the agent can decide to use. This foodDBtool allows the agent to look up nutritional information from a local JSON file. You can download the file from [here](https://gist.github.com/theyashwanthsai/e3c4fa358a7e2f7bd8bce98b33810330).
 
 ```python
 # The Tool: A simple function to get data from a local JSON file
