@@ -3,7 +3,7 @@ I started documenting my life right after I started college. I was writing blogs
 
 ### 2025
 - Along with this, I am also regularly working on turilabs, writing blogs, completing my book.
-- Started as Head of AI at Plotweaver.
+- Promoted as the Head of AI at Vuhosi.
 - Started building a tiny operating system!! (I am not sure if I will be able to complete it)
 - Working on my 4th and 5th research project with the founder of Vuhosi.
 - Completed my college. Had an amazing 4 years. Filled with ups and downs, learnings. Perfect character development :)
