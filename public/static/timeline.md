@@ -2,15 +2,12 @@
 I started documenting my life right after I started college. I was writing blogs, and was active in the tech part of twitter. This page reflects my journey into CS, and understanding life as well. Its chronological, should read bottom-up. I will be updating it as I go along!
 
 ### 2025
-- Along with this, I am also regularly working on turilabs, writing blogs, completing my book.
-- Promoted as the Head of AI at Vuhosi.
-- Started building a tiny operating system!! (I am not sure if I will be able to complete it)
-- Working on my 4th and 5th research project with the founder of Vuhosi.
+- Started building a tiny operating system!! Check out my [video devlog](https://youtu.be/EX0qpBLK_4c?si=EvKkJSxGOlR4r6G9)
 - Completed my college. Had an amazing 4 years. Filled with ups and downs, learnings. Perfect character development :)
 - Published my third research paper.
 - Feb: My second Microsoft Reactor Talk! [Link](https://www.youtube.com/live/Uuor1o809NY?si=wNf8Xd_y1KMe7YHN)
-- Won the the best Capstone Project in Panel 6 award at Capstone Mela hosted by dept of CS of our college.
 - Our Capstone Project got selected for an international conference.
+- Won the the best Capstone Project in Panel 6 award at Capstone Mela hosted by dept of CS of our college. My only "academic" achievement.
 - Started as working as a Teaching Assistant at my college for the course - Generative AI and its Applications
 - Wrote few blogs on Agents, got massice response in twitter.
 - Year started off with a lot of positive vibes. Started journaling and inculcating the habit of reading books.
@@ -29,26 +26,31 @@ I started documenting my life right after I started college. I was writing blogs
 - Jan: I was looking for opportunities to work in a fast paced deep tech workplace. (**Spoiler alert:** got in one such startup) 
 
 ### 2023
+- By this time I fully gave up on my "Academic Comeback". Had more fun exploring and building stuff.
 - Was fired in 2 weeks.
-- Somehow got an Internship at Vertexcover Technology (Dec). This was thanks to discord cold dm.
+- Somehow got an Internship at Vertexcover Technology (Dec). This was thanks to a discord cold dm.
 - Also built leetarena - A custom local leetcode contests so we can practice and compete with our friends.
-- Started building a programming language (ZenScript). Stopped it midway :(
-- Started focusing on internals of databases, programming languages and many other technologies.
+- Started building a programming language (ZenScript). Stopped it midway.
+- Started focusing on internals of databases (left midway), programming languages and many other technologies.
 - Worked as a Freelancer for Wulot (July-Sept). Earned some money (My first time earning money online)
-- Learnt JS, Learnt React and Nodejs to build complete full stack webapps. Built quite a few small webapps.
-- Placed 3rd at Train an AI to Play Chess Kaggle Competition MLH Global Hack Week (April). This was a thrilling experience for me
-- Started learning ML, didnt understand much of it, went back to backend and systems. Loved it.
+- Learnt JS, React and Nodejs to build complete full stack webapps.
+- Placed 5th in another Datathon hosted at our college.
+- [Placed 3rd](https://x.com/yashwanthsai29/status/1655501543783944192) at Train an AI to Play Chess Kaggle Competition MLH Global Hack Week (April). Beginners Luck!
+- Started learning ML, didnt understand much of it, went to explore backend and systems. Loved it.
+- Left Cybersec and started exploring ML.
 
 ### 2022
+- Barely missed getting a backlog. I was slowly realising that exams and the "school" system were not for me.
 - Hacked on a lot of small projects, and learnt a lot.
 - Gave my First Workshop, Linux for ethical hacking (November)
 - Got interested in CyberSec, started participating in CTFs.
 - Learnt C.
 - Built a simple twitter bot (My first project which went live)
 - Got into ACM club of our college. Participated in the AIEP program where we had to build a real project. We chose gamedev. This kind of sucked, and we didnt build much, but it was a good experience, and i really liked our seniors efforts to make these things happen
+- Was still exploring game dev but eventually gave up.
 
 ### 2021
-- Started learning python seriously and building projects in it. 
+- Started learning python seriously and building projects with it. 
 - Took part in my first hackathon and learnt a lot.
 - Learnt about Git and Github.
 - I initially chose CS because I wanted to become a game developer. I was super inspired by [Dani](https://www.youtube.com/@Danidev)
