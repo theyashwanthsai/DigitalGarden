@@ -31,6 +31,8 @@ This section is consists of 3 parts.
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
 
+*Aug 08, 2025* __[CrewAI Playbook: A Humble Introduction](./ai_playbooks/crewai_playbook)__
+
 *Jul 23, 2025* __[The DSPy Playbook: A Humble Introduction](./ai_playbooks/dspy_playbook)__
 
 *Jul 22, 2025* __[My future predicted by AI](./ai_prediction)__

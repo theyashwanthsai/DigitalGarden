@@ -7,6 +7,7 @@
     --heading-tertiary: #CD7F32;
     --link-primary: #FF4500;
     --link-hover: #FFD700;
+
     --code-bg: #1C1C1C;
     --code-text: #F0F0F0;
     --button-primary: #FFD700;
@@ -72,10 +73,10 @@ body {
 }
 
 pre, code {
-    background-color: var(--code-bg);
+    /* background-color: var(--code-bg); */
     color: var(--code-text);
-    padding: 0.5rem;
-    border-radius: 4px;
+    padding: 1px 0;
+    border-radius: 1px;
 }
 
 blockquote {
