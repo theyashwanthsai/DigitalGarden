@@ -6,7 +6,7 @@
     --heading-primary: #1a1a1a;
     --heading-secondary: #2d2d2d;
     --heading-tertiary: #404040;
-    --link-primary: #38C1B6;
+    --link-primary: #004d00;
     --link-hover: #2EA69C;
 
     --code-bg: #f8f9fa;
@@ -91,8 +91,9 @@ blockquote {
 
 hr {
     border: none;
-    border-top: 1px solid var(--heading-tertiary);
+    border-top: 1px solid var(--link-primary);
     margin: 2rem 0;
+    padding: 1rem 0;
 }
 
 .button {
@@ -126,7 +127,7 @@ a:hover {
     max-width: 64rem;
     width: 100%;
     padding: 1.25rem;
-    border: 4px solid var(--text-primary);
+    border: 0px solid var(--text-primary);
     border-radius: 0.5rem;
 }
 
