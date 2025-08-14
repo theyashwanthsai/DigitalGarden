@@ -1,22 +1,24 @@
-:root {
-    --bg-primary: #0F0F0F;
-    --text-primary: #F5F5F5;
-    --text-secondary: #D3D3D3;
-    --heading-primary: #FFD700;
-    --heading-secondary: #FFA500;
-    --heading-tertiary: #CD7F32;
-    --link-primary: #FF4500;
-    --link-hover: #FFD700;
 
-    --code-bg: #1C1C1C;
-    --code-text: #F0F0F0;
-    --button-primary: #FFD700;
-    --button-hover: #FFA500;
-    --border-primary: #696969;
+:root {
+    --bg-primary: #FFFFFF;
+    --text-primary: #1a1a1a;
+    --text-secondary: #4d4d4d;
+    --heading-primary: #1a1a1a;
+    --heading-secondary: #2d2d2d;
+    --heading-tertiary: #404040;
+    --link-primary: #38C1B6;
+    --link-hover: #2EA69C;
+
+    --code-bg: #f8f9fa;
+    --code-text: #1a1a1a;
+    --button-primary: #38C1B6;
+    --button-hover: #2EA69C;
+    --border-primary: #e9ecef;
 }
 
+
 body {
-    background-color: var(--bg-primary);
+    /* background-color: var(--bg-primary); */
     color: var(--text-primary);
 }
 
@@ -112,7 +114,7 @@ a:hover {
 }
 
 .article-container {
-    background-color: var(--bg-primary);
+    /* background-color: var(--bg-primary); */
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -124,7 +126,7 @@ a:hover {
     max-width: 64rem;
     width: 100%;
     padding: 1.25rem;
-    border: 4px solid var(--border-primary);
+    border: 4px solid var(--text-primary);
     border-radius: 0.5rem;
 }
 
