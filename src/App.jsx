@@ -30,9 +30,10 @@ function App() {
           backgroundRepeat: "no-repeat",
         }}
       />
-      <div className="relative z-10 text-white font-iosevka">
+      <div className="relative z-10 ">
         <BrowserRouter>
           <Header />
+
           <Routes>
             <Route exact path="/" element={<Home />} />
             <Route path="/articles" element={<Articles />} />
