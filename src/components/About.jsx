@@ -27,7 +27,7 @@ function About() {
   }, []); // Added empty dependency array to prevent continuous fetching
 
   return (
-    <div className="markdown-content">
+    <div className="markdown-content backdrop-blur-sm bg-white/30">
       <Markdown 
         remarkPlugins={[remarkGfm]}
         rehypePlugins={[rehypeRaw]}

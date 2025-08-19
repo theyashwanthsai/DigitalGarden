@@ -5,7 +5,7 @@ import ThemeSwitcher from './ThemeSwitcher';
 
 function Header() {
   return(
-    <div className="">
+    <div className="backdrop-blur-sm bg-white/30">
         {/* <div className="theme-switcher-container">
           <ThemeSwitcher />
         </div> */}

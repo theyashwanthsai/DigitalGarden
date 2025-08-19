@@ -54,7 +54,7 @@ function ArticlePage() {
   };
 
   return (
-    <div className="article-container">
+    <div className="article-container backdrop-blur-sm bg-white/30">
       <div className="article-content">
         <div className="markdown-content">
           <Markdown 

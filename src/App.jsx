@@ -14,20 +14,15 @@ import Timeline from './components/Timeline'
 
 function App() {
   return(
-    <div className="min-h-screen w-full relative bg-white">
+    <div className="min-h-screen w-full bg-white relative">
       <div
         className="absolute inset-0 z-0"
         style={{
-          background: "#ffffff",
           backgroundImage: `
-            radial-gradient(
-              circle at top right,
-              rgba(56, 193, 182, 0.5),
-              transparent 70%
-            )
+            linear-gradient(to right, #e5e7eb 1px, transparent 1px),
+            linear-gradient(to bottom, #e5e7eb 1px, transparent 1px)
           `,
-          filter: "blur(80px)",
-          backgroundRepeat: "no-repeat",
+          backgroundSize: "40px 40px",
         }}
       />
       <div className="relative z-10 ">
