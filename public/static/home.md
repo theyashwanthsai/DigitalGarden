@@ -1,7 +1,7 @@
 # Sai Yashwanth
 
 Welcome to my personal website. I am Sai Yashwanth, an engineer, builder and a writer. 
-I am currently working as a the Head of AI at Vuhosi, leading the development of ai agents and automation workflows. Here's my [cv](./resume)
+I am currently working as the Head of AI at Vuhosi, leading the development of ai agents and automation workflows. Here's my [cv](./resume)
 
 Want to know me better? Check my chronologically ordered [proof of work.](./timeline) This is basically a timeline of my work, achievements, and experiences over the years.
 

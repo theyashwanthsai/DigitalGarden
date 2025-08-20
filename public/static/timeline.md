@@ -9,7 +9,7 @@ I started documenting my life right after I started college. I was writing blogs
 - Feb: My second Microsoft Reactor Talk! [Link](https://www.youtube.com/live/Uuor1o809NY?si=wNf8Xd_y1KMe7YHN)
 - Our Capstone Project got selected for an international conference.
 - Won the the best Capstone Project in Panel 6 award at Capstone Mela hosted by dept of CS of our college. My only "academic" achievement.
-- Started as working as a Teaching Assistant at my college for the course - Generative AI and its Applications
+- Started as a Teaching Assistant at my college for the course - Generative AI and its Applications
 - Year started off with a lot of positive vibes. Started journaling and inculcating the habit of reading books.
 
 ### 2024
