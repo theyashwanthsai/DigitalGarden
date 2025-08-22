@@ -65,7 +65,7 @@ Build real foundational models. I have a lot of plans for this, but for now I am
 I am doing this in public. You can go through the [repository](https://github.com/theyashwanthsai/Learning-Intelligence). The readme has all the details. It's the best way to go about it. Once I go through the second phase, I am gonna research a lot of subfields. RL, World Models, Language Reasoning. Recently found out mechanistic interpretability, which requires you to have a lot of foundational knowledge.
 
 ![image](/articleimages/second_part.png)
-Second Part
+
 
 Now there is no "timeframe". I dont like to stress myself with deadlines. But I do wanna finish the second phase by the November. Lets see what happens.
 
