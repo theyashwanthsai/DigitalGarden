@@ -45,7 +45,8 @@ The roadmap I built is not something set in stone. It changes heavily. Thats by 
 > Goal: To get comfortable with pytorch and NNs.
 
 I did the course by Daniel Bourke on Pytorch. Its a 24 hours course, which gets you at a very good level. I wrote the code by hand, this was painful (How did I survive before Chatgpt) but needed.
-Checkout the course: 
+
+Checkout the course: https://youtu.be/Z_ikDlimN6A?si=yxYrc_xh2gUzp70N
 
 Daniel is an amazing person. He was someone I was following since the covid era. Man is really cool.
 
