@@ -1,5 +1,7 @@
 ## Build in Public
 
+*Written on Jan 28, 2025*
+
 Why building in public works? This is the 10th offer I got reached out for without actively looking for one. There is an abundance of opportunities. I thought of sharing my thoughts on this, as it might be helpful to someone, or perhaps to my future self if I ever lose motivation
 
 Learn something, write about it online, even if you think you are not good at it yet. Let people see, Let people read. 
