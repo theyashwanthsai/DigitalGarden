@@ -19,9 +19,12 @@ This section is consists of 3 parts.
 
 ## Series:
 
+
+*Jul 18, 2025* __[AI Agent Playbooks](./ai_playbooks/root)__
+
 *Jun 17, 2025* __[OS Devlogs](./osdevlogs/root)__
 
-*Apr 01, 2025* __[Computers are cool. Lets learn about them](./computers/computers0)__
+<!-- *Apr 01, 2025* __[Computers are cool. Lets learn about them](./computers/computers0)__ -->
 
 *Dec 27, 2024* __[2025 AI Agents Guide](./twitter_essays/mini_essays)__
 
