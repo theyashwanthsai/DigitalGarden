@@ -7,13 +7,13 @@ More than a feedback loop, this became a constant source of dopamine, and I am n
 
 These playbooks are basically guides covering the whole book but in a more digestible format. The book will obviously have more content, but these are just enough to get you started tinkering with AI agents.
 
-*Jul 14, 2025* [The 4-Part Playbook for Writing Efficient Prompts](./4_part_prompting_template.md)
+*Jul 14, 2025* [The 4-Part Playbook for Writing Efficient Prompts](./4_part_prompting_template)
 
-*Jul 18, 2025* [A Prompting Playbook for Building Multi-Agent AI Systems](./prompting_playbook.md)
+*Jul 18, 2025* [A Prompting Playbook for Building Multi-Agent AI Systems](./prompting_playbook)
 
-*Jul 23, 2025* [The DSPy Playbook: A Humble Introduction](./dspy_playbook.md)
+*Jul 23, 2025* [The DSPy Playbook: A Humble Introduction](./dspy_playbook)
 
-*Aug 08, 2025* [The CrewAI Playbok](./crewai_playbook.md)
+*Aug 08, 2025* [The CrewAI Playbok](./crewai_playbook)
 
 
 

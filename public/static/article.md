@@ -34,6 +34,8 @@ This section is consists of 3 parts.
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
 
+*Sep 12, 2025* __[My 4 year CS adventure](./4_years_in_cs)__
+
 *Aug 25, 2025* __[I have built around 300 agents, worked at 5 startups. Here's what I learnt about AI Agent](./ai_agent_lessons)__
 
 *Aug 22, 2025* __[How I am learning Deep Learning again](./deep_learning)__
