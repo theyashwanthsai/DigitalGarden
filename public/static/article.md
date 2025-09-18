@@ -10,8 +10,8 @@ Aim is to create more than what I consume.
 
 This section is consists of 3 parts.
 - Series: Some of my mini essays are part of a same larger topic. Hence I have put them as a series of posts.
-- Mini Essays: Documenting my thoughts on various parts of life
-- Blogs: Stuff I wrote back when I was in college and living in the hostel. I don’t want to touch this section. It remains a place for me to come back and look at how naive I was back then. These are old and are a reflection of my younger self.
+- Mini Essays and Articles: Documenting my thoughts on various parts of life
+- Old Blogs: Stuff I wrote back when I was in college and living in the hostel. I don’t want to touch this section. It remains a place for me to come back and look at how naive I was back then. These are old and are a reflection of my younger self.
 
 
 ## 📌 Pinned
@@ -30,7 +30,7 @@ This section is consists of 3 parts.
 
 *Aug 21, 2024* __[Learning LLM internals by building one](./llm0)__
 
-## Mini Essays 
+## Mini Essays and Articles
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
 
@@ -100,7 +100,7 @@ This section is consists of 3 parts.
 
 *Aug 19, 2024* __[Building my first PC](./pcbuild)__
 
-## Blogs:
+## Old Blogs:
 
 *Apr 10, 2024* __[Building a Copilot Clone using Open Source LLMs for neovim.](./opilot)__
 

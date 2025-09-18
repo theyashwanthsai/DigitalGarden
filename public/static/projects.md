@@ -14,15 +14,15 @@ This page is divided into 3 parts:
 
 
 ## Research
-**Book (Sep 2024 - Ongoing): Multi Agent Systems in Action**: Co-authoring a book under Manning Publications with the founder of Vuhosi. 
+- Book (Sep 2024 - Ongoing): **Multi Agent Systems in Action**: Co-authoring a book under Manning Publications with the founder of Vuhosi. 
 
-**Paper (April 2025 - July 2025): A Multi-Agent Pokemon Tournament**: Evaluating strategic reasoning of Large Language Models through Pokemon battles. [Link](https://arxiv.org/abs/2508.01623)
+- Paper (April 2025 - July 2025): **A Multi-Agent Pokemon Tournament: Evaluating strategic reasoning of Large Language Models through Pokemon battles**. [Link](https://arxiv.org/abs/2508.01623)
 
-**Paper (Feb 2024 - May 2025): GreenIQ**: Deep search platform for comprehensive carbon market analysis and automated report generation. Accepted and presented at the 10th ICMLT 25. [Link](https://arxiv.org/abs/2503.16041)
+- Paper (Feb 2024 - May 2025): **GreenIQ: Deep search platform for comprehensive carbon market analysis and automated report generation**. Accepted and presented at the 10th ICMLT 25. [Link](https://arxiv.org/abs/2503.16041)
 
-**Paper (Jan 2024 - Jan 2025): Real Time Child Abduction And Detection System**: Accepted and presented at the 16th ICRET.
+- Paper (Jan 2024 - Jan 2025): **Real Time Child Abduction And Detection System**: Accepted and presented at the 16th ICRET. [PrePrint](https://arxiv.org/abs/2508.11690)
 
-**Paper (March - April 2024): Advancing Cricket Narratives**: AI-enhanced advanced journaling in the IPL using language models. Accepted and presented at the 10th IEEE CONECCT 24. [Link](https://ieeexplore.ieee.org/document/10677234)
+- Paper (March - April 2024): **Advancing Cricket Narratives: AI-enhanced advanced journaling in the IPL using language models**. Accepted and presented at the 10th IEEE CONECCT 24. [Link](https://ieeexplore.ieee.org/document/10677234)
 
 ## Projects
 Learning is best when you build something around the knowledge. This is my motto.
