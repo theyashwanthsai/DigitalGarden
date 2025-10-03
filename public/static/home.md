@@ -31,6 +31,6 @@ Apart from work, I try to follow this routine:
 - Writing: Practice writing daily (or atleast often).
 - Hacking: Work on side research projects.
 
-I also love playing games. Few of my favorite titles: [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima), [Uncharted 4.](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End, [Rdr2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2)
+I also love playing games. Few of my favorite titles: [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima), [Uncharted 4.](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End), [Rdr2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2)
 
 
