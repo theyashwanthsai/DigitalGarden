@@ -5,16 +5,14 @@ I am currently working as the Head of AI at Vuhosi, leading the development of a
 
 Want to know me better? Check my chronologically ordered [proof of work.](./timeline) This is basically a timeline of my work, achievements, and experiences over the years.
 
-I run an indie ai research lab called [Turi Labs.](https://www.turilabs.tech) Check it out.
+I run an indie ai research lab called [Turi Labs.](https://www.turilabs.tech)
 
 I love building stuff, writing, reading, playing football and working out. I believe in the idea of becoming "multidimensionally jacked" - body, mind, knowledge, skills, communication, finance. The idea is to max out all aspects of life.
 
 Although I am very lazy and sometimes lack the motivation or the urge to take actions, I am actively trying to fix my life in this regard. I will write about my experiments and observations fixing my body and mind soon. 
 
 ### Map
-This is how I organized this space. Let me be honest, most of the stuff here is a big work in progress. This space will keep changing (this website was completely different back in 2023).
-
-To me, this is my [digital garden](https://maggieappleton.com/garden-history). 
+This is how I organize this space. I will be honest, most of the stuff here is a "work in progress". This space will keep changing (this website was completely different back in 2023). To me, this space is my [digital garden](https://maggieappleton.com/garden-history). It is a collection of my thoughts, ideas, projects, and experiences. Here's a map of the space:
 
 - [Essays](./articles): I got this habbit of writing and I love it. Here's a collection of all the stuff I have written.
 - [Projects](./projects): A showcase of all the projects I have worked on. (Might be incomplete)
@@ -23,7 +21,7 @@ To me, this is my [digital garden](https://maggieappleton.com/garden-history).
 
 
 ## A typical day in my life
-Apart from work, I try to follow this routine:
+Apart from work, I try to follow this routine (average day):
 
 - Training: Currently taking mma classes + calisthenics. Left lifting weights after 4 years of doing so.
 - Eating: Eat clean (high protein, less carbs, more healthy fats). Atleast 90% of the time.

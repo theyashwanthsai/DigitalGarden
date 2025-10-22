@@ -2,6 +2,7 @@
 I started documenting my life right after I started college. I was writing blogs, and was active in the tech part of twitter. This page reflects my journey into CS, and understanding life as well. Its chronological, should read bottom-up. I will be updating it as I go along!
 
 ### 2025
+- Turilab's first research paper gets accepted to a Neurips workshop! How cool is that. 
 - I was invited serve as a Reviewer for the NeurIPS 2025 ER Workshop. 
 - I started reviewing manuscripts for manning. How cool is that!
 - Started building a tiny operating system!! Check out my [video devlog](https://youtu.be/EX0qpBLK_4c?si=EvKkJSxGOlR4r6G9)

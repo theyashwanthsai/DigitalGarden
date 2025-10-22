@@ -8,7 +8,7 @@ I always believe in learning by building. Projects are what I have been building
 
 This page is divided into 3 parts:
 - Research: This is where I write about my research work.
-- Hall of Fame: This is where I showcase my best work.
+- Side Projects: This is where I showcase my open source work projects.
 - Other Projects: This is where I showcase my old projects. These are probably very basic, but these are what made me who I am today.
 
 
@@ -20,36 +20,36 @@ This page is divided into 3 parts:
 
 - Paper (Feb 2024 - May 2025): **GreenIQ: Deep search platform for comprehensive carbon market analysis and automated report generation**. Accepted and presented at the 10th ICMLT 25. [Link](https://arxiv.org/abs/2503.16041)
 
-- Paper (Jan 2024 - Jan 2025): **Real Time Child Abduction And Detection System**: Accepted and presented at the 16th ICRET. [PrePrint](https://arxiv.org/abs/2508.11690)
+- Paper (Jan 2024 - Jan 2025): **Real Time Child Abduction And Detection System**: Accepted and presented at the 15th IEEE SITA CONF. [PrePrint](https://arxiv.org/abs/2508.11690)
 
 - Paper (March - April 2024): **Advancing Cricket Narratives: AI-enhanced advanced journaling in the IPL using language models**. Accepted and presented at the 10th IEEE CONECCT 24. [Link](https://ieeexplore.ieee.org/document/10677234)
 
 ## Projects
 Learning is best when you build something around the knowledge. This is my motto.
 
-### Hall of Fame:
-These are the projects which I would show you if you want to know what my craft is all about.
-If you're curious about the scope and quality of my work, these are the ones I would proudly present.
+### Side Projects:
+These are the projects which I would show you if you want to know what my "craft" is all about. I am very proud of the work done in these projects.
 
 
-**[Learning Intelligence](https://github.com/theyashwanthsai/Learning-Intelligence)**: A project where I will be implementing the most important ML research papers using PyTorch.
+**[Learning Intelligence](https://github.com/theyashwanthsai/Learning-Intelligence)**: A repo where I will be implementing the most important ML research papers. This is too boost my knowledge and understanding of the field. It will help me in developing the right research intuition.
 
 **[OS-1](https://github.com/theyashwanthsai/OS-1)**: A simple operating system written in assembly. Just prints "Hello World" in 16-bit real mode.
 
-**[MREB](./mreb)**: Multimodal Reasoning and Ethics Benchmark (MREB) is an open source benchmark designed to assess the cross-domain capabilities of AI models.
-
 **[ZenScript](https://github.com/theyashwanthsai/ZenScript)**: Building my own programming language using Python - To understand more about interpreters, compilers.
 
-**[Devyan](https://github.com/theyashwanthsai/Devyan)**: Devyan is an AI-powered software development assistant that orchestrates a team of agents to solve programming tasks.
+
 
 ### Other Projects:
 
 These are other projects I built. I learn the best while building, and these are some of the mini projects I built over the years
 
+**[MREB](./mreb)**: Multimodal Reasoning and Ethics Benchmark (MREB) is an open source benchmark designed to assess the cross-domain capabilities of AI models.
 
 **[Newsletter Agent](https://github.com/Turi-Labs/Newsletter-Editor-Agents)**: A team of AI Agents that run the official newsletter of [turilabs](https://turilabs.tech).
 
 **[Pokemon LLM League](https://github.com/Turi-Labs/Poke-Bench)**: A pokemon league where llms compete against each other.
+
+**[Devyan](https://github.com/theyashwanthsai/Devyan)**: Devyan is an AI-powered software development assistant that orchestrates a team of agents to solve programming tasks. This project boosted my career big time!
 
 **[Opilot.nvim](https://github.com/theyashwanthsai/opilot.nvim)**: Built a neovim plugin copilot clone using codellama (13B paramater model). Designed a middleware microservice architecture, supporting autocomplete code and test function generation.
 
