@@ -14,7 +14,7 @@ I recently discovered that I kind of like teaching. Sharing my knowledge with ot
 Currently working on:
 - [Operating System](/osdevlogs/root): Building a toy operating system so that I can challenge myself outside of my comfort zone. Also because I got tired of python and wanted something raw.
 - [Mastering Agentic AI](/my_book): A book on AI Agents, which I am writing with my Boss. This book will be in collaboration with [Manning Publications](https://www.manning.com/).
-- [TuriLabs](https://turilabs.tech): An indie research lab. The plan is to collaborate with a bunch of corporate slaves (also my friends) and work on research oriented projects and write about them.
+- [TuriLabs](https://turilabs.in): An indie research lab. The plan is to collaborate with a bunch of corporate slaves (also my friends) and work on research oriented projects and write about them.
 
 
 Socials: __[Github](<https://github.com/theyashwanthsai>)__, __[Twitter](<https://twitter.com/yashwanthsai29>)__, __[Medium](<https://medium.com/@theyashwanthsai>)__, __[LinkedIn](<https://www.linkedin.com/in/sai-yashwanth-457aa51b9/>)__.

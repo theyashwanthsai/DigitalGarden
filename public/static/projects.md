@@ -45,7 +45,7 @@ These are other projects I built. I learn the best while building, and these are
 
 **[MREB](./mreb)**: Multimodal Reasoning and Ethics Benchmark (MREB) is an open source benchmark designed to assess the cross-domain capabilities of AI models.
 
-**[Newsletter Agent](https://github.com/Turi-Labs/Newsletter-Editor-Agents)**: A team of AI Agents that run the official newsletter of [turilabs](https://turilabs.tech).
+**[Newsletter Agent](https://github.com/Turi-Labs/Newsletter-Editor-Agents)**: A team of AI Agents that run the official newsletter of [turilabs](https://turilabs.in).
 
 **[Pokemon LLM League](https://github.com/Turi-Labs/Poke-Bench)**: A pokemon league where llms compete against each other.
 

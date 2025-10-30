@@ -201,7 +201,7 @@ I started turilabs in nov 2024. Initially it was started as an agency X research
 But we gave up, and I turned it into a pure research lab.
 
 ![](../articleimages/turilabs.webp)
-*[turilabs.tech](turilabs.tech). This was the website when we launched. Things have changed a lot since then. Check out our website.*
+*[turilabs.in](turilabs.in). This was the website when we launched. Things have changed a lot since then. Check out our website.*
 
 We work on research projects, and write papers. If you want to work on a research project in AI/DL/RL, hit us up.
 
