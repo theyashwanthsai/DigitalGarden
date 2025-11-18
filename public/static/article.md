@@ -34,6 +34,8 @@ This section is consists of 3 parts.
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
 
+*Nov 18, 2025* __[Agent Evals are hard. What building 300+ AI Agents taught me](./agent_evals)__
+
 *Nov 06, 2025* __[Why Start a Research Lab? 1 year of Building my Indie AI Lab](./why_research_lab)__
 
 *Oct 23, 2025* __[Develop Hunger](./hunger)__
