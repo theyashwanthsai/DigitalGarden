@@ -18,7 +18,7 @@ I started documenting my life right after I started college. I was writing blogs
 - Dec: Gave my first Microsoft Reactor Talk! [Link](https://www.youtube.com/live/Z8wIyqEUKyA?si=StWR4BeEv60ztMHd)
 - Founded [Turi Labs](https://www.turilabs.in). Turi Labs is an Indie AI Research Lab.
 - Started writing a book on AI Agents under Manning Publications with the founder of Vuhosi.
-- Eventually didnt sit for college placements, joined Vuhosi as a Founding AI Engineer.
+- Eventually didnt sit for college placements, joined Vuhosi as a AI Engineer.
 - Worked for 2 months, left Composio since I wanted to focus on college placements. 
 - Built a small hobby project: Devyan. A software engineering team in python.
 - Built a lot of small projects on AI agents, and learnt a lot. Truly grateful. Composio was like an SF startup in blr.
