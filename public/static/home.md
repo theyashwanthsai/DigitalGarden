@@ -2,6 +2,8 @@
 
 Welcome to my personal website. I am Sai Yashwanth, an engineer, builder and a writer. Here's my [cv](./resume)
 
+I currently work as an AI Engineer at [StartupFuel](startupfuel.com) where I work on building AI agents and post training language models.
+
 Want to know me better? Check my chronologically ordered [proof of work.](./timeline) This is basically a timeline of my work, achievements, and experiences over the years.
 
 I run an indie ai research lab called [Turi Labs.](https://www.turilabs.in)

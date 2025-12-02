@@ -2,6 +2,7 @@
 I started documenting my life right after I started college. I was writing blogs, and was active in the tech part of twitter. This page reflects my journey into CS, and understanding life as well. Its chronological, should read bottom-up. I will be updating it as I go along!
 
 ### 2025
+- Started working as an AI Engineer at [StartupFuel](startupfuel.com) where I work on building AI agents and post training language models. As they say, oct-nov-dec lockin is real. Crazy arc comes to an end.
 - Left Vuhosi after more than a year working there. Incredibly grateful for the experience.
 - Turilab's first research paper gets accepted to a Neurips workshop! How cool is that. 
 - I was invited serve as a Reviewer for the NeurIPS 2025 ER Workshop. 
