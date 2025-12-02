@@ -5,7 +5,7 @@
 
 Hi there! My name is Sai Yashwanth, I am an engineer and a writer. I love building stuff and writing about them online. I also like solving problems using tech. 
 
-I currently work as an AI Engineer at [StartupFuel](startupfuel.com) where I build AI agents and post-train language models.
+I currently work as an AI Engineer at [StartupFuel](https://startupfuel.com) where I build AI agents and post-train language models.
 
 I am currently writing a book on AI Agents which should be out in a few months. 
 
