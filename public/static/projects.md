@@ -16,11 +16,13 @@ This page is divided into 3 parts:
 ## Research
 - Book (Sep 2024 - Ongoing): **Multi Agent Systems in Action**: Co-authoring a book under Manning Publications with the founder of Vuhosi. 
 
-- Paper (April 2025 - July 2025): **A Multi-Agent Pokemon Tournament: Evaluating strategic reasoning of Large Language Models through Pokemon battles**. [Link](https://arxiv.org/abs/2508.01623)
+- Paper (Oct 2025 - Dec 2025): **On the Structure of Floating-Point Noise in Batch-Invariant GPU Matrix Multiplication**. [Link](https://arxiv.org/abs/2511.00025)
 
-- Paper (Feb 2024 - May 2025): **GreenIQ: Deep search platform for comprehensive carbon market analysis and automated report generation**. Accepted and presented at the 10th ICMLT 25. [Link](https://arxiv.org/abs/2503.16041)
+- Paper (April 2025 - July 2025): **Reasoning Under Pressure: LLMs in Competitive Pokémon Battles**. [Link](https://openreview.net/pdf?id=HANazTe5Im)
 
-- Paper (Jan 2024 - Jan 2025): **Real Time Child Abduction And Detection System**: Accepted and presented at the 15th IEEE SITA CONF. [PrePrint](https://arxiv.org/abs/2508.11690)
+- Paper (Jan 2024 - Jan 2025): **Real Time Child Abduction And Detection System**: Accepted and presented at the 15th IEEE SITA CONF. [Link](https://ieeexplore.ieee.org/document/11273371)
+
+- Paper (Feb 2024 - May 2025): **GreenIQ: Deep search platform for comprehensive carbon market analysis and automated report generation**. Accepted and presented at the 10th ICMLT 25. [Link](https://ieeexplore.ieee.org/document/11193211)
 
 - Paper (March - April 2024): **Advancing Cricket Narratives: AI-enhanced advanced journaling in the IPL using language models**. Accepted and presented at the 10th IEEE CONECCT 24. [Link](https://ieeexplore.ieee.org/document/10677234)
 

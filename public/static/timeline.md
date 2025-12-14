@@ -4,14 +4,15 @@ I started documenting my life right after I started college. I was writing blogs
 ### 2025
 - Started working as an AI Engineer at [StartupFuel](https://startupfuel.com) where I build AI agents and post-train language models. The great oct-nov-dec lockin is real. Crazy arc, dec feels like Vinland.
 - Left Vuhosi after more than a year working there. Incredibly grateful for the experience.
-- Turilab's first research paper gets accepted to a Neurips workshop! How cool is that. 
+- Secon research paper of turilabs was completed. This was a complete math heavy research paper. [Link]()
+- Turilab's first research paper (and my 4th) gets accepted to a Neurips workshop! How cool is that. [Link](https://openreview.net/pdf?id=HANazTe5Im)
 - I was invited serve as a Reviewer for the NeurIPS 2025 ER Workshop. 
 - I started reviewing manuscripts for manning. How cool is that!
+- Our Capstone Project (3rd research paper) got selected at a 15th IEEE international conference. [Link](https://ieeexplore.ieee.org/document/11273371)
 - Started building a tiny operating system!! Check out my [video devlog](https://youtu.be/EX0qpBLK_4c?si=EvKkJSxGOlR4r6G9)
 - Completed my college. Had an amazing 4 years. Filled with ups and downs, learnings. Perfect character development :)
-- Published my third research paper at an international conference
+- Published my 2nd research paper at 10th international conference. [Link](https://ieeexplore.ieee.org/document/11193211)
 - Feb: My second Microsoft Reactor Talk! [Link](https://www.youtube.com/live/Uuor1o809NY?si=wNf8Xd_y1KMe7YHN)
-- Our Capstone Project (second research paper) got selected for an international conference.
 - Won the the best Capstone Project in Panel 6 award at Capstone Mela hosted by dept of CS of our college. My only "academic" achievement.
 - Started as a Teaching Assistant at my college for the course - Generative AI and its Applications
 - Year started off with a lot of positive vibes. Started journaling and inculcating the habit of reading books.
