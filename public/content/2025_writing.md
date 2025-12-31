@@ -18,7 +18,7 @@ So I was writing since 2021, but only clearly started from the second half of 20
 I was primarily writing articles related to the ai agents space, and in the month of Jan 2024, I had a total of 300k views on all the twitter articles. Heres a link which has a list of all articles.
 
 
-While I was writing on twitter, I was also jotting down my thoughts on various other aspects such as building in public, ai vs art, devlogs, etc.
+While I was writing on twitter, I was also jotting down my thoughts on various other aspects such as [building in public](./buildinpublic), [ai vs art](./aivsart), [devlogs](./osdevlogs/root), etc.
 
 
 In July, I realized I can write these articles on medium (thanks to my friend Mr Shaji to pointing it out). 2 months into medium, by september, I had my first break. I article I previously mentioned above. That opened a lot of doors, with a lot of freelance writing gigs to make some side income.
