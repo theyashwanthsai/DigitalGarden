@@ -34,6 +34,10 @@ This section is consists of 3 parts.
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
 
+*Jan 07, 2026* __[M Shape](./m_shape)__
+
+*Jan 01, 2026* __[On Seeking Attention](./show_off)__
+
 *Dec 31, 2025* __[1 Year of Writing](./2025_writing)__
 
 *Dec 30, 2025* __[State of AI in 2025](./2025_ai)__
