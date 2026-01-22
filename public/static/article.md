@@ -34,6 +34,8 @@ This section is consists of 3 parts.
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
 
+*Jan 19, 2026* __[GPUmaxxing 1](./GPUmaxxing_1)__
+
 *Jan 11, 2026* __[Curiosity driven learning vs Discipline](./curiosityvsdiscipline)__
 
 *Jan 07, 2026* __[M Shape](./m_shape)__
