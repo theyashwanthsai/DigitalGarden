@@ -1,3 +1,7 @@
+# GPUmaxxing 1
+
+*Written on 19th Jan, 2026*
+
 I have had this feeling from a long time, but I finally gave in to the urge of learning cuda, and I wanted to write my thoughts on it.
 
 ### Why am I learning gpu programming, and why should you?
