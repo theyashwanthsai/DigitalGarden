@@ -1,6 +1,6 @@
 I have had this feeling from a long time, but I finally gave in to the urge of learning cuda, and I wanted to write my thoughts on it.
 
-Why am I learning gpu programming, and why should you?
+### Why am I learning gpu programming, and why should you?
 
 I usually want to learn things super fast. Get the absolute basics in as soon as possible, and then build and break stuff. This has helped me a lot in my career. But for the first time, when I tried approaching gpu programming the same way, I felt that I should probably take time, build my foundations, and do it slowly.
 
@@ -18,7 +18,9 @@ CPUs are latency oriented, while GPUs are throughput oriented. Throughput == Amo
 Understanding what and where to use the knowledge of gpu programming is important. 
 
 What we basically happens in a cuda program is, first we write a normal program which generally runs on cpu. Here, for the parts that need parallelization we wrap the logic in a separate function called kernels. We allocate memory on the parallel device (our gpu), and launch the kernel. 
+
 Cpu == host, gpu == device
+
 All programs normally run on cpu, and for programs that we want on gpu, we call a kernel from the host (cpu), and this kernel runs on the device (gpu), and returns the output back to host.
 
 This kernel generally does some calculation and return the result back to the cpu. Examples: matmul, vector addition etc.
