@@ -34,6 +34,10 @@ This section is consists of 3 parts.
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
 
+*Jan 29, 2026* __[23](./23)__
+
+*Jan 25, 2026* __[Current AI Agent Landscape: Jan 2026](./aiagent_2026)__
+
 *Jan 19, 2026* __[GPUmaxxing 1](./GPUmaxxing_1)__
 
 *Jan 11, 2026* __[Curiosity driven learning vs Discipline](./curiosityvsdiscipline)__
