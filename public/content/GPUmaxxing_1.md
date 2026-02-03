@@ -4,6 +4,8 @@
 
 I have had this feeling from a long time, but I finally gave in to the urge of learning cuda, and I wanted to write my thoughts on it.
 
+![](/articleimages/cuda1_1.png)
+
 Why am I learning gpu programming, and why should you?
 
 I usually want to learn things super fast. Get the absolute basics in as soon as possible, and then build and break stuff. This has helped me a lot in my career. But for the first time, when I tried approaching gpu programming the same way, I felt that I should probably take time, build my foundations, and do it slowly.
@@ -28,6 +30,7 @@ Cpu == host, gpu == device
 All programs normally run on cpu, and for programs that we want on gpu, we call a kernel from the host (cpu), and this kernel runs on the device (gpu), and returns the output back to host.
 
 This kernel generally does some calculation and return the result back to the cpu. Examples: matmul, vector addition etc.
+
 ### Grids, Blocks and Threads
 Since the book talks more about cuda, I am not sure how the organizational structure differs for other models, but I like to visualize that the program I write using the structure defined in the book and the cuda documentation.
 
@@ -37,6 +40,8 @@ But if you dont organize these workers before anything, you might face a lot of 
 
 Threads are the ones sitting lowest in this organization. They are the ”workers”. They organized into blocks. A block has a specific number of threads that have shared memory.
 Multiple blocks are organized into something we call a grid.
+
+![](/articleimages/cuda1_2.png)
 
 Blocks and threads are important for us. When you launch a kernel, you define the number of blocks and the number of threads per block.
 
