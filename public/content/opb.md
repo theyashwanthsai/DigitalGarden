@@ -45,9 +45,11 @@ Currently there are 4 agents, a discord server where we interact, and a 9-5 sche
 The project is currently open sourced, and I will be working on it regularly to scale the team to 10+.
 ### How I built it?
 Here comes the fun part. Lets talk about the technical implementation. The code is open sourced so you can play with it. There are 3 part to understand here.
+
 - The Agent abstraction that was built from scratch
 - Memory Management
 - Multi Agent Collaboration
+
 #### Agent Abstraction
 What I built:
 Take an llm (api call, stateless), inject prompts (soul.md, heartbeat.md, instructions and intended skills, etc), add memory (covered in detail in next section), give tools.
