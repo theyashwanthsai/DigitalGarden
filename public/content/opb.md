@@ -45,9 +45,9 @@ Currently there are 4 agents, a discord server where we interact, and a 9-5 sche
 The project is currently open sourced, and I will be working on it regularly to scale the team to 10+.
 ### How I built it?
 Here comes the fun part. Lets talk about the technical implementation. The code is open sourced so you can play with it. There are 3 part to understand here.
-1. The Agent abstraction that was built from scratch
-2. Memory Management
-3. Multi Agent Collaboration
+- The Agent abstraction that was built from scratch
+- Memory Management
+- Multi Agent Collaboration
 #### Agent Abstraction
 What I built:
 Take an llm (api call, stateless), inject prompts (soul.md, heartbeat.md, instructions and intended skills, etc), add memory (covered in detail in next section), give tools.
@@ -61,8 +61,8 @@ This is something which is still an open question. So I basically created 3 SQL 
 ![](../articleimages/opb5.png)
 
 An agent when executed, 2 things happen.
-1: The last few rows will be given to the agent.
-2: Agent should always write something in these 3 tables.
+- The last few rows will be given to the agent.
+- Agent should always write something in these 3 tables.
 
 This makes my agent stateful. The tables evolve over time. Llm remains stateless. Combined, this becomes ”agentic”.
 
@@ -71,9 +71,9 @@ The problem is that this approach is cool. Your agent has rich experiences which
 But the problem is, this is naive. After running for few weeks, the tables will get bloated. Passing all the rows to the agent will make the quality of output worse. Dont forget the cost.
 
 There are few ways to solve this.
-1. Only pass the last ’x’ rows.
-2. Do some sort of contexual retrieval, and pass only those rows + last few rows.
-3. Diminishing memory. Just like humans, I want to only store the necessary information. Compressing the memory basically.
+- Only pass the last ’x’ rows.
+- Do some sort of contexual retrieval, and pass only those rows + last few rows.
+- Diminishing memory. Just like humans, I want to only store the necessary information. Compressing the memory basically.
 
 I have to experiment with these methods. I want my agents to have a job role, a soul and experiences. I also want to include ontology based memory in the future.
 
@@ -83,11 +83,11 @@ This is the important part. We have an llm with a lot of context (prompts, memor
 I have a concept called sessions. A session is basically an agent running. Think of my system like this. We have few humans with personalities and job roles. They are always sleeping. I wake them up at a particular time, give them instructions and make them do something. This is called a session. A session is the most basic unit of the system.
 
 A session can be:
-1. A single agent doing a task.
-2. Two agents chitchatting (what I call a watercooler meeting)
-3. All of them brainstorming or attending a meeting
-4. A standup with me
-5. Urgent 1 on 1s
+- A single agent doing a task.
+- Two agents chitchatting (what I call a watercooler meeting)
+- All of them brainstorming or attending a meeting
+- A standup with me
+- Urgent 1 on 1s
 
 ![](../articleimages/opb6.png)
 
