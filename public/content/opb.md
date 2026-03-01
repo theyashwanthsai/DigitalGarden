@@ -83,11 +83,11 @@ This is the important part. We have an llm with a lot of context (prompts, memor
 I have a concept called sessions. A session is basically an agent running. Think of my system like this. We have few humans with personalities and job roles. They are always sleeping. I wake them up at a particular time, give them instructions and make them do something. This is called a session. A session is the most basic unit of the system.
 
 A session can be:
-- A single agent doing a task.
-- Two agents chitchatting (what I call a watercooler meeting)
-- All of them brainstorming or attending a meeting
-- A standup with me
-- Urgent 1 on 1s
+1. A single agent doing a task.
+2. Two agents chitchatting (what I call a watercooler meeting)
+3. All of them brainstorming or attending a meeting
+4. A standup with me
+5. Urgent 1 on 1s
 
 ![](../articleimages/opb6.png)
 
