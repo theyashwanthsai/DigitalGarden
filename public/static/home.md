@@ -6,8 +6,10 @@ I currently work as an AI Engineer at [StartupFuel](https://startupfuel.com) whe
 
 I document events of my life [here](./timeline). Take your time and check it out to know more about me. I run an indie ai research lab called [Turi Labs](https://www.turilabs.in)
 
-![cat](./articleimages/cat.jpeg)
-Meet my cat.
+<img src="./articleimages/cat.jpeg" alt="cat" width="300" />
+
+My cat. She passed away on March 17th. Rest in peace Simba! 
+
 
 I love building stuff, writing, reading, playing football and working out. I believe in the idea of becoming "multidimensionally jacked". Body, mind, knowledge, skills, communication, finance and most important: personality. The idea is to max out all aspects of life. But the goal is to live peacefully and happily with family, friends and loved ones.
 
