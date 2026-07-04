@@ -7,7 +7,7 @@
     <title>Sai Yashwanth</title>
     <script>
       try {
-        if (localStorage.getItem("theme") === "dark") {
+        if (localStorage.getItem("theme") !== "light") {
           document.documentElement.classList.add("dark");
         }
       } catch (e) {}
