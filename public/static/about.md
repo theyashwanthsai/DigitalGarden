@@ -28,3 +28,7 @@ I [built a PC](/pcbuild) with my first stipend from an internship. I run pop os 
 
 ![](/articleimages/setup.jpeg)
 
+<img src="/articleimages/cat.jpeg" alt="cat" width="300" />
+
+My cat. She passed away on March 17th. Rest in peace Simba! 
+

@@ -2,48 +2,23 @@
 
 > "When a measure becomes a target, it ceases to be a good measure." - Goodhart's Law
 
-![img](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
 I always believe in learning by building. Projects are what I have been building from the past 4 years. Here are a few of the projects I built while exploring various fields of interest.
 
-This page is divided into 3 parts:
-- Research: This is where I write about my research work.
-- Side Projects: This is where I showcase my open source work projects.
-- Other Projects: This is where I showcase my old projects. These are probably very basic, but these are what made me who I am today.
+## Current Work
+- [Turi Labs](https://turilabs.in)
+- [AgenticB2B](https://agenticb2b.tech)
+- [DeployedAI](https://deployedai.io)
 
+## Side Projects
+These are the projects which I would show you if you want to know what my "craft" is all about. Learning is best when you build something around the knowledge. This is my motto.
 
-
-## Research
-- Book (Sep 2024 - Ongoing): **Multi Agent Systems in Action**: Co-authoring a book under Manning Publications with the founder of Vuhosi. 
-
-- Paper (Oct 2025 - Dec 2025): **On the Structure of Floating-Point Noise in Batch-Invariant GPU Matrix Multiplication**. [Link](https://arxiv.org/abs/2511.00025)
-
-- Paper (April 2025 - July 2025): **Reasoning Under Pressure: LLMs in Competitive Pokémon Battles**. [Link](https://openreview.net/pdf?id=HANazTe5Im)
-
-- Paper (Jan 2024 - Jan 2025): **Real Time Child Abduction And Detection System**: Accepted and presented at the 15th IEEE SITA CONF. [Link](https://ieeexplore.ieee.org/document/11273371)
-
-- Paper (Feb 2024 - May 2025): **GreenIQ: Deep search platform for comprehensive carbon market analysis and automated report generation**. Accepted and presented at the 10th ICMLT 25. [Link](https://ieeexplore.ieee.org/document/11193211)
-
-- Paper (March - April 2024): **Advancing Cricket Narratives: AI-enhanced advanced journaling in the IPL using language models**. Accepted and presented at the 10th IEEE CONECCT 24. [Link](https://ieeexplore.ieee.org/document/10677234)
-
-## Projects
-Learning is best when you build something around the knowledge. This is my motto.
-
-### Side Projects:
-These are the projects which I would show you if you want to know what my "craft" is all about. I am very proud of the work done in these projects.
-
+**[One Person Company](./opb)**: A 24/7 self-hosted team of AI agents running on a Raspberry Pi. Agents with their own roles, personalities and goals, working as my personal research and content agency.
 
 **[Learning Intelligence](https://github.com/theyashwanthsai/Learning-Intelligence)**: A repo where I will be implementing the most important ML research papers. This is too boost my knowledge and understanding of the field. It will help me in developing the right research intuition.
 
 **[OS-1](https://github.com/theyashwanthsai/OS-1)**: A simple operating system written in assembly. Just prints "Hello World" in 16-bit real mode.
 
 **[ZenScript](https://github.com/theyashwanthsai/ZenScript)**: Building my own programming language using Python - To understand more about interpreters, compilers.
-
-
-
-### Other Projects:
-
-These are other projects I built. I learn the best while building, and these are some of the mini projects I built over the years
 
 **[MREB](./mreb)**: Multimodal Reasoning and Ethics Benchmark (MREB) is an open source benchmark designed to assess the cross-domain capabilities of AI models.
 

@@ -2,35 +2,33 @@
 @tailwind components;
 @tailwind utilities;
 
-/* @font-face {
+@font-face {
+  font-family: "Lora";
+  src: url("/fonts/lora-latin.woff2") format("woff2");
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("/fonts/lora-latin-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
   font-family: "Indie";
   src: url("/fonts/indie.ttf");
-} */
+  font-display: swap;
+}
 
-/* @font-face {
-  font-family: "Victormono";
-  src: url("/fonts/victormono.ttf");
-} */
-
-/* @font-face {
-  font-family: "lora";
-  src: url("/fonts/lora.ttf");
-} */
-
-
-
-/* @font-face {
-  font-family: "iosevka";
+@font-face {
+  font-family: "Iosevka";
   src: url("/fonts/iosevka.ttf");
-} */
-
-/* @font-face {
-  font-family: "Poppins";
-  src: url("https://fonts.cdnfonts.com/css/poppins");
-} */
-
-
-
+  font-display: swap;
+}
 
 .markdown > * {
     all: revert;

@@ -26,7 +26,7 @@ function Projects() {
   }, []); // Added empty dependency array to prevent continuous fetching
 
   return (
-    <div className="markdown-content backdrop-blur-sm bg-white/30">
+    <div className="markdown-content panel">
       <Markdown 
         remarkPlugins={[remarkGfm]}
         rehypePlugins={[rehypeRaw]}

@@ -1,14 +1,11 @@
 import React from "react"
 import { Link } from 'react-router-dom';
-import './Header.css'; 
+import './Header.css';
 import ThemeSwitcher from './ThemeSwitcher';
 
 function Header() {
   return(
-    <div className="backdrop-blur-sm bg-white/30">
-        {/* <div className="theme-switcher-container">
-          <ThemeSwitcher />
-        </div> */}
+    <div className="panel">
       <header className="header">
         <nav>
 
@@ -16,10 +13,8 @@ function Header() {
           <Link to="/projects" className="nav-link">Projects</Link>
           <Link to="/articles" className="nav-link">Essays</Link>
           <Link to="/about" className="nav-link">Me</Link>
+          <ThemeSwitcher />
         </nav>
-
-        {/* Show theme switcher on all devices */}
-        
       </header>
     </div>
   );

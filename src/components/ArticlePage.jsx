@@ -56,7 +56,7 @@ function ArticlePage() {
   return (
     // <div className="article-container ">
       
-        <div className="markdown-content backdrop-blur-sm bg-white/30">
+        <div className="markdown-content panel">
           <Markdown 
             remarkPlugins={[remarkGfm]}
             rehypePlugins={[rehypeRaw]}

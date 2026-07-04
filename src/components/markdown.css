@@ -1,51 +1,107 @@
 
 :root {
-    --bg-primary: #FFFFFF;
-    --text-primary: #1a1a1a;
-    --text-secondary: #4d4d4d;
-    --heading-primary: #1a1a1a;
-    --heading-secondary: #2d2d2d;
-    --heading-tertiary: #404040;
+    --ink-black: #151816;
+    --fresh-paper: #f7f7ef;
+
+    --bg-primary: var(--fresh-paper);
+    --text-primary: var(--ink-black);
+    --text-secondary: #454a45;
+    --heading-primary: var(--ink-black);
+    --heading-secondary: #262b26;
+    --heading-tertiary: #383e38;
     --link-primary: #2EA69C;
     --link-hover: #38C1B6;
 
-    --code-bg: #f8f9fa;
-    --code-text: #1a1a1a;
+    --code-bg: #e8e8de;
+    --code-text: var(--ink-black);
     --button-primary: #38C1B6;
     --button-hover: #2EA69C;
-    --border-primary: #e9ecef;
+    --border-primary: #dedecf;
+
+    --grid-line: rgba(21, 24, 22, 0.08);
+    --panel-bg: rgba(247, 247, 239, 0.65);
+    --sheet-border: rgba(21, 24, 22, 0.08);
+    --sheet-shadow: rgba(21, 24, 22, 0.06);
+}
+
+html.dark {
+    --bg-primary: var(--ink-black);
+    --text-primary: var(--fresh-paper);
+    --text-secondary: #b8b8b0;
+    --heading-primary: #fafaf4;
+    --heading-secondary: #e2e2d8;
+    --heading-tertiary: #c8c8bc;
+    --link-primary: #38C1B6;
+    --link-hover: #5fd9cf;
+
+    --code-bg: #1e2220;
+    --code-text: var(--fresh-paper);
+    --button-primary: #38C1B6;
+    --button-hover: #5fd9cf;
+    --border-primary: #2a2f2c;
+
+    --grid-line: rgba(247, 247, 239, 0.05);
+    --panel-bg: rgba(21, 24, 22, 0.35);
+    --sheet-border: rgba(247, 247, 239, 0.08);
+    --sheet-shadow: rgba(0, 0, 0, 0.3);
 }
 
 
+html {
+    color-scheme: light;
+}
+
+html.dark {
+    color-scheme: dark;
+}
+
 body {
-    /* background-color: var(--bg-primary); */
+    background-color: var(--bg-primary);
     color: var(--text-primary);
+    font-family: 'Lora', Georgia, serif;
+}
+
+.panel {
+    background-color: var(--panel-bg);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
 }
 
 .markdown-content {
-    max-width: 52rem;
-    margin: 0 auto;
-    padding: 2rem 1rem;
+    max-width: 42rem;
+    margin: 1.5rem auto;
+    padding: 2.5rem 2rem;
+}
+
+.markdown-content.panel {
+    border: 1px solid var(--sheet-border);
+    border-radius: 3px;
+    box-shadow: 0 1px 4px var(--sheet-shadow);
 }
 
 .markdown-content h1 {
     color: var(--heading-primary);
-    font-size: 2.5rem;
+    font-family: 'Indie', 'Comic Sans MS', cursive;
+    font-size: 2.25rem;
     font-weight: bold;
     margin-bottom: 1.5rem;
 }
 
 .markdown-content h2 {
     color: var(--heading-secondary);
-    font-size: 2.0rem;
+    font-family: 'Indie', 'Comic Sans MS', cursive;
+    font-size: 1.75rem;
     font-weight: bold;
+    margin-top: 2rem;
     margin-bottom: 1.25rem;
 }
 
 .markdown-content h3 {
     color: var(--heading-tertiary);
-    font-size: 1.6rem;
+    font-family: 'Indie', 'Comic Sans MS', cursive;
+    font-size: 1.4rem;
     font-weight: bold;
+    margin-top: 1.5rem;
     margin-bottom: 1rem;
 }
 
@@ -71,18 +127,22 @@ body {
 .markdown-content a {
     color: var(--link-primary);
     text-decoration: underline;
-    font-size: 1.125rem;
 }
 
 pre, code {
-    /* background-color: var(--code-bg); */
     color: var(--code-text);
-    padding: 1px 0;
-    border-radius: 1px;
+    font-family: 'Iosevka', 'Victor Mono', Consolas, monospace;
+}
+
+.markdown-content :not(pre) > code {
+    background-color: var(--code-bg);
+    padding: 0.15em 0.4em;
+    border-radius: 4px;
+    font-size: 0.9em;
 }
 
 blockquote {
-    border-left: 4px solid var(--heading-secondary);
+    border-left: 4px solid var(--link-primary);
     padding-left: 1rem;
     margin-left: 0;
     font-style: italic;
@@ -91,9 +151,8 @@ blockquote {
 
 hr {
     border: none;
-    border-top: 1px solid var(--link-primary);
+    border-top: 1px solid var(--border-primary);
     margin: 2rem 0;
-    padding: 1rem 0;
 }
 
 .button {
@@ -115,7 +174,6 @@ a:hover {
 }
 
 .article-container {
-    /* background-color: var(--bg-primary); */
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -148,4 +206,3 @@ a:hover {
         padding: 1rem;
     }
 }
-
