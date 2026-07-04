@@ -5,7 +5,7 @@ import ThemeSwitcher from './ThemeSwitcher';
 
 function Header() {
   return(
-    <div className="panel">
+    <div className="header-container">
       <header className="header">
         <nav>
 

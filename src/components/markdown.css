@@ -2,6 +2,7 @@
 :root {
     --ink-black: #151816;
     --fresh-paper: #f7f7ef;
+    --canvas: #ffffff;
 
     --bg-primary: var(--fresh-paper);
     --text-primary: var(--ink-black);
@@ -19,12 +20,12 @@
     --border-primary: #dedecf;
 
     --grid-line: rgba(21, 24, 22, 0.08);
-    --panel-bg: rgba(247, 247, 239, 0.65);
     --sheet-border: rgba(21, 24, 22, 0.08);
     --sheet-shadow: rgba(21, 24, 22, 0.06);
 }
 
 html.dark {
+    --canvas: #000000;
     --bg-primary: var(--ink-black);
     --text-primary: var(--fresh-paper);
     --text-secondary: #b8b8b0;
@@ -41,7 +42,6 @@ html.dark {
     --border-primary: #2a2f2c;
 
     --grid-line: rgba(247, 247, 239, 0.05);
-    --panel-bg: rgba(21, 24, 22, 0.35);
     --sheet-border: rgba(247, 247, 239, 0.08);
     --sheet-shadow: rgba(0, 0, 0, 0.3);
 }
@@ -56,15 +56,13 @@ html.dark {
 }
 
 body {
-    background-color: var(--bg-primary);
+    background-color: var(--canvas);
     color: var(--text-primary);
     font-family: 'Lora', Georgia, serif;
 }
 
 .panel {
-    background-color: var(--panel-bg);
-    backdrop-filter: blur(4px);
-    -webkit-backdrop-filter: blur(4px);
+    background-color: var(--bg-primary);
 }
 
 .markdown-content {

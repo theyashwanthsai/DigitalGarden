@@ -16,7 +16,7 @@ function App() {
   return(
     <div
       className="min-h-screen w-full relative"
-      style={{ backgroundColor: "var(--bg-primary)" }}
+      style={{ backgroundColor: "var(--canvas)" }}
     >
       <div className="relative z-10 ">
         <BrowserRouter>
