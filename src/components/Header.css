@@ -1,6 +1,12 @@
 .header-container {
-    background-color: var(--canvas);
+    background-color: var(--bg-primary);
     color: var(--text-primary);
+    max-width: 42rem;
+    margin: 1.5rem auto 0 auto;
+    border: 1px solid var(--sheet-border);
+    border-bottom: 1px solid var(--border-primary);
+    border-radius: 3px 3px 0 0;
+    box-shadow: 0 1px 4px var(--sheet-shadow);
 }
 
 .header {
@@ -9,7 +15,6 @@
     align-items: center;
     padding: 1rem;
     margin: 0 auto;
-    max-width: 64rem;
 }
 
 nav {
