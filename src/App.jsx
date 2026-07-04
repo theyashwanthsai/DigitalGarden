@@ -14,10 +14,7 @@ import Timeline from './components/Timeline'
 
 function App() {
   return(
-    <div
-      className="min-h-screen w-full relative"
-      style={{ backgroundColor: "var(--canvas)" }}
-    >
+    <div className="min-h-screen w-full relative app-canvas">
       <div className="relative z-10 ">
         <BrowserRouter>
           <Header />

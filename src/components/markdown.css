@@ -25,7 +25,7 @@
 }
 
 html.dark {
-    --canvas: #000000;
+    --canvas: #121212;
     --bg-primary: var(--ink-black);
     --text-primary: var(--fresh-paper);
     --text-secondary: #b8b8b0;
@@ -55,7 +55,7 @@ html.dark {
     color-scheme: dark;
 }
 
-body {
+body, .app-canvas {
     background-color: var(--canvas);
     color: var(--text-primary);
     font-family: 'Lora', Georgia, serif;
