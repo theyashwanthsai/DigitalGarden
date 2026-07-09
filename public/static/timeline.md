@@ -3,7 +3,7 @@ I started documenting my life right after I started college. I was writing blogs
 
 ### 2026
 - July (1st week): Got my first client through inbound for a small gig, and a second proper client through a warm connection. The agency is real now.
-- June/July: Left Turi Labs to build an AI agency: [AgenticB2B](https://agenticb2b.tech) and [DeployedAI](https://deployedai.io).
+- June/July: Left StartupFuel to build an AI agency: [AgenticB2B](https://agenticb2b.tech) and [DeployedAI](https://deployedai.io).
 - May: 3 papers from Turi Labs accepted at ICML 2026 workshops.
 - March 17: Simba, my cat, passed away. Rest in peace little one.
 - March (1st week): 2 papers from Turi Labs accepted at ICLR 2026 workshops.
