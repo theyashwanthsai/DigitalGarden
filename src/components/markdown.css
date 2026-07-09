@@ -15,18 +15,18 @@
 }
 
 html.dark {
-    --canvas: #161715;
-    --text-primary: #e4e2da;
-    --text-secondary: #9d9b91;
-    --heading-primary: #f1efe9;
-    --heading-secondary: #e4e2da;
-    --heading-tertiary: #cbc9c0;
-    --link-primary: #6cb8b0;
-    --link-hover: #8ecdc6;
+    --canvas: #14161a;
+    --text-primary: #dde1e7;
+    --text-secondary: #949ba8;
+    --heading-primary: #edf0f5;
+    --heading-secondary: #dde1e7;
+    --heading-tertiary: #c1c8d3;
+    --link-primary: #7ab1d4;
+    --link-hover: #9ac6e2;
 
-    --code-bg: #21231f;
-    --code-text: #e4e2da;
-    --border-primary: #2b2d29;
+    --code-bg: #1e2127;
+    --code-text: #dde1e7;
+    --border-primary: #2a2e36;
 }
 
 

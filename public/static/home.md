@@ -1,10 +1,10 @@
 # Sai Yashwanth
 
-I'm an engineer, builder and writer. I work as an AI Engineer at [StartupFuel](https://startupfuel.com), where I build AI agents and post-train language models. I also run an indie AI research lab called [Turi Labs](https://www.turilabs.in), and I'm writing a book on AI agents with Manning Publications.
+I'm an engineer, builder and writer. I'm building an AI agency that solves sales, marketing and ops for local businesses, and I run an indie AI research lab called [Turi Labs](https://www.turilabs.in). I'm also writing a book on AI agents.
 
-Here's my [cv](./resume). I also keep a [timeline](./timeline) of events in my life — take your time and check it out to know more about me.
+Here's my [cv](./resume). I also keep a [timeline](./timeline) of events in my life. Take your time and check it out to know more about me.
 
-Outside of work I love building stuff, writing, reading, playing football and training. I believe in the idea of becoming "multidimensionally jacked": body, mind, knowledge, skills, communication, finance and, most importantly, personality. The idea is to max out all aspects of life — but the goal is to live peacefully and happily with family, friends and loved ones.
+Outside of work I love building stuff, writing, reading, playing football and training. I believe in the idea of becoming "multidimensionally jacked": body, mind, knowledge, skills, communication, finance and, most importantly, personality. The idea is to max out all aspects of life, but the goal is to live peacefully and happily with family, friends and loved ones.
 
 ### Map
 
@@ -19,9 +19,9 @@ This space is my [digital garden](https://maggieappleton.com/garden-history): a 
 
 Apart from work, an average day looks like this:
 
-- Training: MMA classes and calisthenics, after four years of lifting weights.
-- Eating: Clean — high protein, fewer carbs, more healthy fats — at least 90% of the time.
-- Reading: Papers and blogs, mostly related to my work. Currently reading [The Almanack of Naval Ravikant](https://navalmanack.com/).
+- Training: Kettlebells these days. I started with weight training, moved to calisthenics, then MMA, and now this.
+- Eating: Clean. High protein, fewer carbs, more healthy fats, at least 90% of the time.
+- Reading: Papers and blogs, mostly related to my work. Currently reading [$100M Offers](https://www.acquisition.com/books).
 - Writing: Daily, or at least as often as I can.
 - Hacking: Side research projects.
 
