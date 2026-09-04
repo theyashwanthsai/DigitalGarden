@@ -17,6 +17,22 @@ Currently working on:
 
 Socials: __[Github](<https://github.com/theyashwanthsai>)__, __[Twitter](<https://twitter.com/yashwanthsai29>)__, __[Medium](<https://medium.com/@theyashwanthsai>)__, __[LinkedIn](<https://www.linkedin.com/in/sai-yashwanth-457aa51b9/>)__.
 
+This space is my [digital garden](https://maggieappleton.com/garden-history): a collection of my thoughts, ideas, projects and experiences. [Essays](./articles), [projects](./projects), and a [timeline](./timeline) of events in my life. I also keep a [cv](./resume).
+
+Outside of work I love building stuff, writing, reading, playing football and training. I believe in the idea of becoming "multidimensionally jacked": body, mind, knowledge, skills, communication, finance and, most importantly, personality. The idea is to max out all aspects of life, but the goal is to live peacefully and happily with family, friends and loved ones.
+
+### A typical day
+
+Apart from work, an average day looks like this:
+
+- Training: Kettlebells these days. I started with weight training, moved to calisthenics, then MMA, and now this.
+- Eating: Clean. High protein, fewer carbs, more healthy fats, at least 90% of the time.
+- Reading: Papers and blogs, mostly related to my work. Currently reading [$100M Offers](https://www.acquisition.com/books).
+- Writing: Daily, or at least as often as I can.
+- Hacking: Side research projects.
+
+I also love playing games. Currently grinding Arc Raiders with my friends. A few favorite titles: [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima), [Uncharted 4](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) and [RDR2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2).
+
 **Tech that I use:**
 
 I [built a PC](/pcbuild) with my first stipend from an internship. I run pop os + windows on it. Heres a list of components I remember:

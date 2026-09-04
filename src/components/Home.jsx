@@ -1,38 +1,121 @@
-import React, { useEffect, useState } from "react";
-import Markdown from "react-markdown";
-import remarkGfm from 'remark-gfm';
-import rehypeRaw from 'rehype-raw';
-import './markdown.css';
+import { Link } from "react-router-dom";
+import AsciiBackground from "./AsciiBackground";
+import "./Home.css";
+
+const now = [
+  {
+    name: "AgenticB2B",
+    href: "https://agenticb2b.tech",
+    external: true,
+    meta: "lead recovery for B2B trade shows",
+  },
+  {
+    name: "DeployedAI",
+    href: "https://deployedai.io",
+    external: true,
+    meta: "evals and consulting for autonomous AI",
+  },
+  {
+    name: "Turi Labs",
+    href: "https://turilabs.in",
+    external: true,
+    meta: "indie AI research lab",
+  },
+  {
+    name: "the book",
+    href: "/my_book",
+    external: false,
+    meta: "writing a book on AI agents",
+  },
+];
+
+const writing = [
+  { name: "Agent Skills 101", href: "/skills1", date: "Mar 2026" },
+  { name: "A 24/7 team of agents on a Pi", href: "/opb", date: "Mar 2026" },
+  { name: "23", href: "/23", date: "Jan 2026" },
+];
+
+const socials = [
+  { name: "Twitter", href: "https://twitter.com/yashwanthsai29" },
+  { name: "GitHub", href: "https://github.com/theyashwanthsai" },
+  { name: "LinkedIn", href: "https://www.linkedin.com/in/sai-yashwanth-457aa51b9/" },
+  { name: "Medium", href: "https://medium.com/@theyashwanthsai" },
+];
+
+function ExternalLink({ href, children, className }) {
+  return (
+    <a href={href} className={className} target="_blank" rel="noreferrer">
+      {children}
+    </a>
+  );
+}
 
 function Home() {
-  const [markdownContent, setMarkdownContent] = useState("");
+  return (
+    <div className="home">
+      <AsciiBackground />
 
-  useEffect(() => {
-    const fetchMarkdown = async () => {
-      try {
-        const response = await fetch(`/static/home.md`);
-        if (response.ok) {
-          const markdownFile = await response.text();
-          setMarkdownContent(markdownFile);
-        } else {
-          console.error("Error fetching the Markdown file");
-        }
-      } catch (error) {
-        console.error(error);
-      }
-    };
-    fetchMarkdown();
-  }, []);
+      <div className="home-inner">
+        <h1 className="home-title">Sai Yashwanth</h1>
+        <p className="home-bio">
+          Engineer, builder and writer. I&apos;m building an AI agency that
+          solves sales, marketing and ops for local businesses, running{" "}
+          <a href="https://turilabs.in" target="_blank" rel="noreferrer">
+            Turi Labs
+          </a>
+          , and writing a book on AI agents.
+        </p>
 
-return (
+        <section className="home-section" aria-labelledby="now-label">
+          <h2 id="now-label" className="home-label">Now</h2>
+          <ul className="home-list">
+            {now.map((item) => (
+              <li key={item.name}>
+                {item.external ? (
+                  <ExternalLink href={item.href}>{item.name}</ExternalLink>
+                ) : (
+                  <Link to={item.href}>{item.name}</Link>
+                )}
+                <span className="home-meta">{item.meta}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
 
-    <div className="markdown-content panel">
-      <Markdown 
-        remarkPlugins={[remarkGfm]}
-        rehypePlugins={[rehypeRaw]}
-      >
-        {markdownContent}
-      </Markdown>
+        <section className="home-section" aria-labelledby="here-label">
+          <h2 id="here-label" className="home-label">Here</h2>
+          <nav className="home-links" aria-label="This site">
+            <Link to="/articles">Essays</Link>
+            <Link to="/projects">Projects</Link>
+            <Link to="/timeline">Timeline</Link>
+            <Link to="/about">About</Link>
+            <Link to="/resume">CV</Link>
+          </nav>
+        </section>
+
+        <section className="home-section" aria-labelledby="writing-label">
+          <h2 id="writing-label" className="home-label">Writing</h2>
+          <ul className="home-list">
+            {writing.map((item) => (
+              <li key={item.href}>
+                <Link to={item.href}>{item.name}</Link>
+                <span className="home-meta">{item.date}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+
+        <section className="home-section" aria-labelledby="elsewhere-label">
+          <h2 id="elsewhere-label" className="home-label">Elsewhere</h2>
+          <nav className="home-socials" aria-label="Social links">
+            {socials.map((item) => (
+              <ExternalLink key={item.name} href={item.href}>
+                {item.name}
+              </ExternalLink>
+            ))}
+          </nav>
+        </section>
+      </div>
     </div>
   );
 }
