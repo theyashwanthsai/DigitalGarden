@@ -43,7 +43,7 @@ html.dark {
 body, .app-canvas {
     background-color: var(--canvas);
     color: var(--text-primary);
-    font-family: 'Lora', Georgia, serif;
+    font-family: Iosevka, ui-monospace, monospace;
 }
 
 .markdown-content {

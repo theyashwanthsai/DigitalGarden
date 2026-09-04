@@ -31,7 +31,7 @@ html.dark .ascii-bg {
     color: var(--heading-primary);
     font-size: 1.9rem;
     font-weight: 600;
-    letter-spacing: -0.02em;
+    letter-spacing: -0.03em;
     margin: 0 0 1.15rem;
 }
 
