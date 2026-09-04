@@ -1,6 +1,6 @@
 # Sai Yashwanth
 
-I'm an engineer, builder and writer. I'm building an AI agency that solves sales, marketing and ops for local businesses, and I run an indie AI research lab called [Turi Labs](https://www.turilabs.in). I'm also writing a book on AI agents.
+I'm an engineer, builder and writer. I'm building an AI agency for AI native transformations, and I run an indie AI research lab called [Turi Labs](https://www.turilabs.in). I'm also writing a book on AI agents.
 
 Here's my [cv](./resume). I also keep a [timeline](./timeline) of events in my life. Take your time and check it out to know more about me.
 

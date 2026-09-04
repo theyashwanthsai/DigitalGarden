@@ -5,9 +5,7 @@ const LAYERS = [5, 8, 8, 5];
 
 function readThemeColor() {
   const styles = getComputedStyle(document.documentElement);
-  const dark = document.documentElement.classList.contains("dark");
-  const token = dark ? "--link-primary" : "--heading-tertiary";
-  return styles.getPropertyValue(token).trim() || "#38372f";
+  return styles.getPropertyValue("--ascii").trim() || "#6a5488";
 }
 
 function buildNetwork() {
@@ -22,7 +20,7 @@ function buildNetwork() {
       nodes.push({
         layer,
         i,
-        x: (layer - (LAYERS.length - 1) / 2) * 1.95,
+        x: (layer - (LAYERS.length - 1) / 2) * 3.05,
         y: (i - (count - 1) / 2) * 0.62,
         z: Math.sin(i * 0.8 + layer * 0.5) * 0.1,
       });
@@ -176,13 +174,13 @@ function AsciiBackground() {
       z1 = y * sinX + z1 * cosX;
 
       const depth = z1 + 5.2;
-      const scale = (Math.min(cols, rows) * 0.78) / depth;
-      const ox = cols * (width < 800 ? 0.5 : 0.74);
+      const scale = (Math.min(cols * 0.48, rows * 0.98)) / depth;
+      const ox = cols * (width < 800 ? 0.5 : 0.68);
       const oy = rows * 0.45;
 
       return {
-        px: Math.round(ox + x1 * scale),
-        py: Math.round(oy + y1 * scale * 0.72),
+        px: Math.round(ox + x1 * scale * 1.28),
+        py: Math.round(oy + y1 * scale * 0.68),
         ooz: 1 / depth,
       };
     };

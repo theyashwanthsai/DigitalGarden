@@ -4,16 +4,8 @@ import "./Home.css";
 
 const now = [
   {
-    name: "AgenticB2B",
-    href: "https://agenticb2b.tech",
-    external: true,
-    meta: "lead recovery for B2B trade shows",
-  },
-  {
-    name: "DeployedAI",
-    href: "https://deployedai.io",
-    external: true,
-    meta: "evals and consulting for autonomous AI",
+    name: "AI agency",
+    meta: "AI native transformations",
   },
   {
     name: "Turi Labs",
@@ -58,8 +50,8 @@ function Home() {
       <div className="home-inner">
         <h1 className="home-title">Sai Yashwanth</h1>
         <p className="home-bio">
-          Engineer, builder and writer. I&apos;m building an AI agency that
-          solves sales, marketing and ops for local businesses, running{" "}
+          Engineer, builder and writer. I&apos;m building an AI agency for
+          AI native transformations, running{" "}
           <a href="https://turilabs.in" target="_blank" rel="noreferrer">
             Turi Labs
           </a>
@@ -73,8 +65,10 @@ function Home() {
               <li key={item.name}>
                 {item.external ? (
                   <ExternalLink href={item.href}>{item.name}</ExternalLink>
-                ) : (
+                ) : item.href ? (
                   <Link to={item.href}>{item.name}</Link>
+                ) : (
+                  <span className="home-name">{item.name}</span>
                 )}
                 <span className="home-meta">{item.meta}</span>
               </li>

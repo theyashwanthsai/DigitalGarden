@@ -12,6 +12,7 @@
     --code-bg: #f0efe9;
     --code-text: #24231e;
     --border-primary: #e8e7e0;
+    --ascii: #6b3d9e;
 }
 
 html.dark {
@@ -27,6 +28,7 @@ html.dark {
     --code-bg: #1e2127;
     --code-text: #dde1e7;
     --border-primary: #2a2e36;
+    --ascii: #7ab1d4;
 }
 
 

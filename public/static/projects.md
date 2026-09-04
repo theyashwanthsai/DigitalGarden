@@ -5,9 +5,9 @@
 I always believe in learning by building. Projects are what I have been building from the past 4 years. Here are a few of the projects I built while exploring various fields of interest.
 
 ## Current Work
-- [Turi Labs](https://turilabs.in)
-- [AgenticB2B](https://agenticb2b.tech)
-- [DeployedAI](https://deployedai.io)
+- AI agency: AI native transformations
+- [Turi Labs](https://turilabs.in): indie AI research lab
+- [the book](./my_book): writing a book on AI agents
 
 ## Side Projects
 These are the projects which I would show you if you want to know what my "craft" is all about. Learning is best when you build something around the knowledge. This is my motto.

@@ -3,16 +3,16 @@
 
 ![sai](sai3.jpeg)
 
-Hi there! My name is Sai Yashwanth, I am an engineer and a writer. I love building stuff and writing about them online. I also like solving problems using tech. I am building an AI agency that solves sales, marketing and ops for local businesses.
+Hi there! My name is Sai Yashwanth, I am an engineer and a writer. I love building stuff and writing about them online. I also like solving problems using tech. I am building an AI agency for AI native transformations.
 
 I am currently writing a book on AI Agents. 
 
 I recently discovered that I kind of like teaching. Sharing my knowledge with others. I aim to create content in my style and put it out there.
 
 Currently working on:
-- [TuriLabs](https://turilabs.in): An indie research lab. The plan is to collaborate with a bunch of corporate slaves (also my friends) and work on research oriented projects and write about them.
-- [AgenticB2B](https://agenticb2b.tech): An AI powered lead recovery service for B2B trade show exhibitors. We research and re-engage exhibition leads through personalized WhatsApp and email outreach, and book qualified meetings.
-- [DeployedAI](https://deployedai.io): Consulting for teams building autonomous AI systems. We help design reliable evaluation loops for LLM based applications.
+- AI agency: AI native transformations.
+- [Turi Labs](https://turilabs.in): An indie AI research lab.
+- [the book](./my_book): writing a book on AI agents.
 
 
 Socials: __[Github](<https://github.com/theyashwanthsai>)__, __[Twitter](<https://twitter.com/yashwanthsai29>)__, __[Medium](<https://medium.com/@theyashwanthsai>)__, __[LinkedIn](<https://www.linkedin.com/in/sai-yashwanth-457aa51b9/>)__.
