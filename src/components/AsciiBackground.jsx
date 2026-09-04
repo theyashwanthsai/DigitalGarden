@@ -1,11 +1,11 @@
 import { useEffect, useRef } from "react";
 
 const NODE_CHARS = "oO@";
-const LAYERS = [5, 8, 8, 5];
+const LAYERS = [2, 3, 3, 2];
 
 function readThemeColor() {
   const styles = getComputedStyle(document.documentElement);
-  return styles.getPropertyValue("--ascii").trim() || "#6a5488";
+  return styles.getPropertyValue("--ascii").trim() || "#3d6b66";
 }
 
 function buildNetwork() {
@@ -20,8 +20,8 @@ function buildNetwork() {
       nodes.push({
         layer,
         i,
-        x: (layer - (LAYERS.length - 1) / 2) * 3.05,
-        y: (i - (count - 1) / 2) * 0.62,
+        x: (layer - (LAYERS.length - 1) / 2) * 1.95,
+        y: (i - (count - 1) / 2) * 1.05,
         z: Math.sin(i * 0.8 + layer * 0.5) * 0.1,
       });
     }
@@ -32,23 +32,12 @@ function buildNetwork() {
     const aCount = LAYERS[layer];
     const bCount = LAYERS[layer + 1];
     for (let i = 0; i < aCount; i++) {
-      const t = aCount === 1 ? 0.5 : i / (aCount - 1);
-      const mid = t * (bCount - 1);
-      const targets = new Set([
-        Math.round(mid),
-        Math.max(0, Math.round(mid) - 1),
-        Math.min(bCount - 1, Math.round(mid) + 1),
-      ]);
-      if (i % 2 === 0) targets.add((i * 3 + layer) % bCount);
-      if (i === 0) targets.add(0);
-      if (i === aCount - 1) targets.add(bCount - 1);
-
-      targets.forEach((j) => {
+      for (let j = 0; j < bCount; j++) {
         edges.push({
           a: starts[layer] + i,
           b: starts[layer + 1] + j,
         });
-      });
+      }
     }
   }
 
@@ -174,13 +163,13 @@ function AsciiBackground() {
       z1 = y * sinX + z1 * cosX;
 
       const depth = z1 + 5.2;
-      const scale = (Math.min(cols * 0.48, rows * 0.98)) / depth;
-      const ox = cols * (width < 800 ? 0.5 : 0.68);
+      const scale = (Math.min(cols, rows) * 0.78) / depth;
+      const ox = cols * (width < 800 ? 0.5 : 0.74);
       const oy = rows * 0.45;
 
       return {
-        px: Math.round(ox + x1 * scale * 1.28),
-        py: Math.round(oy + y1 * scale * 0.68),
+        px: Math.round(ox + x1 * scale),
+        py: Math.round(oy + y1 * scale * 0.72),
         ooz: 1 / depth,
       };
     };
