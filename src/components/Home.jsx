@@ -85,6 +85,7 @@ function Home() {
         <section className="home-section" aria-labelledby="here-label">
           <h2 id="here-label" className="home-label">Here</h2>
           <nav className="home-links" aria-label="This site">
+            <Link to="/home">Home</Link>
             <Link to="/articles">Essays</Link>
             <Link to="/projects">Projects</Link>
             <Link to="/timeline">Timeline</Link>
