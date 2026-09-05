@@ -5,7 +5,6 @@
 I always believe in learning by building. Projects are what I have been building from the past 4 years. Here are a few of the projects I built while exploring various fields of interest.
 
 ## Current Work
-- AI agency: AI native transformations
 - [Turi Labs](https://turilabs.in): indie AI research lab
 - [the book](./my_book): writing a book on AI agents
 

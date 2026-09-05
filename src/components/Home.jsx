@@ -4,10 +4,6 @@ import "./Home.css";
 
 const now = [
   {
-    name: "AI agency",
-    meta: "AI native transformations",
-  },
-  {
     name: "Turi Labs",
     href: "https://turilabs.in",
     external: true,
@@ -50,12 +46,11 @@ function Home() {
       <div className="home-inner">
         <h1 className="home-title">Sai Yashwanth</h1>
         <p className="home-bio">
-          Engineer, builder and writer. I&apos;m building an AI agency for
-          AI native transformations, running{" "}
+          Engineer, builder and writer. I run{" "}
           <a href="https://turilabs.in" target="_blank" rel="noreferrer">
             Turi Labs
           </a>
-          , and writing a book on AI agents.
+          , an indie AI research lab, and I&apos;m writing a book on AI agents.
         </p>
 
         <section className="home-section" aria-labelledby="now-label">

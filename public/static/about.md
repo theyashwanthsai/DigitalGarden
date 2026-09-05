@@ -3,14 +3,13 @@
 
 ![sai](sai3.jpeg)
 
-Hi there! My name is Sai Yashwanth, I am an engineer and a writer. I love building stuff and writing about them online. I also like solving problems using tech. I am building an AI agency for AI native transformations.
+Hi there! My name is Sai Yashwanth, I am an engineer and a writer. I love building stuff and writing about them online. I also like solving problems using tech.
 
 I am currently writing a book on AI Agents. 
 
 I recently discovered that I kind of like teaching. Sharing my knowledge with others. I aim to create content in my style and put it out there.
 
 Currently working on:
-- AI agency: AI native transformations.
 - [Turi Labs](https://turilabs.in): An indie AI research lab.
 - [the book](./my_book): writing a book on AI agents.
 
