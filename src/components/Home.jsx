@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import AsciiBackground from "./AsciiBackground";
 import "./Home.css";
 
 const now = [
@@ -41,8 +40,6 @@ function ExternalLink({ href, children, className }) {
 function Home() {
   return (
     <div className="home">
-      <AsciiBackground />
-
       <div className="home-inner">
         <h1 className="home-title">Sai Yashwanth</h1>
         <p className="home-bio">
