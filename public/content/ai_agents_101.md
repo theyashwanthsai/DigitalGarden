@@ -6,6 +6,8 @@ Everything I learnt building agents for 2 years.
 
 I worked at multiple projects, MVPs, production deployments and learnt a lot of things. Really happy for the work that I got to work on.
 
+![AI Agents 101](/articleimages/ai_agents_101_1.png)
+
 I have decided to write a detailed series on AI Agents, teaching everything that I know.
 
 I have been writing a book on AI Agents since Early 2025, Its coming later this year (production work going on). Stay tuned for that, as I am extremely proud of the work we put in it.
@@ -22,6 +24,8 @@ This is where we begin. AI Agents are llms that do the real work for you. Early 
 The difference is that Chatgpt is a wrapper around an llm. This wrapper is meant to only act as a chatbot.
 
 Agent is also a wrapper around an llm, but this wrapper allows the llm with information such as your location and the weather in this particular location.
+
+![LLM with limbs can be more agentic](/articleimages/ai_agents_101_2.png)
 
 This logic is all you need to understand before going deep.
 
@@ -48,6 +52,8 @@ Example:
 - Output: Weather in Degrees Celcius.
 
 The underlying concept is simple: (Explained in a very simply manner) LLMs are told in the prompt that they have access to some python functions, along with the input and output schema, and it has to simply tell that it needs to use this function if it wants to (calling a function). Then an executor executes the function with the input that the llm gave.
+
+![How a tool call works](/articleimages/ai_agents_101_3.png)
 
 This is how modern chatgpt or claude can search internet for you. This is how an AI Agent can write code (create files and folders with some content).
 
