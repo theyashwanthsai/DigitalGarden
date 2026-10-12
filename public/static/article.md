@@ -32,6 +32,8 @@ This section is consists of 3 parts.
 
 <!-- *Apr 01, 2025* __[Reflections on Building Digital Gardens](./digitalgardens)__ -->
 
+*Aug 29, 2026* __[AI Agents 101](./ai_agents_101)__
+
 *Mar 07, 2026* __[Agent Skills 101](./skills1)__
 
 *Mar 01, 2026* __[Beyond OpenClaw Hype: My 24/7 Self-Hosted Team of AI Agents (Raspberry Pi)](./opb)__

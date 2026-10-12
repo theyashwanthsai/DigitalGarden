@@ -17,9 +17,9 @@ const now = [
 ];
 
 const writing = [
+  { name: "AI Agents 101", href: "/ai_agents_101", date: "Aug 2026" },
   { name: "Agent Skills 101", href: "/skills1", date: "Mar 2026" },
   { name: "A 24/7 team of agents on a Pi", href: "/opb", date: "Mar 2026" },
-  { name: "23", href: "/23", date: "Jan 2026" },
 ];
 
 const socials = [
