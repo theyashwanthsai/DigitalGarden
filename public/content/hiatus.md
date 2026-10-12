@@ -10,7 +10,7 @@ My cat passed away on March 17th.
 
 For the ten days before that, I was going to the hospital every morning and evening to get her drips, and then coming back home. It was a very sad time. She finally left on the morning of the 17th.
 
-After that I was numb. I kept walking around with no direction, trying to stay distracted.
+After that I was numb. I kept working around, trying to stay distracted.
 
 Five days later, I went to Kashi. It was my first ever solo trip, without my parents. I stayed there for three days, and when I came back, I felt like a fresh new version of myself.
 
@@ -18,11 +18,11 @@ Five days later, I went to Kashi. It was my first ever solo trip, without my par
 
 I kept working until June, when my company paused its operations. They wanted to reconsider what they were building. That meant I had no work, and my salary was paused too.
 
-So I spent the next few months exploring what I actually want to do. I looked at applied AI for SMEs, applied AI for enterprise companies, and AI for engineering teams. I did a bit of consulting here and there.
+So I spent the next few months exploring what I actually want to do. I looked at applied AI for SMBs, applied AI for enterprise companies, and AI for engineering teams. I did a bit of consulting here and there.
 
 From all of that, I understood one thing about AI engineering. Not many people are ready for production grade problems. The exposure just isn't there, especially in the Indian companies and startups that I see.
 
-So I built Harness Dojo, a platform that will help you bridge the gap between what you know and what is actually happening at the edge of this field. It will be out eventually.
+So I built [Harness Dojo](harnessdojo.com), a platform that will help you bridge the gap between what you know and what is actually happening at the edge of this field.
 
 ## Evals and RL environments
 
