@@ -22,7 +22,7 @@ So I spent the next few months exploring what I actually want to do. I looked at
 
 From all of that, I understood one thing about AI engineering. Not many people are ready for production grade problems. The exposure just isn't there, especially in the Indian companies and startups that I see.
 
-So I built [Harness Dojo](harnessdojo.com), a platform that will help you bridge the gap between what you know and what is actually happening at the edge of this field.
+So I built [Harness Dojo](https://harnessdojo.com), a platform that will help you bridge the gap between what you know and what is actually happening at the edge of this field.
 
 ## Evals and RL environments
 
