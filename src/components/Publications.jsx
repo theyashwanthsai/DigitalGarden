@@ -5,14 +5,13 @@ import rehypeRaw from 'rehype-raw';
 import './markdown.css'
 
 
-
-function About() {
+function Publications() {
   const [markdownContent, setMarkdownContent] = useState("");
 
   useEffect(() => {
     const fetchMarkdown = async () => {
       try {
-        const response = await fetch(`/static/about.md`);
+        const response = await fetch(`/static/publications.md`);
         if (response.ok) {
           const markdownFile = await response.text();
           setMarkdownContent(markdownFile);
@@ -34,9 +33,8 @@ function About() {
       >
         {markdownContent}
       </Markdown>
-
     </div>
   );
 }
 
-export default About;
+export default Publications;

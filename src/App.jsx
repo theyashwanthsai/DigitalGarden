@@ -3,7 +3,8 @@ import ArticlePage from "./components/ArticlePage"
 import Header from "./components/Header";
 import Garden from "./components/Garden";
 import Articles from "./components/Articles";
-import About from "./components/About";
+import Me from "./components/Me";
+import Publications from "./components/Publications";
 import Projects from "./components/Projects";
 import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom";
 import { Analytics } from "@vercel/analytics/react"
@@ -23,8 +24,10 @@ function App() {
             <Route exact path="/" element={<Garden />} />
             <Route path="/home" element={<Navigate to="/" replace />} />
             <Route path="/articles" element={<Articles />} />
+            <Route path="/publications" element={<Publications />} />
             <Route path="/projects" element={<Projects />} />
-            <Route path="/about" element={<About />} />
+            <Route path="/me" element={<Me />} />
+            <Route path="/about" element={<Navigate to="/me" replace />} />
             <Route path="/resume" element={<PDFEmbed />} />
             <Route path="/timeline" element={<Timeline />} />
             <Route path="/:slug" element={<ArticlePage />} />

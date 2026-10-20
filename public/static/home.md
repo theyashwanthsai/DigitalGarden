@@ -1,28 +1,31 @@
 # Sai Yashwanth
 
-I'm an engineer, builder and writer. I run an indie AI research lab called [Turi Labs](https://www.turilabs.in). I'm also writing a book on AI agents.
+I'm an AI engineer and independent researcher based in Bengaluru. I founded [Turi Labs](https://www.turilabs.in), an indie AI research lab, where I work with a small group of collaborators on agents, reinforcement learning and LLM reasoning. Before this I spent two years building production AI agents at startups.
 
-Here's my [cv](./resume). I also keep a [timeline](./timeline) of events in my life. Take your time and check it out to know more about me.
+## Research Interests
 
-Outside of work I love building stuff, writing, reading, playing football and training. I believe in the idea of becoming "multidimensionally jacked": body, mind, knowledge, skills, communication, finance and, most importantly, personality. The idea is to max out all aspects of life, but the goal is to live peacefully and happily with family, friends and loved ones.
+- **RL environments and post-training:** how the design of an environment and its reward signal shapes what a model actually learns, and how to turn expensive offline behaviour into cheap online policies.
+- **Evaluating agents:** closed-loop, executable benchmarks where an agent is graded on whether its actions worked, not on whether its text looks right.
+- **Reasoning reliability:** where LLM reasoning breaks down, from logical inconsistency to non-determinism at the level of GPU arithmetic.
 
-### Map
+## Selected Publications
 
-This space is my [digital garden](https://maggieappleton.com/garden-history): a collection of my thoughts, ideas, projects and experiences. Much of it is a work in progress, and it keeps changing (this website was completely different back in 2023). Here's how it's organized:
+- **RLRank: Distilling Offline Oracles into Online Policies for Document Reranking.** *ICML 2026 DEMO Workshop.* [pdf](https://openreview.net/pdf?id=Bsg0B9cHlI)
+- **Executable Ground Truth: A Closed-Loop Benchmark for Evaluating LLM Agents on Microservice Incident Remediation.** *ICML 2026 CTB Workshop.* [pdf](https://openreview.net/pdf?id=pnZLtFQCzH)
+- **Compositional Skill Acquisition in Agentic Pipelines via Reinforcement Learning and Knowledge Distillation.** *ICML 2026 CompLearn Workshop.* [pdf](https://openreview.net/pdf?id=32Oh7K2IyC)
+- **On the Structure of Floating-Point Noise in Batch-Invariant GPU Matrix Multiplication.** *ICLR 2026 Sci4DL Workshop.* [pdf](https://openreview.net/pdf?id=qokQDkgm9I)
+- **Reasoning Under Pressure: LLMs in Competitive Pokémon Battles.** *NeurIPS 2025 ER Workshop.* [pdf](https://openreview.net/pdf?id=HANazTe5Im)
 
-- [Essays](./articles): I picked up the habit of writing and grew to love it. Everything I've written lives here.
-- [Projects](./projects): A showcase of the things I've built.
-- [Timeline](./timeline): A chronological view of my journey, achievements and experiences.
-- [Reading List (wip)](./reading-list): Books, articles and papers I've read or plan to read.
+Full list on the [publications](./publications) page.
 
-## A typical day in my life
+## Now
 
-Apart from work, an average day looks like this:
+- Building [Harness Dojo](https://harnessdojo.com), a practice platform for harness engineering: the scaffolding, evals and environments around AI agents.
+- Working on RL environments and agent evals, mostly in the open.
+- Co-writing a book on agent engineering.
 
-- Training: Kettlebells these days. I started with weight training, moved to calisthenics, then MMA, and now this.
-- Eating: Clean. High protein, fewer carbs, more healthy fats, at least 90% of the time.
-- Reading: Papers and blogs, mostly related to my work. Currently reading [$100M Offers](https://www.acquisition.com/books).
-- Writing: Daily, or at least as often as I can.
-- Hacking: Side research projects.
+## Elsewhere
 
-I also love playing games. Currently grinding Arc Raiders with my friends. A few favorite titles: [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima), [Uncharted 4](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) and [RDR2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2).
+[CV](./resume) · [Email](mailto:taddishetty34@gmail.com) · [GitHub](https://github.com/theyashwanthsai) · [Twitter](https://twitter.com/yashwanthsai29) · [LinkedIn](https://www.linkedin.com/in/saiyashwanth29/)
+
+More about me and how I think on the [me](./me) page, and everything I've written in [essays](./articles).

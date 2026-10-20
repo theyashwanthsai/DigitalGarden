@@ -1,17 +1,18 @@
 # Projects
 
-*Super outdated.*
-
 > "When a measure becomes a target, it ceases to be a good measure." - Goodhart's Law
 
 I always believe in learning by building. Projects are what I have been building from the past 4 years. Here are a few of the projects I built while exploring various fields of interest.
 
 ## Current Work
-- [Turi Labs](https://turilabs.in): indie AI research lab
+- [Harness Dojo](https://harnessdojo.com): a practice platform for harness engineering
+- [Turi Labs](https://turilabs.in): indie AI research lab. Papers are on the [publications](./publications) page.
 - [the book](./my_book): writing a book on AI agents
 
 ## Side Projects
 These are the projects which I would show you if you want to know what my "craft" is all about. Learning is best when you build something around the knowledge. This is my motto.
+
+**[evalkit](https://github.com/theyashwanthsai/evalkit)**: An open-source toolkit for evaluating LLMs and agent pipelines. Built to make evals a first-class part of the development loop, not an afterthought.
 
 **[One Person Company](./opb)**: A 24/7 self-hosted team of AI agents running on a Raspberry Pi. Agents with their own roles, personalities and goals, working as my personal research and content agency.
 
