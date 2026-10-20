@@ -26,6 +26,6 @@ Full list on the [publications](./publications) page.
 
 ## Elsewhere
 
-[CV](./resume) · [Email](mailto:taddishetty34@gmail.com) · [GitHub](https://github.com/theyashwanthsai) · [Twitter](https://twitter.com/yashwanthsai29) · [LinkedIn](https://www.linkedin.com/in/saiyashwanth29/)
+[CV](./resume) · [Email](mailto:taddishetty34@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=OXapKusAAAAJ&hl=en) · [GitHub](https://github.com/theyashwanthsai) · [Twitter](https://twitter.com/yashwanthsai29) · [LinkedIn](https://www.linkedin.com/in/saiyashwanth29/)
 
 More about me and how I think on the [me](./me) page, and everything I've written in [essays](./articles).

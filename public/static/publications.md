@@ -1,6 +1,6 @@
 # Publications
 
-Most of my recent research comes out of [Turi Labs](https://www.turilabs.in), done with a small group of collaborators. The earlier papers come from my undergrad and startup work.
+Most of my recent research comes out of [Turi Labs](https://www.turilabs.in), done with a small group of collaborators. The earlier papers come from my undergrad and startup work. Also on [Google Scholar](https://scholar.google.com/citations?user=OXapKusAAAAJ&hl=en).
 
 ## 2026
 

@@ -20,7 +20,7 @@ This space is my [digital garden](https://maggieappleton.com/garden-history): a 
 - [Essays](./articles): I picked up the habit of writing and grew to love it. Everything I've written lives here.
 - [Timeline](./timeline): A chronological view of my journey, achievements and experiences.
 
-Socials: __[Github](<https://github.com/theyashwanthsai>)__, __[Twitter](<https://twitter.com/yashwanthsai29>)__, __[Medium](<https://medium.com/@theyashwanthsai>)__, __[LinkedIn](<https://www.linkedin.com/in/saiyashwanth29/>)__.
+Socials: __[Google Scholar](<https://scholar.google.com/citations?user=OXapKusAAAAJ&hl=en>)__, __[Github](<https://github.com/theyashwanthsai>)__, __[Twitter](<https://twitter.com/yashwanthsai29>)__, __[Medium](<https://medium.com/@theyashwanthsai>)__, __[LinkedIn](<https://www.linkedin.com/in/saiyashwanth29/>)__.
 
 ### A typical day
 
