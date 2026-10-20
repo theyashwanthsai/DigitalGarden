@@ -2,68 +2,89 @@
 
 > "When a measure becomes a target, it ceases to be a good measure." - Goodhart's Law
 
-I always believe in learning by building. Projects are what I have been building from the past 4 years. Here are a few of the projects I built while exploring various fields of interest.
+I always believe in learning by building. These are the things I've built over the past 5 years while exploring various fields of interest. Most of it is open source on [my GitHub](https://github.com/theyashwanthsai) and the [Turi Labs org](https://github.com/Turi-Labs). Papers live on the [publications](./publications) page.
 
 ## Current Work
 - [Harness Dojo](https://harnessdojo.com): a practice platform for harness engineering
-- [Turi Labs](https://turilabs.in): indie AI research lab. Papers are on the [publications](./publications) page.
+- [Turi Labs](https://turilabs.in): indie AI research lab
 - [the book](./my_book): writing a book on AI agents
 
-## Side Projects
-These are the projects which I would show you if you want to know what my "craft" is all about. Learning is best when you build something around the knowledge. This is my motto.
+## Evals, Benchmarks and RL Environments
 
-**[evalkit](https://github.com/theyashwanthsai/evalkit)**: An open-source toolkit for evaluating LLMs and agent pipelines. Built to make evals a first-class part of the development loop, not an afterthought.
+**[evalkit](https://github.com/theyashwanthsai/evalkit)**: Git-native offline + online evals for agents. Traces, eval results and agent versions live in the repo, no SaaS.
 
-**[One Person Company](./opb)**: A 24/7 self-hosted team of AI agents running on a Raspberry Pi. Agents with their own roles, personalities and goals, working as my personal research and content agency.
+**[jevals](https://github.com/theyashwanthsai/jevals)**: An LLM/agent eval framework graded by a calibrated decision model. Every result comes with a confidence score, so clear answers can be trusted and only the uncertain ones go to a human or a bigger model.
 
-**[Learning Intelligence](https://github.com/theyashwanthsai/Learning-Intelligence)**: A repo where I will be implementing the most important ML research papers. This is too boost my knowledge and understanding of the field. It will help me in developing the right research intuition.
+**[PI-Env Boilerplate](https://github.com/theyashwanthsai/Boiler-Plate-PI-Env)**: The smallest possible [verifiers](https://github.com/PrimeIntellect-ai/verifiers) v1 RL environment. A template for building new environments.
 
-**[OS-1](https://github.com/theyashwanthsai/OS-1)**: A simple operating system written in assembly. Just prints "Hello World" in 16-bit real mode.
+**[PostTrain-Lab](https://github.com/Turi-Labs/PostTrain-Lab)**: A modular, educational project exploring LLM post-training, from supervised fine-tuning to reinforcement learning.
 
-**[ZenScript](https://github.com/theyashwanthsai/ZenScript)**: Building my own programming language using Python - To understand more about interpreters, compilers.
+**[Poke-Bench](https://github.com/Turi-Labs/Poke-Bench)**: 1v1 Pokémon Showdown battles between LLMs. Code for our NeurIPS 2025 ER workshop paper.
 
-**[MREB](./mreb)**: Multimodal Reasoning and Ethics Benchmark (MREB) is an open source benchmark designed to assess the cross-domain capabilities of AI models.
+**[Stochastic-Matmul](https://github.com/Turi-Labs/Stochastic-Matmul)**: Code for our ICLR 2026 Sci4DL workshop paper on floating-point noise in batch-invariant GPU matrix multiplication.
 
-**[Newsletter Agent](https://github.com/Turi-Labs/Newsletter-Editor-Agents)**: A team of AI Agents that run the official newsletter of [turilabs](https://turilabs.in).
+**[MREB](./mreb)**: Multimodal Reasoning and Ethics Benchmark, an open-source benchmark for the cross-domain capabilities of AI models. [repo](https://github.com/theyashwanthsai/MREB)
 
-**[Pokemon LLM League](https://github.com/Turi-Labs/Poke-Bench)**: A pokemon league where llms compete against each other.
+**[awesome-harness](https://github.com/Turi-Labs/awesome-harness)**: A curated list of resources for building reliable AI agent harnesses.
 
-**[Devyan](https://github.com/theyashwanthsai/Devyan)**: Devyan is an AI-powered software development assistant that orchestrates a team of agents to solve programming tasks. This project boosted my career big time!
+## AI Agents
 
-**[Opilot.nvim](https://github.com/theyashwanthsai/opilot.nvim)**: Built a neovim plugin copilot clone using codellama (13B paramater model). Designed a middleware microservice architecture, supporting autocomplete code and test function generation.
+**[Devyan](https://github.com/theyashwanthsai/Devyan)**: A team of agents (Architect, Programmer, Tester, Reviewer) that plans, writes, tests and reviews software from a single prompt. Built before bolt or lovable existed. 290+ stars, and it boosted my career big time!
 
-**[DKVDatastore](https://github.com/theyashwanthsai/DKVDatastore)**: A minimal distributed key-value database written in golang. Uses Raft consensus algorithm
+**[One Person Company](./opb)**: A 24/7 self-hosted team of AI agents running on a Raspberry Pi, with sessions, learnings and memory. They work as my personal research and content agency. [repo](https://github.com/theyashwanthsai/one-person-company)
 
-**[leetArena](https://github.com/theyashwanthsai/leetArena)**: LeetArena is a platform where users can create custom rooms, select LeetCode questions, and compete with their friends. Basically adding multiplayer feature to Leetcode
+**[YAAF2](https://github.com/Turi-Labs/YAAF2)**: A Python framework for scheduled, memory-aware, tool-using agents. Agents are markdown files, tools are plain functions. Successor to [YAAF](https://github.com/Turi-Labs/YAAF).
 
-**[Inventory Management Microservices](https://github.com/theyashwanthsai/Inventory-Microservices)**: Course project for UE21CS351B. Building an Inventory management system using microservice architecture. Using rabbitMQ to perform asynchronous task scheduling. 
+**[wiki-builder](https://github.com/Turi-Labs/wiki-builder)**: Drop in source documents, get a structured, interlinked markdown wiki built by an LLM.
 
-**[TinyExpress](https://github.com/theyashwanthsai/TinyExpress)**: A lightweight and simplified clone of the popular Node.js web application framework, Express.js.
+**[Newsletter Agent](https://github.com/Turi-Labs/Newsletter-Editor-Agents)**: A team of AI agents that runs the official newsletter of [turilabs](https://turilabs.in).
 
-**[Toy Chess Engine](https://github.com/theyashwanthsai/ToyChessEngine)**: Creating my own tiny toy chess engine for fun... and to learn more about chess programming :)
+**[AI-Agent-Learn](https://github.com/Turi-Labs/AI-Agent-Learn)** and **[Mastering-Agentic-AI](https://github.com/theyashwanthsai/Mastering-Agentic-AI)**: Resources, cookbooks and code for building agents with CrewAI, DSPy and MCP.
 
-**[UltraSonicFPS](https://github.com/theyashwanthsai/UltrasonicFPS)**: A 3D Exploration game played using hand gestures.
+**[DocGPTBuilder](https://github.com/theyashwanthsai/DocGPTBuilder)**: A CLI that turns a documentation repo into a single LLM-readable file, for fine-tuning or custom GPTs.
 
-**[Raycasting 3D Engine](https://github.com/theyashwanthsai/raycasting-3d-engine)**: 3D raycasting engine similar to Doom/Wolfenstein made using Python and Pygame.
+**[Twitter-Agent](https://github.com/theyashwanthsai/Twitter-Agent)**: A fun little agent with Twitter access.
 
-**[jungleGPT](https://github.com/theyashwanthsai/jungleGPT)**: Full Stack ML App. Pokedex for real-life animals. User describes an animal he wants to know more about, and the app displays an image and a small description.
+## Learning ML and Systems From Scratch
 
-**[Flight-Fare-Prediction](https://github.com/theyashwanthsai/Flight-Fare-Prediction)**: Predicting the fare of flight tickets using ML, and building a Streamlit web app to implement it.
+**[Learning Intelligence](https://github.com/theyashwanthsai/Learning-Intelligence)**: Implementing important ML research papers to build research intuition.
 
-**[BlogApp Backend](https://github.com/theyashwanthsai/Blog-Backend)**: Express server for my blog app.
+**[tinyLLM](https://github.com/theyashwanthsai/tinyLLM)**: All the code I wrote while reading *Build a Large Language Model from Scratch*. See the [LLM internals series](./llm0).
 
-**[Workout Tracker](https://github.com/theyashwanthsai/Workout-Tracker-Backend)**: Exercise Tracker microservice built with JavaScript, Node.JS, Express, MongoDB, Mongoose.
+**[ToyGrad](https://github.com/theyashwanthsai/ToyGrad)**: Autograd implemented in C.
 
-**[ActionRPG](https://github.com/theyashwanthsai/ActionRPG-Pygame)**: Trying to build my dream action RPG game like Zelda using Python.
+**[GpuMaxxing](https://github.com/theyashwanthsai/GpuMaxxing)**: Learning GPU programming to understand how ML models actually run on the hardware. See [GPUmaxxing 1](./GPUmaxxing_1).
 
-**[Anime Recommendation System](https://github.com/theyashwanthsai/Anime-Recommendation-System)**: A web app built with the help of Streamlit and using the Kaggle dataset to build a simple anime recommendation system.
+**[OS-2](https://github.com/theyashwanthsai/OS-2)**: A hobby operating system in C, running in 32-bit protected mode. The successor to [OS-1](https://github.com/theyashwanthsai/OS-1), a single-tasking, interrupt-driven x86 kernel in assembly. See the [OS devlogs](./osdevlogs/root).
 
-**[Theft Detection System](https://github.com/theyashwanthsai/Theft-Detection_System)**: A project made using Arduino, UltraSonic sensor, PIR sensor which detects any movement within a specific range from the sensor and lights up the LED.
+**[ZenScript](https://github.com/theyashwanthsai/ZenScript)**: A dynamically typed, interpreted language in Python, to understand interpreters and compilers. Later partly rewritten in Rust as [Rusty-ZenScript](https://github.com/theyashwanthsai/Rusty-ZenScript). Before it came a [Pascal interpreter](https://github.com/theyashwanthsai/Pascal-Interpreter) from scratch.
 
-**[First-Person-Shooter](https://github.com/theyashwanthsai/First-Person-Shooter)**: The project is a simple first-person shooter game built using the Ursina game engine and Python programming language.
+**[DKVDatastore](https://github.com/theyashwanthsai/DKVDatastore)**: A minimal distributed key-value database in Go using the Raft consensus algorithm.
 
-**[Snake Game](https://github.com/theyashwanthsai/Snake-Game)**: Here is my implementation of the Snake game in JS. This is part of my journey to learn JS by making games.
+**[Opilot.nvim](https://github.com/theyashwanthsai/opilot.nvim)**: A Copilot clone for neovim using CodeLlama 13B, with a middleware microservice for autocomplete and test generation.
 
-**[CR7 Analysis](https://github.com/theyashwanthsai/CR7-Analysis)**: Exploring the Cristiano Ronaldo dataset from Kaggle and building a website using Streamlit.
+**[TinyReact](https://github.com/theyashwanthsai/TinyReact)** and **[TinyExpress](https://github.com/theyashwanthsai/TinyExpress)**: Minimal clones of React (JSX, rendering, patching, lifecycle) and Express.js.
 
-**[CryptoTwitterBOT](https://github.com/acmpesuecc/TwitterBotCryptocurrencyPrice)**: A Twitter bot that tweets cryptocurrency prices. Made using Tweepy and uses CoinGecko API.
+**[MDcompiler](https://github.com/theyashwanthsai/MDcompiler)** and **[HTTPserver](https://github.com/theyashwanthsai/HTTPserver)**: A Markdown-to-HTML compiler in Rust and an HTTP server in Go.
+
+## Tools
+
+**[Roughcut](https://github.com/theyashwanthsai/roughcut)**: An AI-native, fully local video editor for talking-head videos. Cuts silences, reviews takes, and adds word-synced captions and AI-planned animated inserts. I use it for my Instagram.
+
+**[leetArena](https://github.com/theyashwanthsai/leetArena)**: Custom rooms to compete with friends on LeetCode questions. Basically multiplayer LeetCode. Plus [leetAPI](https://github.com/theyashwanthsai/leetAPI), a small npm package for LeetCode user data.
+
+## Earlier (2021–2023)
+
+Games, ML apps and backend projects from my first years of college:
+
+- **[Toy Chess AI](https://github.com/theyashwanthsai/ToyChessAI)**: Teaching an AI to play chess. Placed 3rd at the MLH Global Hack Week chess competition.
+- **[UltraSonicFPS](https://github.com/theyashwanthsai/UltrasonicFPS)**: A 3D exploration game played using hand gestures.
+- **[Raycasting 3D Engine](https://github.com/theyashwanthsai/raycasting-3d-engine)**: A Doom/Wolfenstein-style raycasting engine in Python and Pygame.
+- **[TopDown2D](https://github.com/theyashwanthsai/TopDown2D)**: A 2D top-down game engine in JavaScript.
+- **[ActionRPG](https://github.com/theyashwanthsai/ActionRPG-Pygame)**, **[First-Person-Shooter](https://github.com/theyashwanthsai/First-Person-Shooter)**, **[Minecraft Clone](https://github.com/theyashwanthsai/Minecraft-Clone-UrsinaEngine)** and **[Snake Game](https://github.com/theyashwanthsai/Snake-Game)**: Learning gamedev by making games.
+- **[jungleGPT](https://github.com/theyashwanthsai/jungleGPT)**: A Pokédex for real-life animals.
+- **[Anime Recommendation System](https://github.com/theyashwanthsai/Anime-Recommendation-System)**, **[Flight-Fare-Prediction](https://github.com/theyashwanthsai/Flight-Fare-Prediction)**, **[Earthquake Prediction](https://github.com/theyashwanthsai/Earthquake-Prediction-Model)** and **[CR7 Analysis](https://github.com/theyashwanthsai/CR7-Analysis)**: My first ML projects, mostly Streamlit apps on Kaggle datasets.
+- **[Inventory Management Microservices](https://github.com/theyashwanthsai/Inventory-Microservices)**, **[Blog Backend](https://github.com/theyashwanthsai/Blog-Backend)** and **[Workout Tracker](https://github.com/theyashwanthsai/Workout-Tracker-Backend)**: Learning backends and microservices with Node, Express, MongoDB and RabbitMQ.
+- **[Theft Detection System](https://github.com/theyashwanthsai/Theft-Detection_System)**: Arduino with ultrasonic and PIR sensors.
+- **[PortScanner](https://github.com/theyashwanthsai/PortScanner)** and **[picoGym CTF writeups](https://github.com/theyashwanthsai/picoGym-CTFs-Writeups)**: From my cybersecurity phase.
+- **[CryptoTwitterBOT](https://github.com/acmpesuecc/TwitterBotCryptocurrencyPrice)**: A Twitter bot that tweets cryptocurrency prices. My first project that went live.
