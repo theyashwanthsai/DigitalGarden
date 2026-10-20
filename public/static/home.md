@@ -18,6 +18,11 @@ I'm an AI engineer and independent researcher based in Bengaluru. I founded [Tur
 
 Full list on the [publications](./publications) page.
 
+## Education
+
+**B.Tech in Computer Science and Engineering**, PES University, Bengaluru *(2021–2025)*<br>
+GPA 8.43/10. Teaching Assistant for *Introduction to Generative AI*. Best Capstone Project award (Panel 6, Capstone Mela, Dept. of CSE).
+
 ## Now
 
 - Building [Harness Dojo](https://harnessdojo.com), a practice platform for harness engineering: the scaffolding, evals and environments around AI agents.
