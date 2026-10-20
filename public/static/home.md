@@ -1,6 +1,6 @@
 # Sai Yashwanth
 
-I'm an AI engineer and independent researcher based in Bengaluru. I founded [Turi Labs](https://www.turilabs.in), an indie AI research lab, where I work with a small group of collaborators on agents, reinforcement learning and LLM reasoning. Before this I spent two years building production AI agents at startups.
+I'm an AI engineer and independent researcher based in Bengaluru. I founded [Turi Labs](https://www.turilabs.in), an indie AI research lab, where I work with a small group of collaborators on agents, reinforcement learning and LLM reasoning.
 
 ## Research Interests
 
