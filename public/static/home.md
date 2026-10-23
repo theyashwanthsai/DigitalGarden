@@ -14,8 +14,10 @@ I'm an AI engineer and independent researcher based in Bengaluru. I founded [Tur
 ## Research Interests
 
 - **RL environments and post-training:** how the design of an environment and its reward signal shapes what a model actually learns, and how to turn expensive offline behaviour into cheap online policies.
-- **Evaluating agents:** closed-loop, executable benchmarks where an agent is graded on whether its actions worked, not on whether its text looks right.
+- **Long-horizon agents:** building, observing, evaluating and guardrailing agents that run for a long time on their own. This includes closed-loop, executable benchmarks where an agent is graded on whether its actions worked, not on whether its text looks right.
 - **Reasoning reliability:** where LLM reasoning breaks down, from logical inconsistency to non-determinism at the level of GPU arithmetic.
+
+I want agents to be safe and reliable on the internet, living alongside humans. I imagine a future with a billion agents smarter than any human who has ever lived, working together to help us build science fiction.
 
 ## Selected Publications
 
