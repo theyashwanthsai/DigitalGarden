@@ -1,6 +1,15 @@
+<div class="hero">
+<img class="hero-photo" src="/sai3.jpeg" alt="Sai Yashwanth" />
+<div class="hero-text">
+
 # Sai Yashwanth
 
 I'm an AI engineer and independent researcher based in Bengaluru. I founded [Turi Labs](https://www.turilabs.in), an indie AI research lab, where I work with a small group of collaborators on agents, reinforcement learning and LLM reasoning.
+
+<p class="hero-meta">B.Tech in Computer Science, PES University (2021–2025)</p>
+
+</div>
+</div>
 
 ## Research Interests
 
@@ -18,16 +27,20 @@ I'm an AI engineer and independent researcher based in Bengaluru. I founded [Tur
 
 Full list on the [publications](./publications) page.
 
-## Education
+## Recent News
 
-**B.Tech in Computer Science and Engineering**, PES University, Bengaluru *(2021–2025)*<br>
-GPA 8.43/10. Teaching Assistant for *Introduction to Generative AI*. Best Capstone Project award (Panel 6, Capstone Mela, Dept. of CSE).
+<div class="news">
 
-## Now
+- **Now** Building [Harness Dojo](https://harnessdojo.com), a practice platform for harness engineering, and co-writing a book on agent engineering.
+- **Sep 2026** [Turi Labs](https://www.turilabs.in) approved for Microsoft for Startups and Claude for Startups.
+- **Jun 2026** Three papers at ICML 2026 workshops: RLRank (DEMO), Executable Ground Truth (CTB) and compositional skill acquisition (CompLearn).
+- **Mar 2026** Paper on floating-point noise in batch-invariant GPU matmul at the ICLR 2026 Sci4DL Workshop.
+- **Dec 2025** Received a $5k USD grant from Thinking Machines Lab for the Tinker API.
+- **Oct 2025** *Reasoning Under Pressure: LLMs in Competitive Pokémon Battles* at the NeurIPS 2025 ER Workshop.
+- **Aug 2025** Graduated from PES University with a B.Tech in Computer Science.
+- **Nov 2024** Started [Turi Labs](https://www.turilabs.in). It began as an online paper-reading call every two weeks; the ideas we kept coming up with turned out to be good, so I started building them with friends.
 
-- Building [Harness Dojo](https://harnessdojo.com), a practice platform for harness engineering: the scaffolding, evals and environments around AI agents.
-- Working on RL environments and agent evals, mostly in the open.
-- Co-writing a book on agent engineering.
+</div>
 
 ## Elsewhere
 
