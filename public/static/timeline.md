@@ -2,6 +2,8 @@
 I started documenting my life right after I started college. I was writing blogs, and was active in the tech part of twitter. This page reflects my journey into CS, and understanding life as well. Its chronological, should read bottom-up. I will be updating it as I go along!
 
 ### 2026
+- Nov: Joined Acto as an AI Researcher, working on AI for the life sciences.
+- Oct: Launched the first public beta of [Harness Dojo](https://harnessdojo.com), a practice platform for harness engineering.
 - July (1st week): Got my first client through inbound for a small gig, and a second proper client through a warm connection. The agency is real now.
 - June/July: Left StartupFuel to build an AI agency.
 - May: 3 papers from Turi Labs accepted at ICML 2026 workshops.
