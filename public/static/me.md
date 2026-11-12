@@ -3,7 +3,7 @@
 
 ![sai](sai3.jpeg)
 
-Hi there! My name is Sai Yashwanth. I'm an engineer, researcher, builder and writer. I love building stuff and writing about it online. I work as an AI Researcher at Acto, where we build AI for the life sciences. I also run an indie AI research lab called [Turi Labs](https://www.turilabs.in), I'm building [Harness Dojo](https://harnessdojo.com), a practice platform for harness engineering, and I'm writing a book on AI agents.
+Hi there! My name is Sai Yashwanth. I'm an engineer, researcher, builder and writer. I love building stuff and writing about it online. I work as an AI Researcher at [Acto](https://acto.com), where we build AI for the life sciences. I also run an indie AI research lab called [Turi Labs](https://www.turilabs.in), I'm building [Harness Dojo](https://harnessdojo.com), a practice platform for harness engineering, and I'm writing a book on AI agents.
 
 I recently discovered that I kind of like teaching. Sharing my knowledge with others. I aim to create content in my style and put it out there.
 

@@ -4,7 +4,7 @@
 
 # Sai Yashwanth
 
-I'm an AI researcher based in Bengaluru, working at Acto on AI for the life sciences. I also founded [Turi Labs](https://www.turilabs.in), an indie AI research lab, where I work with a small group of collaborators on agents, reinforcement learning and LLM reasoning. On the side, I'm building [Harness Dojo](https://harnessdojo.com), a practice platform for harness engineering.
+I'm an AI researcher based in Bengaluru, working at [Acto](https://acto.com) on AI for the life sciences. I also founded [Turi Labs](https://www.turilabs.in), an indie AI research lab, where I work with a small group of collaborators on agents, reinforcement learning and LLM reasoning. On the side, I'm building [Harness Dojo](https://harnessdojo.com), a practice platform for harness engineering.
 
 <p class="hero-meta">B.Tech in Computer Science, PES University (2021–2025)</p>
 
@@ -34,7 +34,7 @@ Full list on the [publications](./publications) page.
 <div class="news">
 
 - **Now** Building [Harness Dojo](https://harnessdojo.com), a practice platform for harness engineering, and co-writing a book on agent engineering.
-- **Nov 2026** Joined Acto as an AI Researcher, working on AI for the life sciences.
+- **Nov 2026** Joined [Acto](https://acto.com) as an AI Researcher, working on AI for the life sciences.
 - **Oct 2026** First public beta of [Harness Dojo](https://harnessdojo.com).
 - **Sep 2026** [Turi Labs](https://www.turilabs.in) approved for Microsoft for Startups and Claude for Startups.
 - **Jun 2026** Three papers at ICML 2026 workshops: RLRank (DEMO), Executable Ground Truth (CTB) and compositional skill acquisition (CompLearn).
