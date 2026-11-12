@@ -1,7 +1,7 @@
 # Me
 
 
-![sai](sai3.jpeg)
+<img src="/sai4.jpeg" alt="Sai Yashwanth" width="360" />
 
 Hi there! My name is Sai Yashwanth. I'm an engineer, researcher, builder and writer. I love building stuff and writing about it online. I work as an AI Researcher at [Acto](https://acto.com), where we build AI for the life sciences. I also run an indie AI research lab called [Turi Labs](https://www.turilabs.in), I'm building [Harness Dojo](https://harnessdojo.com), a practice platform for harness engineering, and I'm writing a book on AI agents.
 
